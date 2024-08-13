@@ -135,7 +135,7 @@ prompt = f"""
 
 ## 致谢
 
-在制作“汉语文本转语音（TTS）数据集”的过程中，我们使用了以下资源和工具：
+在制作“汉语文本转语音（TTS）数据集”的过程中，我们使用了以下资源或工具：
 
 - [普通话学习网](http://www.pthxx.com/b_audio/01_langdu_1/index_2.html) 提供的普通话水平测试内容。
 - [字频语料库（25亿字）](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm) 提供的汉语字频统计数据。
@@ -145,4 +145,155 @@ prompt = f"""
 - [《现代汉语词典》第7版数据](https://github.com/CNMan/XDHYCD7th) 提供的现代汉语词汇数据。
 - 多个版本的现代汉语教材，包括《现代汉语》（邢福义版）、《普通话水平测试指导用书》（江苏版）、《普通话测试与培训教程》（科学出版社）、《普通话水平测试教程》（原子能出版社）。
 
-我们对这些资源的贡献者表示衷心的感谢。
+在此，我们对相关数据的贡献者表示衷心的感谢。
+
+---
+
+# Chinese Text-to-Speech (TTS) Dataset
+
+An efficient TTS dataset constructed based on linguistic ontology, covering various phenomena in Chinese, such as polyphonic characters and phonological changes.
+
+---
+
+## Dataset Overview
+
+The Chinese TTS dataset is a **comprehensive test set built on linguistic ontology**, designed for testing and evaluating the accuracy and naturalness of text-to-speech (TTS) frontend systems. It covers various phonetic phenomena in Chinese, including Mandarin proficiency tests, polyphonic characters, phonological changes, mixed Chinese-English text, and the handling of special symbols and numbers. This comprehensive test set allows for the systematic identification and correction of potential issues in TTS frontend systems, ensuring natural and accurate speech output.
+
+## Dataset Uses
+
+1. **TTS System Evaluation and Optimization**: Systematically evaluate and optimize TTS frontend systems' performance across various phonetic phenomena, including pronunciation naturalness and robustness, to ensure high-quality speech output.
+
+2. **Pronunciation Accuracy Verification**: Test and refine TTS systems' accuracy in complex pronunciation scenarios involving polyphonic characters and phonological changes, ensuring context-sensitive correct pronunciation.
+
+3. **Special Text Handling Capability Testing**: Assess TTS systems' performance in processing mixed Chinese-English texts, special symbols, and numbers, ensuring broad applicability in multilingual environments and edge cases.
+
+4. **Linguistic Research and Educational Tool Development**: Support linguistic research and educational software development by analyzing Chinese pronunciation phenomena and providing correct pronunciation guidance for learners.
+
+5. **Voice Interaction System Testing**: Test TTS modules in voice assistants, smart devices, and automated customer service systems, ensuring consistency and high-quality performance across diverse text input scenarios.
+
+## File Descriptions
+
+| Filename                           | Description                                       | Size |
+| --------------------------------- | ------------------------------------------------- | ---- |
+| Chinese Mandarin Proficiency Test.json | Texts from Mandarin proficiency tests, 60 pieces. | Medium |
+| Chinese Phonological Changes.json | Texts covering phonological changes, including tone changes, light tones, retroflex endings, and "ah" tone changes. | Medium |
+| Chinese Polyphonic Characters.json | Texts with polyphonic characters, based on frequency statistics. | Medium |
+| Mixed Chinese and English Text.json | Texts with mixed Chinese and English, based on Google trillion-word corpus n-gram frequency analysis. | Medium |
+| Special Symbols and Numbers.json | Texts with special symbols, including phone numbers, measurement units, currency units, dates, times, and mathematical symbols. | Medium |
+| TTS_Test.json                     | A 10,000-character test set extracted from the above 5 parts. | Small |
+| TTS_Test.txt                      | Text content from TTS_Test.json file.             | Small |
+
+## Dataset Format
+
+### TTS_Test.json Format
+
+The data includes the following parts:
+
+| Data Part               | Extraction Method | Sentence Count | Total Characters | Average Sentence Length (Characters) |
+| ---------------------- | ------------------ | -------------- | ---------------- | ----------------------------------- |
+| Mandarin Proficiency Test | Random Sampling    | 128            | 4000             | 31.25                               |
+| Phonological Changes   | Random Sampling    | 148            | 3999             | 27.02                               |
+| Polyphonic Characters  | Frequency-based    | 155            | 3984             | 25.70                               |
+| Special Symbols and Numbers | Random Sampling    | 118            | 4000             | 26.67                               |
+| Mixed Chinese and English | Frequency-based    | 193            | 3993             | 20.69                               |
+
+```markdown
+{
+  "id": "000039",  # Sentence ID
+  "source": "Chinese Phonological Changes_Light Tone",  # Test set component
+  "words": [ "打量 dǎliang", "关系 guānxi" ],  # Key pronunciation words
+  "text": "她用怀疑的眼神打量着他，两人之间的关系似乎变得微妙起来。",  # Test text
+  "pinyin": "ta1 yong4 huai2 yi2 de yan3 shen2 da3 liang4 zhe ta1 ， liang3 ren2 zhi1 jian1 de guan1 xi4 si4 hu1 bian4 de2 wei1 miao4 qi3 lai2 。"  # Pinyin with tones
+}
+```
+
+### Dataset Part Descriptions
+
+| Filename                          | Dataset Part                   | Content | Source | Purpose | Total Sentences | Total Characters | Average Sentence Length (Characters) |
+| -------------------------------- | ------------------------------ | ------- | ------ | ------- | ---------------- | ---------------- | ----------------------------------- |
+| **Chinese Mandarin Proficiency Test.json** | Mandarin Proficiency Test      | Texts from Mandarin reading materials, 60 pieces. | Mandarin Learning Network | Comprehensive testing of TTS system performance in standard Mandarin, including pronunciation accuracy, intonation naturalness, rhythm, and prosody. Identifies issues in standard Mandarin processing. | 1013 | 31899 | 31.49 |
+| **Chinese Polyphonic Characters.json** | Polyphonic Characters          | Covers polyphonic characters appearing more than 10 times per million characters, based on a 2.5 billion character frequency corpus. | Modern Chinese Dictionary 7th Edition | Evaluates TTS system accuracy in handling polyphonic characters. Errors in polyphonic characters significantly affect naturalness and comprehensibility. Identifies issues in context judgment and pronunciation prediction. | 402 | 10435 | 25.96 |
+| **Chinese Phonological Changes.json** | Phonological Changes           | Includes tone changes, light tones, retroflex endings, and "ah" tone changes, covering most phonological changes in Chinese. | Modern Chinese textbooks summarization | Tests TTS system performance in handling phonological changes. Proper handling is crucial for generating natural, fluent speech. Identifies issues in phonological change processing. | 683 | 17645 | 25.83 |
+| **Mixed Chinese and English Text.json** | Mixed Chinese-English Text     | Texts based on word frequency analysis from Google trillion-word corpus. | Mixed Chinese-English Corpus ASRU Test Set | Evaluates TTS system performance in processing mixed Chinese-English text. Systems need to handle and pronounce mixed texts accurately for smooth language switching. | 3696 | 70717 | 19.13 |
+| **Special Symbols and Numbers.json** | Special Symbols and Numbers    | Includes phone numbers, measurement units, currency units, dates, times, mathematical symbols, etc. | GitHub Open Source Corpus | Tests TTS system accuracy and naturalness in handling special symbols and numbers. Accurate recognition and pronunciation are crucial for frequent symbols and numbers. | 281 | 7308 | 26.01 |
+
+## Dataset Advantages
+
+1. **Comprehensive Coverage Based on Linguistic Ontology**: The dataset covers polyphonic characters, phonological changes, mixed Chinese-English texts, special symbols, and numbers, ensuring thorough testing across various pronunciation scenarios.
+
+2. **Efficient Problem Detection and Correction**: With an average sentence length of less than 30 characters, issues are detected more quickly and accurately. Short sentences highlight TTS system issues and provide a comprehensive test coverage with less text.
+
+3. **Real-world Application Scenarios**: Focuses on key pronunciation and text processing scenarios in Chinese, including standard Mandarin, polyphonic characters, phonological changes, mixed texts, and special symbols, ensuring excellent performance in practical applications.
+
+4. **Balanced Data Distribution**: Data is selected using random, categorical, and frequency-based methods to ensure a balanced and comprehensive distribution, maximizing test coverage.
+
+## Dataset Construction Process
+![Chinese TTS Test Set (Polyphonic Characters) Construction Process](https://github.com/danielwei0214/Chinese-TTS-Dataset/blob/main/Chinese%20TTS%20Test%20Set%20(Polyphonic%20Characters)%20Construction%20Process.png)
+
+### Large Model Data Generation Prompts
+
+#### Chinese Polyphonic Characters & Phonological Changes
+```markdown
+prompt = f"""
+你是一个中文语言学家和高级造句专家，擅长用词造句，直到达到最高的中文语言水平。
+首先了解每个词语的语义和拼音，（括号内为其语义提示），思考其可能出现的上下文语境；
+其次找到词语的最佳使用语境及联系（显示或隐含联系，如词性，主题，场景等），达到语义语用相统一；
+最后参考示例，根据语义读音及提示，逐步思考使用词语造句；确保符合中文表达习惯，避免用词不当，没有语法错误，表达自然流畅。
+要求必须包含列表中的词语，每个词语仅使用一次，不要重复使用，长度要求不超过50汉字字符。
+示例：{{"words": ["搬起石头砸自己的脚 bānqǐshítouzázìjǐdejiǎo", "的确 díquè", "众矢之的 zhòngshǐzhīdì"],"text": "他这么做，的确是搬起石头砸自己的脚，成了众矢之的。"}}
+
+词语：```{prompt_words}``` 
+
+注意：只能输出json格式内容，包含words和text键值，words值为列表，不能输出其他无关内容。必须包含列表中的词语。
+"""
+```
+
+#### Special Symbols and Numbers
+```markdown
+prompt = f"""
+你是一个中文语言学家和高级造句专家，擅长用特殊符号及数字造句，直到达到最高的中文语言水平。
+首先了解每个特殊符号/数字的语义，（括号内为其汉字读法，text输出不能包含括号及其内容），思考其可能出现的上下文语境；
+其次找到特殊符号/数字的最佳使用语境及联系（显示或隐含联系，如词性，主题，场景等），达到语义语用相统一；
+最后参考示例，根据语义及汉字读法，逐步思考使用其进行造句；确保符合中文表达习惯，避免用词不当，没有语法错误，表达自然流畅。
+要求必须包含列表中的特殊符号或数字，每个仅使用一次，不要重复使用，长度要求不超过50汉字字符。
+示例：
+{{"words": ["℃  (摄氏度)"],"text": "今天的气温高达30℃，太热了！"}}
+{{ "words": ["给12315打个电话  (给幺二三幺五打个电话)"], "text": "如果遇到消费纠纷，不妨给12315打个电话寻求帮助。"}}
+
+词语：```{prompt_words}``` 
+
+注意：只能输出json格式内容，包含words和text键值，words值为列表。输出的words需保留其源编码格式，要求必须包含列表中的特殊符号或数字
+
+不能输出其他无关内容。
+"""
+```
+## License and Citation
+
+**License**
+
+This dataset is distributed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to use and share the dataset with proper attribution, for non-commercial purposes only.
+
+**Citation**
+
+If you use the "Chinese TTS Dataset" in research or other projects, please acknowledge the source and use the following citation format:
+
+```markdown
+Chinese Text-to-Speech (TTS) Dataset:  
+[https://github.com/danielwei0214/Chinese-TTS-Dataset]
+```
+
+Appropriate citation helps enhance the dataset's impact and supports further research and development.
+
+## Acknowledgments
+
+The following resources and tools were used in creating the "Chinese Text-to-Speech (TTS) Dataset":
+
+- [Mandarin Learning Network](http://www.pthxx.com/b_audio/01_langdu_1/index_2.html) for Mandarin proficiency test content.
+- [2.5 Billion Character Frequency Corpus](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm) for Chinese character frequency statistics.
+- [Mixed Chinese-English Corpus ASRU Test Set](https://www.datatang.com/competition) for mixed text data.
+- [Google Trillion Word Corpus](https://github.com/first20hours/google-10000-english) for n-gram frequency analysis data.
+- [GitHub Special Symbols Corpus](https://github.com/wenet-e2e/WeTextProcessing) for special symbols and numbers data.
+- [7th Edition of Modern Chinese Dictionary](https://github.com/CNMan/XDHYCD7th) for modern Chinese vocabulary data.
+- Various editions of Modern Chinese textbooks, including "Modern Chinese" (Xing Fuyi Edition), "Mandarin Proficiency Test Guide" (Jiangsu Edition), "Mandarin Test and Training Tutorial" (Science Press), and "Mandarin Proficiency Test Tutorial" (Atomic Energy Press).
+
+We extend our sincere thanks to contributors of related data.
