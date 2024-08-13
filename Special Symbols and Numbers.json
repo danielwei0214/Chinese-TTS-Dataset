@@ -1,0 +1,2535 @@
+[
+    {
+        "id": "000001",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "IP地址是127.0.0.1  （IP地址是一二七点零点零点一)"
+        ],
+        "text": "在网络设置中，IP地址是127.0.0.1，是本地主机地址，用于进行本地通信。",
+        "pinyin": "zai4 wang3 luo4 she4 zhi4 zhong1 ，IP di4 zhi3 shi4 127.0.0.1， shi4 ben3 di4 zhu3 ji1 di4 zhi3 ， yong4 yu2 jin4 xing2 ben3 di4 tong1 xin4 。"
+    },
+    {
+        "id": "000002",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "中国1-2  (中国一比二)"
+        ],
+        "text": "在比赛中，中国1-2落后，但队员们仍然全力以赴，希望能够扭转局势。",
+        "pinyin": "zai4 bi3 sai4 zhong1 ， zhong1 guo2 1-2 luo4 hou4 ， dan4 dui4 yuan2 men reng2 ran2 quan2 li4 yi3 fu4 ， xi1 wang4 neng2 gou4 niu3 zhuan3 ju2 shi4 。"
+    },
+    {
+        "id": "000003",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "爆冷0:1  (爆冷零比一)"
+        ],
+        "text": "这场比赛结果出乎意料，客队竟然爆冷0:1战胜了主队。",
+        "pinyin": "zhe4 chang3 bi3 sai4 jie2 guo3 chu1 hu1 yi4 liao4 ， ke4 dui4 jing4 ran2 bao4 leng3 0:1 zhan4 sheng4 le zhu3 dui4 。"
+    },
+    {
+        "id": "000004",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "拉齐奥 2/2  (拉齐奥二比二)"
+        ],
+        "text": "拉齐奥在比赛中以2/2战平对手，表现出色。",
+        "pinyin": "la1 qi2 ao4 zai4 bi3 sai4 zhong1 yi3 2/2 zhan4 ping2 dui4 shou3 ， biao3 xian4 chu1 se4 。"
+    },
+    {
+        "id": "000005",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "比分定格在78:96  (比分定格在七十八比九十六)"
+        ],
+        "text": "经过激烈比拼，最终比分定格在78:96，对手实力强大，我们需继续努力提升。",
+        "pinyin": "jing1 guo4 ji1 lie4 bi3 pin1 ， zui4 zhong1 bi3 fen1 ding4 ge2 zai4 78:96， dui4 shou3 shi2 li4 qiang2 da4 ， wo3 men xu1 ji4 xu4 nu3 li4 ti2 sheng1 。"
+    },
+    {
+        "id": "000006",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "O2O  (O to O)"
+        ],
+        "text": "现代商业模式中，O2O服务将线上线下紧密结合，为消费者带来更便捷的购物体验。",
+        "pinyin": "xian4 dai4 shang1 ye4 mo2 shi4 zhong1 ，O2O fu2 wu4 jiang1 xian4 shang4 xian4 xia4 jin3 mi4 jie2 he2 ， wei4 xiao1 fei4 zhe3 dai4 lai2 geng4 bian4 jie2 de gou4 wu4 ti3 yan4 。"
+    },
+    {
+        "id": "000007",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "B2B  (B to B)"
+        ],
+        "text": "这家公司专注于B2B领域，为企业提供高效的商业解决方案。",
+        "pinyin": "zhe4 jia1 gong1 si1 zhuan1 zhu4 yu2 B2B ling3 yu4 ， wei4 qi3 ye4 ti2 gong1 gao1 xiao4 de shang1 ye4 jie3 jue2 fang1 an4 。"
+    },
+    {
+        "id": "000008",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "B2C  (B to C)"
+        ],
+        "text": "这家电商平台主要是B2C模式，直接面向消费者销售商品。",
+        "pinyin": "zhe4 jia1 dian4 shang1 ping2 tai2 zhu3 yao4 shi4 B2C mo2 shi4 ， zhi2 jie1 mian4 xiang4 xiao1 fei4 zhe3 xiao1 shou4 shang1 pin3 。"
+    },
+    {
+        "id": "000009",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "90后  (九零后)"
+        ],
+        "text": "这部电影讲述了一群90后的青春故事，引起了观众们的共鸣。",
+        "pinyin": "zhe4 bu4 dian4 ying3 jiang3 shu4 le yi1 qun2 90 hou4 de qing1 chun1 gu4 shi4 ， yin3 qi3 le guan1 zhong4 men de gong4 ming2 。"
+    },
+    {
+        "id": "000010",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "10后  (一零后)"
+        ],
+        "text": "那位10后的年轻人在音乐领域取得了巨大成功，备受瞩目。",
+        "pinyin": "na4 wei4 10 hou4 de nian2 qing1 ren2 zai4 yin1 yue4 ling3 yu4 qu3 de le ju4 da4 cheng2 gong1 ， bei4 shou4 zhu3 mu4 。"
+    },
+    {
+        "id": "000011",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "00后  (零零后)"
+        ],
+        "text": "这部电影引起了00后观众的热烈讨论，展现了新一代年轻人的生活态度。",
+        "pinyin": "zhe4 bu4 dian4 ying3 yin3 qi3 le 00 hou4 guan1 zhong4 de re4 lie4 tao3 lun4 ， zhan3 xian4 le xin1 yi2 dai4 nian2 qing1 ren2 de sheng1 huo2 tai4 du4 。"
+    },
+    {
+        "id": "000012",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "90后  (九零后)"
+        ],
+        "text": "这部电影讲述了一群90后的青春故事，引起了观众们的共鸣。",
+        "pinyin": "zhe4 bu4 dian4 ying3 jiang3 shu4 le yi1 qun2 90 hou4 de qing1 chun1 gu4 shi4 ， yin3 qi3 le guan1 zhong4 men de gong4 ming2 。"
+    },
+    {
+        "id": "000013",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "80后  (八零后)"
+        ],
+        "text": "这部电影讲述了一群80后的青春故事，引发了观众们对年少时光的深思。",
+        "pinyin": "zhe4 bu4 dian4 ying3 jiang3 shu4 le yi1 qun2 80 hou4 de qing1 chun1 gu4 shi4 ， yin3 fa1 le guan1 zhong4 men dui4 nian2 shao4 shi2 guang1 de shen1 si1 。"
+    },
+    {
+        "id": "000014",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "70后  (七零后)"
+        ],
+        "text": "那位作家是一位70后，他的作品充满了对过去时光的怀念与情感。",
+        "pinyin": "na4 wei4 zuo4 jia1 shi4 yi1 wei4 70 hou4 ， ta1 de zuo4 pin3 chong1 man3 le dui4 guo4 qu4 shi2 guang1 de huai2 nian4 yu3 qing2 gan3 。"
+    },
+    {
+        "id": "000015",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "60后  (六零后)"
+        ],
+        "text": "那位作家是一位典型的60后，他的作品充满了对那个时代的怀念和独特见解。",
+        "pinyin": "na4 wei4 zuo4 jia1 shi4 yi1 wei4 dian3 xing2 de 60 hou4 ， ta1 de zuo4 pin3 chong1 man3 le dui4 na4 ge4 shi2 dai4 de huai2 nian4 he2 du2 te4 jian4 jie3 。"
+    },
+    {
+        "id": "000016",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "50后  (五零后)"
+        ],
+        "text": "那位作家是一位著名的50后作家，代表着那个时代的文学风貌。",
+        "pinyin": "na4 wei4 zuo4 jia1 shi4 yi1 wei4 zhu4 ming2 de 50 hou4 zuo4 jia1 ， dai4 biao3 zhe na4 ge4 shi2 dai4 de wen2 xue2 feng1 mao4 。"
+    },
+    {
+        "id": "000017",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "８幢  (八幢)"
+        ],
+        "text": "建成中式平屋８幢，分别作为门诊室，内、外科病房，手术室、戒烟室、宿舍、洗衣房及厨房。",
+        "pinyin": "jian4 cheng2 zhong1 shi4 ping2 wu1 ８ chuang2 ， fen1 bie2 zuo4 wei2 men2 zhen3 shi4 ， nei4 、 wai4 ke1 bing4 fang2 ， shou3 shu4 shi4 、 jie4 yan1 shi4 、 su4 she4 、 xi3 yi1 fang2 ji2 chu2 fang2 。"
+    },
+    {
+        "id": "000018",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "8年  (八年)",
+            "３０００万  (三千万)"
+        ],
+        "text": "世界历史历时8年制作，耗资３０００万，是中国大陆第一部采用高清晰数字技术拍摄的世界历史纪录片。",
+        "pinyin": "shi4 jie4 li4 shi3 li4 shi2 8 nian2 zhi4 zuo4 ， hao4 zi1 ３０００ wan4 ， shi4 zhong1 guo2 da4 lu4 di4 yi1 bu4 cai3 yong4 gao1 qing1 xi1 shu4 zi4 ji4 shu4 pai1 she4 de shi4 jie4 li4 shi3 ji4 lu4 pian4 。"
+    },
+    {
+        "id": "000019",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "４公里  (四公里)",
+            "０.５公里  (零点五公里)"
+        ],
+        "text": "范蠡公园，又名牛尾山公园，位于河南省南阳市淅川县县城东南方位，呈东西走向，山体长４公里，宽０.５公里",
+        "pinyin": "fan4 li3 gong1 yuan2 ， you4 ming2 niu2 wei3 shan1 gong1 yuan2 ， wei4 yu2 he2 nan2 sheng3 nan2 yang2 shi4 xi1 chuan1 xian4 xian4 cheng2 dong1 nan2 fang1 wei4 ， cheng2 dong1 xi1 zou3 xiang4 ， shan1 ti3 zhang3 ４ gong1 li3 ， kuan1 ０.５ gong1 li3"
+    },
+    {
+        "id": "000020",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "28平方公里  (二十八平方公里)",
+            "５万  (五万)"
+        ],
+        "text": "高新技术开发区：28平方公里，人口不到５万。",
+        "pinyin": "gao1 xin1 ji4 shu4 kai1 fa1 qu1 ：28 ping2 fang1 gong1 li3 ， ren2 kou3 bu2 dao4 ５ wan4 。"
+    },
+    {
+        "id": "000021",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "1992年１月29日  (一九九二年一月二十九日)"
+        ],
+        "text": "1992年１月29日俄罗斯总统叶利钦签署命令，成立俄罗斯原子能部。",
+        "pinyin": "1992 nian2 １ yue4 29 ri4 e2 luo2 si1 zong3 tong3 ye4 li4 qin1 qian1 shu3 ming4 ling4 ， cheng2 li4 e2 luo2 si1 yuan2 zi3 neng2 bu4 。"
+    },
+    {
+        "id": "000022",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "46℃  (四十六摄氏度）",
+            "７℃  (七摄氏度)"
+        ],
+        "text": "四季不很明显，夏季炎热漫长，最高气温可达46℃；冬季凉爽干燥，最低气温７℃。",
+        "pinyin": "si4 ji4 bu4 hen3 ming2 xian3 ， xia4 ji4 yan2 re4 man4 chang2 ， zui4 gao1 qi4 wen1 ke3 da2 46℃； dong1 ji4 liang2 shuang3 gan1 zao4 ， zui4 di1 qi4 wen1 ７℃。"
+    },
+    {
+        "id": "000023",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "３９番外篇  (三十九番外篇)"
+        ],
+        "text": "在３９番外篇中提到已死。",
+        "pinyin": "zai4 ３９ fan1 wai4 pian1 zhong1 ti2 dao4 yi3 si3 。"
+    },
+    {
+        "id": "000024",
+        "source": "特殊符号及数字_其他",
+        "words": [
+            "２００７年  (二零零七年)"
+        ],
+        "text": "２００７年开张的漂流活动，更为风景区内的发展增添活力。",
+        "pinyin": "２００７ nian2 kai1 zhang1 de piao1 liu2 huo2 dong4 ， geng4 wei2 feng1 jing3 qu1 nei4 de fa1 zhan3 zeng1 tian1 huo2 li4 。"
+    },
+    {
+        "id": "000025",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "amu  (原子质量)"
+        ],
+        "text": "氢的原子质量约为1amu，是最轻的元素之一。",
+        "pinyin": "qing1 de yuan2 zi zhi4 liang4 yue1 wei4 1amu， shi4 zui4 qing1 de yuan2 su4 zhi1 yi1 。"
+    },
+    {
+        "id": "000026",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cm2  (平方厘米)"
+        ],
+        "text": "这块地的面积约为100cm2，适合种植一些小型植物。",
+        "pinyin": "zhe4 kuai4 di4 de mian4 ji1 yue1 wei4 100cm2， shi4 he2 zhong4 zhi2 yi1 xie1 xiao3 xing2 zhi2 wu4 。"
+    },
+    {
+        "id": "000027",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cm²  (平方厘米)"
+        ],
+        "text": "这块地的面积约为100cm²，适合种植一些小型植物。",
+        "pinyin": "zhe4 kuai4 di4 de mian4 ji1 yue1 wei4 100cm²， shi4 he2 zhong4 zhi2 yi1 xie1 xiao3 xing2 zhi2 wu4 。"
+    },
+    {
+        "id": "000028",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cm3  (立方厘米)"
+        ],
+        "text": "这个容器的容积为10cm3，可以装下很多小物件。",
+        "pinyin": "zhe4 ge4 rong2 qi4 de rong2 ji1 wei4 10cm3， ke3 yi3 zhuang1 xia4 hen3 duo1 xiao3 wu4 jian4 。"
+    },
+    {
+        "id": "000029",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cm³  (立方厘米)"
+        ],
+        "text": "这个容器的容积为10cm³，可以装下很多小颗粒。",
+        "pinyin": "zhe4 ge4 rong2 qi4 de rong2 ji1 wei4 10cm³， ke3 yi3 zhuang1 xia4 hen3 duo1 xiao3 ke1 li4 。"
+    },
+    {
+        "id": "000030",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cm  (厘米)"
+        ],
+        "text": "这条鱼有20cm长，是我们钓鱼比赛中最大的一条。",
+        "pinyin": "zhe4 tiao2 yu2 you3 20cm zhang3 ， shi4 wo3 men diao4 yu2 bi3 sai4 zhong1 zui4 da4 de yi1 tiao2 。"
+    },
+    {
+        "id": "000031",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "cwt  (美担)"
+        ],
+        "text": "这批货物的重量达到了一百cwt，需要用美担来计量。",
+        "pinyin": "zhe4 pi1 huo4 wu4 de zhong4 liang4 da2 dao4 le yi4 bai3 cwt， xu1 yao4 yong4 mei3 dan1 lai2 ji4 liang4 。"
+    },
+    {
+        "id": "000032",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "°c  (摄氏度)"
+        ],
+        "text": "今天的最高气温达到25°C，适合出门散步。",
+        "pinyin": "jin1 tian1 de zui4 gao1 qi4 wen1 da2 dao4 25°C， shi4 he2 chu1 men2 san4 bu4 。"
+    },
+    {
+        "id": "000033",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "°C  (摄氏度)"
+        ],
+        "text": "今天室外温度达到25°C，适合户外活动。",
+        "pinyin": "jin1 tian1 shi4 wai4 wen1 du4 da2 dao4 25°C， shi4 he2 hu4 wai4 huo2 dong4 。"
+    },
+    {
+        "id": "000034",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "℃  (摄氏度)"
+        ],
+        "text": "今天的气温降至0℃以下，寒冷异常。",
+        "pinyin": "jin1 tian1 de qi4 wen1 jiang4 zhi4 0℃ yi3 xia4 ， han2 leng3 yi4 chang2 。"
+    },
+    {
+        "id": "000035",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "db  (分贝)"
+        ],
+        "text": "音乐会现场的声音达到120db，震撼而动人。",
+        "pinyin": "yin1 yue4 hui4 xian4 chang3 de sheng1 yin1 da2 dao4 120db， zhen4 han4 er2 dong4 ren2 。"
+    },
+    {
+        "id": "000036",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "dm3  (立方分米)"
+        ],
+        "text": "这个容器的容积为5dm3，可以装下很多水。",
+        "pinyin": "zhe4 ge4 rong2 qi4 de rong2 ji1 wei4 5dm3， ke3 yi3 zhuang1 xia4 hen3 duo1 shui3 。"
+    },
+    {
+        "id": "000037",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "dm³  (立方分米)"
+        ],
+        "text": "这个容器的容积为5dm³，可以装下很多水。",
+        "pinyin": "zhe4 ge4 rong2 qi4 de rong2 ji1 wei4 5dm³， ke3 yi3 zhuang1 xia4 hen3 duo1 shui3 。"
+    },
+    {
+        "id": "000038",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "dm  (分米)"
+        ],
+        "text": "这条绳子长约2dm，足够用来测量小物体的长度。",
+        "pinyin": "zhe4 tiao2 sheng2 zi zhang3 yue1 2dm， zu2 gou4 yong4 lai2 ce4 liang2 xiao3 wu4 ti3 de chang2 du4 。"
+    },
+    {
+        "id": "000039",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ds  (毫秒)"
+        ],
+        "text": "这款游戏的反应速度仅为10ds，需要更快的操作才能取得胜利。",
+        "pinyin": "zhe4 kuan3 you2 xi4 de fan3 ying4 su4 du4 jin3 wei4 10ds， xu1 yao4 geng4 kuai4 de cao1 zuo4 cai2 neng2 qu3 de sheng4 li4 。"
+    },
+    {
+        "id": "000040",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ft  (英尺)"
+        ],
+        "text": "这栋建筑高度达到了100ft，是城市的标志性建筑之一。",
+        "pinyin": "zhe4 dong4 jian4 zhu4 gao1 du4 da2 dao4 le 100ft， shi4 cheng2 shi4 de biao1 zhi4 xing4 jian4 zhu4 zhi1 yi1 。"
+    },
+    {
+        "id": "000041",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "°f  (华氏度)"
+        ],
+        "text": "明天的最高气温预计将达到80°F，天气会比较炎热。",
+        "pinyin": "ming2 tian1 de zui4 gao1 qi4 wen1 yu4 ji4 jiang1 da2 dao4 80°F， tian1 qi4 hui4 bi3 jiao4 yan2 re4 。"
+    },
+    {
+        "id": "000042",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "°F  (华氏度)"
+        ],
+        "text": "明天的最高气温将达80°F，是一个适合出游的好天气。",
+        "pinyin": "ming2 tian1 de zui4 gao1 qi4 wen1 jiang1 da2 80°F， shi4 yi2 ge4 shi4 he2 chu1 you2 de hao3 tian1 qi4 。"
+    },
+    {
+        "id": "000043",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "℉  (华氏度)"
+        ],
+        "text": "今天气温达到了80℉，真是一个温暖的春日。",
+        "pinyin": "jin1 tian1 qi4 wen1 da2 dao4 le 80℉， zhen1 shi4 yi2 ge4 wen1 nuan3 de chun1 ri4 。"
+    },
+    {
+        "id": "000044",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "gb  (吉字节)"
+        ],
+        "text": "这款新手机内存达到128gb，存储空间非常充裕。",
+        "pinyin": "zhe4 kuan3 xin1 shou3 ji1 nei4 cun2 da2 dao4 128gb， cun2 chu3 kong1 jian1 fei1 chang2 chong1 yu4 。"
+    },
+    {
+        "id": "000045",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ghz  (吉赫兹)"
+        ],
+        "text": "新款处理器主频高达3.5ghz，性能强劲，运行流畅。",
+        "pinyin": "xin1 kuan3 chu3 li3 qi4 zhu3 pin2 gao1 da2 3.5ghz， xing4 neng2 qiang2 jing4 ， yun4 xing2 liu2 chang4 。"
+    },
+    {
+        "id": "000046",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "gwh  (吉瓦时)"
+        ],
+        "text": "这家工厂每天消耗电力高达1000gwh，为了节约能源，应该采取有效措施。",
+        "pinyin": "zhe4 jia1 gong1 chang3 mei3 tian1 xiao1 hao4 dian4 li4 gao1 da2 1000gwh， wei4 le jie2 yue1 neng2 yuan2 ， ying1 gai1 cai3 qu3 you3 xiao4 cuo4 shi1 。"
+    },
+    {
+        "id": "000047",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "gw  (吉瓦)"
+        ],
+        "text": "这座建筑的耗电量高达1000gw，节能意识亟待提高。",
+        "pinyin": "zhe4 zuo4 jian4 zhu4 de hao4 dian4 liang4 gao1 da2 1000gw， jie2 neng2 yi4 shi2 ji2 dai4 ti2 gao1 。"
+    },
+    {
+        "id": "000048",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "h  (小时)"
+        ],
+        "text": "他每天花费8h学习中文，坚持不懈，终于取得了显著进步。",
+        "pinyin": "ta1 mei3 tian1 hua1 fei4 8h xue2 xi2 zhong1 wen2 ， jian1 chi2 bu4 xie4 ， zhong1 yu2 qu3 de le xian3 zhu4 jin4 bu4 。"
+    },
+    {
+        "id": "000049",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ha  (公顷)"
+        ],
+        "text": "这块土地面积约为10ha，足够建设一个大型农场。",
+        "pinyin": "zhe4 kuai4 tu3 di4 mian4 ji1 yue1 wei4 10ha， zu2 gou4 jian4 she4 yi2 ge4 da4 xing2 nong2 chang3 。"
+    },
+    {
+        "id": "000050",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "hz  (赫兹)"
+        ],
+        "text": "这台电脑显示器的刷新率高达144hz，画面流畅细腻。",
+        "pinyin": "zhe4 tai2 dian4 nao3 xian3 shi4 qi4 de shua1 xin1 lv4 gao1 da2 144hz， hua4 mian4 liu2 chang4 xi4 ni4 。"
+    },
+    {
+        "id": "000051",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kbps  (千比特每秒)"
+        ],
+        "text": "这家网络提供商承诺的网速可达1000kbps，但实际上只有一半。",
+        "pinyin": "zhe4 jia1 wang3 luo4 ti2 gong1 shang1 cheng2 nuo4 de wang3 su4 ke3 da2 1000kbps， dan4 shi2 ji4 shang4 zhi3 you3 yi2 ban4 。"
+    },
+    {
+        "id": "000052",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kcal  (千卡)"
+        ],
+        "text": "这份巧克力蛋糕的热量高达500kcal，要控制好摄入哦！",
+        "pinyin": "zhe4 fen4 qiao3 ke4 li4 dan4 gao1 de re4 liang4 gao1 da2 500kcal， yao4 kong4 zhi4 hao3 she4 ru4 o2 ！"
+    },
+    {
+        "id": "000053",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kgf  (千克力)"
+        ],
+        "text": "他用kgf的力量成功地拉开了那扇沉重的门。",
+        "pinyin": "ta1 yong4 kgf de li4 liang4 cheng2 gong1 di4 la1 kai1 le na4 shan4 chen2 zhong4 de men2 。"
+    },
+    {
+        "id": "000054",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kg  (千克)"
+        ],
+        "text": "这个西瓜重达5kg，看来很新鲜！",
+        "pinyin": "zhe4 ge4 xi1 gua1 zhong4 da2 5kg， kan4 lai2 hen3 xin1 xian1 ！"
+    },
+    {
+        "id": "000055",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "khz  (千赫兹)"
+        ],
+        "text": "这款收音机的频率范围覆盖广泛，最高可达108 khz，收音效果非常清晰。",
+        "pinyin": "zhe4 kuan3 shou1 yin1 ji1 de pin2 lv4 fan4 wei2 fu4 gai4 guang3 fan4 ， zui4 gao1 ke3 da2 108 khz， shou1 yin1 xiao4 guo3 fei1 chang2 qing1 xi1 。"
+    },
+    {
+        "id": "000056",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "km2  (平方千米)"
+        ],
+        "text": "这座城市的面积达到1000km2，是一个宽广而又充满活力的地方。",
+        "pinyin": "zhe4 zuo4 cheng2 shi4 de mian4 ji1 da2 dao4 1000km2， shi4 yi2 ge4 kuan1 guang3 er2 you4 chong1 man3 huo2 li4 de di4 fang1 。"
+    },
+    {
+        "id": "000057",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "km²  (平方千米)"
+        ],
+        "text": "这座城市的面积达到1000km²，是一个宽广而又充满活力的地方。",
+        "pinyin": "zhe4 zuo4 cheng2 shi4 de mian4 ji1 da2 dao4 1000km²， shi4 yi2 ge4 kuan1 guang3 er2 you4 chong1 man3 huo2 li4 de di4 fang1 。"
+    },
+    {
+        "id": "000058",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "km  (公里)"
+        ],
+        "text": "今天我骑自行车骑了10km，锻炼身体又环保。",
+        "pinyin": "jin1 tian1 wo3 qi2 zi4 xing2 che1 qi2 le 10km， duan4 lian4 shen1 ti3 you4 huan2 bao3 。"
+    },
+    {
+        "id": "000059",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kpa  (千帕)"
+        ],
+        "text": "这个装置能承受50kpa的压力，非常耐用。",
+        "pinyin": "zhe4 ge4 zhuang1 zhi4 neng2 cheng2 shou4 50kpa de ya1 li4 ， fei1 chang2 nai4 yong4 。"
+    },
+    {
+        "id": "000060",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kwh  (千瓦时)"
+        ],
+        "text": "这个月家里用电量超过200kwh，电费真是一笔不小的开支。",
+        "pinyin": "zhe4 ge4 yue4 jia1 li3 yong4 dian4 liang4 chao1 guo4 200kwh， dian4 fei4 zhen1 shi4 yi1 bi3 bu4 xiao3 de kai1 zhi1 。"
+    },
+    {
+        "id": "000061",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kw  (千瓦)"
+        ],
+        "text": "这台空调的功率达到2kw，非常节能。",
+        "pinyin": "zhe4 tai2 kong1 tiao2 de gong1 lv4 da2 dao4 2kw， fei1 chang2 jie2 neng2 。"
+    },
+    {
+        "id": "000062",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "kW  (千瓦)"
+        ],
+        "text": "这台空调的功率达到2kW，非常节能高效。",
+        "pinyin": "zhe4 tai2 kong1 tiao2 de gong1 lv4 da2 dao4 2kW， fei1 chang2 jie2 neng2 gao1 xiao4 。"
+    },
+    {
+        "id": "000063",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "lbs  (磅)"
+        ],
+        "text": "她的行李超重，超出了20lbs的限制，需要额外支付费用。",
+        "pinyin": "ta1 de xing2 li3 chao1 zhong4 ， chao1 chu1 le 20lbs de xian4 zhi4 ， xu1 yao4 e2 wai4 zhi1 fu4 fei4 yong4 。"
+    },
+    {
+        "id": "000064",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "lb  (磅)"
+        ],
+        "text": "她的体重已经降至100lb以下，她为此感到非常自豪。",
+        "pinyin": "ta1 de ti3 zhong4 yi3 jing1 jiang4 zhi4 100lb yi3 xia4 ， ta1 wei4 ci3 gan3 dao4 fei1 chang2 zi4 hao2 。"
+    },
+    {
+        "id": "000065",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "m2  (平方米)"
+        ],
+        "text": "这套公寓的面积达到100m2，宽敞明亮，非常适合家庭居住。",
+        "pinyin": "zhe4 tao4 gong1 yu4 de mian4 ji1 da2 dao4 100m2， kuan1 chang3 ming2 liang4 ， fei1 chang2 shi4 he2 jia1 ting2 ju1 zhu4 。"
+    },
+    {
+        "id": "000066",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "m²  (平方米)"
+        ],
+        "text": "这块土地面积约为100m²，足够建造一栋小型别墅。",
+        "pinyin": "zhe4 kuai4 tu3 di4 mian4 ji1 yue1 wei4 100m²， zu2 gou4 jian4 zao4 yi1 dong4 xiao3 xing2 bie2 shu4 。"
+    },
+    {
+        "id": "000067",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "m3  (立方米)"
+        ],
+        "text": "这个仓库的容积达到100m3，可以存放大量货物。",
+        "pinyin": "zhe4 ge4 cang1 ku4 de rong2 ji1 da2 dao4 100m3， ke3 yi3 cun2 fang4 da4 liang4 huo4 wu4 。"
+    },
+    {
+        "id": "000068",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "m³  (立方米)"
+        ],
+        "text": "这个储物箱的容积达到5m³，可以存放大量物品。",
+        "pinyin": "zhe4 ge4 chu3 wu4 xiang1 de rong2 ji1 da2 dao4 5m³， ke3 yi3 cun2 fang4 da4 liang4 wu4 pin3 。"
+    },
+    {
+        "id": "000069",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mbps  (兆比特每秒)"
+        ],
+        "text": "这家网络服务商承诺提供1000mbps的网速，让用户畅享高速网络体验。",
+        "pinyin": "zhe4 jia1 wang3 luo4 fu2 wu4 shang1 cheng2 nuo4 ti2 gong1 1000mbps de wang3 su4 ， rang4 yong4 hu4 chang4 xiang3 gao1 su4 wang3 luo4 ti3 yan4 。"
+    },
+    {
+        "id": "000070",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mg  (毫克)"
+        ],
+        "text": "这种药物每次剂量为10mg，按医嘱服用。",
+        "pinyin": "zhe4 zhong3 yao4 wu4 mei3 ci4 ji4 liang4 wei4 10mg， an4 yi1 zhu3 fu2 yong4 。"
+    },
+    {
+        "id": "000071",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mhz  (兆赫兹)"
+        ],
+        "text": "这款新手机支持5G网络，频率高达3.5 mhz，网速飞快。",
+        "pinyin": "zhe4 kuan3 xin1 shou3 ji1 zhi1 chi2 5G wang3 luo4 ， pin2 lv4 gao1 da2 3.5 mhz， wang3 su4 fei1 kuai4 。"
+    },
+    {
+        "id": "000072",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mi2  (平方英里)"
+        ],
+        "text": "这片森林占地面积达1000mi2，是野生动物的天堂。",
+        "pinyin": "zhe4 pian4 sen1 lin2 zhan4 di4 mian4 ji1 da2 1000mi2， shi4 ye3 sheng1 dong4 wu4 de tian1 tang2 。"
+    },
+    {
+        "id": "000073",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mi²  (平方英里)"
+        ],
+        "text": "这片森林占地面积达1000mi²，是野生动物的天堂。",
+        "pinyin": "zhe4 pian4 sen1 lin2 zhan4 di4 mian4 ji1 da2 1000mi²， shi4 ye3 sheng1 dong4 wu4 de tian1 tang2 。"
+    },
+    {
+        "id": "000074",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "min  (分钟)"
+        ],
+        "text": "这支短片时长仅3min，却传达了深刻的思考。",
+        "pinyin": "zhe4 zhi1 duan3 pian4 shi2 chang2 jin3 3min， que4 chuan2 da2 le shen1 ke4 de si1 kao3 。"
+    },
+    {
+        "id": "000075",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mi  (英里)"
+        ],
+        "text": "他们在跑步比赛中一起奔跑，挑战着每一英里的极限。",
+        "pinyin": "ta1 men zai4 pao3 bu4 bi3 sai4 zhong1 yi4 qi3 ben1 pao3 ， tiao3 zhan4 zhe mei3 yi1 ying1 li3 de ji2 xian4 。"
+    },
+    {
+        "id": "000076",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ml  (毫升)"
+        ],
+        "text": "这瓶饮料只有250ml，喝起来刚刚好。",
+        "pinyin": "zhe4 ping2 yin3 liao4 zhi3 you3 250ml， he1 qi3 lai2 gang1 gang1 hao3 。"
+    },
+    {
+        "id": "000077",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mm2  (平方毫米)"
+        ],
+        "text": "这块钢板的面积约为100mm2，需要根据尺寸进行裁剪。",
+        "pinyin": "zhe4 kuai4 gang1 ban3 de mian4 ji1 yue1 wei4 100mm2， xu1 yao4 gen1 ju4 chi3 cun4 jin4 xing2 cai2 jian3 。"
+    },
+    {
+        "id": "000078",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mm²  (平方毫米)"
+        ],
+        "text": "这块钢板的面积约为100mm²，需要根据尺寸进行裁剪。",
+        "pinyin": "zhe4 kuai4 gang1 ban3 de mian4 ji1 yue1 wei4 100mm²， xu1 yao4 gen1 ju4 chi3 cun4 jin4 xing2 cai2 jian3 。"
+    },
+    {
+        "id": "000079",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mm  (毫米)"
+        ],
+        "text": "这块板材的厚度约为25mm，需要仔细测量以确保精准。",
+        "pinyin": "zhe4 kuai4 ban3 cai2 de hou4 du4 yue1 wei4 25mm， xu1 yao4 zi3 xi4 ce4 liang2 yi3 que4 bao3 jing1 zhun3 。"
+    },
+    {
+        "id": "000080",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mol  (摩尔)"
+        ],
+        "text": "化学实验中，需要精确计量摩尔（mol）单位的物质，以确保实验结果的准确性。",
+        "pinyin": "hua4 xue2 shi2 yan4 zhong1 ， xu1 yao4 jing1 que4 ji4 liang4 mo2 er3 （mol） dan1 wei4 de wu4 zhi4 ， yi3 que4 bao3 shi2 yan4 jie2 guo3 de zhun3 que4 xing4 。"
+    },
+    {
+        "id": "000081",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mpa  (兆帕)"
+        ],
+        "text": "这栋建筑的承重墙经过了50mpa的压力测试，非常坚固。",
+        "pinyin": "zhe4 dong4 jian4 zhu4 de cheng2 zhong4 qiang2 jing1 guo4 le 50mpa de ya1 li4 ce4 shi4 ， fei1 chang2 jian1 gu4 。"
+    },
+    {
+        "id": "000082",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mph  (英里每小时)"
+        ],
+        "text": "他驾驶的赛车以200mph的速度飞驰而过，刷新了赛道记录。",
+        "pinyin": "ta1 jia4 shi3 de sai4 che1 yi3 200mph de su4 du4 fei1 chi2 er2 guo4 ， shua1 xin1 le sai4 dao4 ji4 lu4 。"
+    },
+    {
+        "id": "000083",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ms  (毫秒)"
+        ],
+        "text": "这款游戏的反应速度仅需几十ms，让玩家沉浸其中。",
+        "pinyin": "zhe4 kuan3 you2 xi4 de fan3 ying4 su4 du4 jin3 xu1 ji3 shi2 ms， rang4 wan2 jia1 chen2 jin4 qi2 zhong1 。"
+    },
+    {
+        "id": "000084",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mv  (毫伏)"
+        ],
+        "text": "电路中的电压仅为2mv，需要进一步放大信号。",
+        "pinyin": "dian4 lu4 zhong1 de dian4 ya1 jin3 wei4 2mv， xu1 yao4 jin4 yi2 bu4 fang4 da4 xin4 hao4 。"
+    },
+    {
+        "id": "000085",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "mw  (毫瓦)"
+        ],
+        "text": "这台电器的功率只有5mw，非常节能。",
+        "pinyin": "zhe4 tai2 dian4 qi4 de gong1 lv4 zhi3 you3 5mw， fei1 chang2 jie2 neng2 。"
+    },
+    {
+        "id": "000086",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "m  (米)"
+        ],
+        "text": "这条马路有多长？大约有一百m，我们需要走一段时间才能到达目的地。",
+        "pinyin": "zhe4 tiao2 ma3 lu4 you3 duo1 zhang3 ？ da4 yue1 you3 yi4 bai3 m， wo3 men xu1 yao4 zou3 yi1 duan4 shi2 jian1 cai2 neng2 dao4 da2 mu4 di4 di4 。"
+    },
+    {
+        "id": "000087",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ng  (纳克)"
+        ],
+        "text": "他手中的宝石重达50ng，价值连城。",
+        "pinyin": "ta1 shou3 zhong1 de bao3 shi2 zhong4 da2 50ng， jia4 zhi2 lian2 cheng2 。"
+    },
+    {
+        "id": "000088",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "nm  (纳米)"
+        ],
+        "text": "这块材料的厚度仅为几十nm，具有优异的纳米级特性。",
+        "pinyin": "zhe4 kuai4 cai2 liao4 de hou4 du4 jin3 wei4 ji3 shi2 nm， ju4 you3 you1 yi4 de na4 mi3 ji2 te4 xing4 。"
+    },
+    {
+        "id": "000089",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ns  (纳秒)"
+        ],
+        "text": "光速每秒约为30万千米，一纳秒(ns)内光线可在真空中传播约0.3米。",
+        "pinyin": "guang1 su4 mei3 miao3 yue1 wei4 30 wan4 qian1 mi3 ， yi1 na4 miao3 (ns) nei4 guang1 xian4 ke3 zai4 zhen1 kong1 zhong1 chuan2 bo1 yue1 0.3 mi3 。"
+    },
+    {
+        "id": "000090",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ºc  (摄氏度)"
+        ],
+        "text": "今天的最高气温达到了35ºc，出门记得防晒哦！",
+        "pinyin": "jin1 tian1 de zui4 gao1 qi4 wen1 da2 dao4 le 35ºc， chu1 men2 ji4 de fang2 shai4 o2 ！"
+    },
+    {
+        "id": "000091",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ºC  (摄氏度)"
+        ],
+        "text": "今天的最高气温达到了35ºC，炎热的天气让人难以忍受。",
+        "pinyin": "jin1 tian1 de zui4 gao1 qi4 wen1 da2 dao4 le 35ºC， yan2 re4 de tian1 qi4 rang4 ren2 nan2 yi3 ren3 shou4 。"
+    },
+    {
+        "id": "000092",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "oz  (盎司)"
+        ],
+        "text": "这块黄金重达10oz，价值连城。",
+        "pinyin": "zhe4 kuai4 huang2 jin1 zhong4 da2 10oz， jia4 zhi2 lian2 cheng2 。"
+    },
+    {
+        "id": "000093",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "º  (度)"
+        ],
+        "text": "今天的气温达到30º，适合出门散步。",
+        "pinyin": "jin1 tian1 de qi4 wen1 da2 dao4 30º， shi4 he2 chu1 men2 san4 bu4 。"
+    },
+    {
+        "id": "000094",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "pa  (帕斯卡)"
+        ],
+        "text": "这道物理题需要用到pa的单位，记得将单位换算成标准国际单位哦。",
+        "pinyin": "zhe4 dao4 wu4 li3 ti2 xu1 yao4 yong4 dao4 pa de dan1 wei4 ， ji4 de jiang1 dan1 wei4 huan4 suan4 cheng2 biao1 zhun3 guo2 ji4 dan1 wei4 o2 。"
+    },
+    {
+        "id": "000095",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "pg  (皮克))"
+        ],
+        "text": "他的音响功率高达100pg，震撼力十足。",
+        "pinyin": "ta1 de yin1 xiang3 gong1 lv4 gao1 da2 100pg， zhen4 han4 li4 shi2 zu2 。"
+    },
+    {
+        "id": "000096",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "ps  (皮秒)"
+        ],
+        "text": "光速极快，一般用ps（皮秒）来描述其瞬间移动的速度。",
+        "pinyin": "guang1 su4 ji2 kuai4 ， yi4 ban1 yong4 ps（ pi2 miao3 ） lai2 miao2 shu4 qi2 shun4 jian1 yi2 dong4 de su4 du4 。"
+    },
+    {
+        "id": "000097",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "rad  (弧度)"
+        ],
+        "text": "这个三角形的角度为60°，换算成弧度约为1.047rad。",
+        "pinyin": "zhe4 ge4 san1 jiao3 xing2 de jiao3 du4 wei4 60°， huan4 suan4 cheng2 hu2 du4 yue1 wei4 1.047rad。"
+    },
+    {
+        "id": "000098",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "rpm  (转每分)"
+        ],
+        "text": "这台机器的转速高达1000rpm，运转非常稳定。",
+        "pinyin": "zhe4 tai2 ji1 qi4 de zhuan4 su4 gao1 da2 1000rpm， yun4 zhuan4 fei1 chang2 wen3 ding4 。"
+    },
+    {
+        "id": "000099",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "sq ft  (平方英尺)"
+        ],
+        "text": "这套公寓的面积达到1000 sq ft，宽敞明亮，非常适合家庭居住。",
+        "pinyin": "zhe4 tao4 gong1 yu4 de mian4 ji1 da2 dao4 1000 sq ft， kuan1 chang3 ming2 liang4 ， fei1 chang2 shi4 he2 jia1 ting2 ju1 zhu4 。"
+    },
+    {
+        "id": "000100",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "sq mi  (平方英里)"
+        ],
+        "text": "这座城市的面积达到1000 sq mi，是一个宽广的地方。",
+        "pinyin": "zhe4 zuo4 cheng2 shi4 de mian4 ji1 da2 dao4 1000 sq mi， shi4 yi2 ge4 kuan1 guang3 de di4 fang1 。"
+    },
+    {
+        "id": "000101",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "sv  (系沃特)"
+        ],
+        "text": "这款新产品的sv值非常高，表明其在水质处理方面有着出色的性能。",
+        "pinyin": "zhe4 kuan3 xin1 chan3 pin3 de sv zhi2 fei1 chang2 gao1 ， biao3 ming2 qi2 zai4 shui3 zhi4 chu3 li3 fang1 mian4 you3 zhe chu1 se4 de xing4 neng2 。"
+    },
+    {
+        "id": "000102",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "s  (秒)"
+        ],
+        "text": "他以惊人的速度完成了100米赛跑，仅用时9s，刷新了纪录。",
+        "pinyin": "ta1 yi3 jing1 ren2 de su4 du4 wan2 cheng2 le 100 mi3 sai4 pao3 ， jin3 yong4 shi2 9s， shua1 xin1 le ji4 lu4 。"
+    },
+    {
+        "id": "000103",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "tb  (太字节)"
+        ],
+        "text": "这个文件大小达到了2.5tb，需要更大的存储空间来保存。",
+        "pinyin": "zhe4 ge4 wen2 jian4 da4 xiao3 da2 dao4 le 2.5tb， xu1 yao4 geng4 da4 de cun2 chu3 kong1 jian1 lai2 bao3 cun2 。"
+    },
+    {
+        "id": "000104",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "tj  (万亿焦耳)"
+        ],
+        "text": "核聚变反应释放的能量可达数tj，是未来清洁能源的重要发展方向。",
+        "pinyin": "he2 ju4 bian4 fan3 ying4 shi4 fang4 de neng2 liang4 ke3 da2 shu4 tj， shi4 wei4 lai2 qing1 jie2 neng2 yuan2 de zhong4 yao4 fa1 zhan3 fang1 xiang4 。"
+    },
+    {
+        "id": "000105",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "v  (伏特)"
+        ],
+        "text": "这个电器需要输入220V电压才能正常工作。",
+        "pinyin": "zhe4 ge4 dian4 qi4 xu1 yao4 shu1 ru4 220V dian4 ya1 cai2 neng2 zheng4 chang2 gong1 zuo4 。"
+    },
+    {
+        "id": "000106",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "μg  (微克)"
+        ],
+        "text": "这种药物每次剂量仅为0.1μg，需小心使用。",
+        "pinyin": "zhe4 zhong3 yao4 wu4 mei3 ci4 ji4 liang4 jin3 wei4 0.1μg， xu1 xiao3 xin1 shi3 yong4 。"
+    },
+    {
+        "id": "000107",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "μm  (微米)"
+        ],
+        "text": "这块晶片的厚度仅为0.5μm，是微处理器中的重要组成部分。",
+        "pinyin": "zhe4 kuai4 jing1 pian4 de hou4 du4 jin3 wei4 0.5μm， shi4 wei1 chu3 li3 qi4 zhong1 de zhong4 yao4 zu3 cheng2 bu4 fen4 。"
+    },
+    {
+        "id": "000108",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "μs  (微秒)"
+        ],
+        "text": "这颗星星发出的光芒只持续了几μs，转瞬即逝，却留下了美丽的瞬间。",
+        "pinyin": "zhe4 ke1 xing1 xing1 fa1 chu1 de guang1 mang2 zhi3 chi2 xu4 le ji3 μs， zhuan3 shun4 ji2 shi4 ， que4 liu2 xia4 le mei3 li4 de shun4 jian1 。"
+    },
+    {
+        "id": "000109",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "°  (度)"
+        ],
+        "text": "今天的气温降至0°以下，寒冷异常。",
+        "pinyin": "jin1 tian1 de qi4 wen1 jiang4 zhi4 0° yi3 xia4 ， han2 leng3 yi4 chang2 。"
+    },
+    {
+        "id": "000110",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "1年后  (一年后)"
+        ],
+        "text": "我们约定在1年后再见，期待那时的相聚。",
+        "pinyin": "wo3 men yue1 ding4 zai4 1 nian2 hou4 zai4 jian4 ， qi1 dai4 na4 shi2 de xiang1 ju4 。"
+    },
+    {
+        "id": "000111",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "2年后  (两年后)"
+        ],
+        "text": "我们约定在2年后再见，期待那时的重逢。",
+        "pinyin": "wo3 men yue1 ding4 zai4 2 nian2 hou4 zai4 jian4 ， qi1 dai4 na4 shi2 de chong2 feng2 。"
+    },
+    {
+        "id": "000112",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "20年后  (二十年后)"
+        ],
+        "text": "20年后，我们会回头看今天的努力是否有价值。",
+        "pinyin": "20 nian2 hou4 ， wo3 men hui4 hui2 tou2 kan4 jin1 tian1 de nu3 li4 shi4 fou3 you3 jia4 zhi2 。"
+    },
+    {
+        "id": "000113",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "100余  (一百余)"
+        ],
+        "text": "这次活动共有参与者100余人，场面热闹非凡。",
+        "pinyin": "zhe4 ci4 huo2 dong4 gong4 you3 can1 yu4 zhe3 100 yu2 ren2 ， chang3 mian4 re4 nao4 fei1 fan2 。"
+    },
+    {
+        "id": "000114",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "10几  (十几)"
+        ],
+        "text": "他们家有10几只猫，每天都很热闹。",
+        "pinyin": "ta1 men jia1 you3 10 ji3 zhi1 mao1 ， mei3 tian1 dou1 hen3 re4 nao4 。"
+    },
+    {
+        "id": "000115",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "2两  (二两)"
+        ],
+        "text": "今天买了2两肉，准备做一道美味的家常菜。",
+        "pinyin": "jin1 tian1 mai3 le 2 liang3 rou4 ， zhun3 bei4 zuo4 yi1 dao4 mei3 wei4 de jia1 chang2 cai4 。"
+    },
+    {
+        "id": "000116",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "1kg  (一千克)"
+        ],
+        "text": "这个西瓜重达1kg，非常新鲜多汁。",
+        "pinyin": "zhe4 ge4 xi1 gua1 zhong4 da2 1kg， fei1 chang2 xin1 xian1 duo1 zhi1 。"
+    },
+    {
+        "id": "000117",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "1 kg  (一千克)"
+        ],
+        "text": "这个西瓜重达1 kg，非常新鲜多汁。",
+        "pinyin": "zhe4 ge4 xi1 gua1 zhong4 da2 1 kg， fei1 chang2 xin1 xian1 duo1 zhi1 。"
+    },
+    {
+        "id": "000118",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "10km/h  (每小时十公里)"
+        ],
+        "text": "他骑车的速度一直保持在10km/h，风吹过脸庞，清新宜人。",
+        "pinyin": "ta1 qi2 che1 de su4 du4 yi4 zhi2 bao3 chi2 zai4 10km/h， feng1 chui1 guo4 lian3 pang2 ， qing1 xin1 yi2 ren2 。"
+    },
+    {
+        "id": "000119",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "100兆  (一百兆)"
+        ],
+        "text": "这家公司的网络速度达到100兆，下载文件简直飞快！",
+        "pinyin": "zhe4 jia1 gong1 si1 de wang3 luo4 su4 du4 da2 dao4 100 zhao4 ， xia4 zai4 wen2 jian4 jian3 zhi2 fei1 kuai4 ！"
+    },
+    {
+        "id": "000120",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "重达25kg  (重达二十五千克)"
+        ],
+        "text": "这个行李箱重达25kg，需要帮忙搬运。",
+        "pinyin": "zhe4 ge4 xing2 li3 xiang1 zhong4 da2 25kg， xu1 yao4 bang1 mang2 ban1 yun4 。"
+    },
+    {
+        "id": "000121",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "最高气温38°C  (最高气温三十八摄氏度)"
+        ],
+        "text": "明天的最高气温预计将达到38°C，记得做好防暑措施。",
+        "pinyin": "ming2 tian1 de zui4 gao1 qi4 wen1 yu4 ji4 jiang1 da2 dao4 38°C， ji4 de zuo4 hao3 fang2 shu3 cuo4 shi1 。"
+    },
+    {
+        "id": "000122",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "实际面积120m²  (实际面积一百二十平方米)"
+        ],
+        "text": "这套房子的实际面积达到120m²，非常宽敞舒适。",
+        "pinyin": "zhe4 tao4 fang2 zi de shi2 ji4 mian4 ji1 da2 dao4 120m²， fei1 chang2 kuan1 chang3 shu1 shi4 。"
+    },
+    {
+        "id": "000123",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "渲染速度10ms一帧  (渲染速度十毫秒一帧)"
+        ],
+        "text": "这款游戏的渲染速度10ms一帧，让玩家感受到顺畅的视觉体验。",
+        "pinyin": "zhe4 kuan3 you2 xi4 de xuan4 ran3 su4 du4 10ms yi1 zhen1 ， rang4 wan2 jia1 gan3 shou4 dao4 shun4 chang4 de shi4 jue2 ti3 yan4 。"
+    },
+    {
+        "id": "000124",
+        "source": "特殊符号及数字_度量单位",
+        "words": [
+            "面积是10km²  (面积是十平方千米)"
+        ],
+        "text": "这块土地的面积是10km²，非常适合建设大型工厂。",
+        "pinyin": "zhe4 kuai4 tu3 di4 de mian4 ji1 shi4 10km²， fei1 chang2 shi4 he2 jian4 she4 da4 xing2 gong1 chang3 。"
+    },
+    {
+        "id": "000125",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "×  (乘)"
+        ],
+        "text": "小明学习很努力，他能够很快地计算出12×5的结果。",
+        "pinyin": "xiao3 ming2 xue2 xi2 hen3 nu3 li4 ， ta1 neng2 gou4 hen3 kuai4 di4 ji4 suan4 chu1 12×5 de jie2 guo3 。"
+    },
+    {
+        "id": "000126",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "*  (乘)"
+        ],
+        "text": "小明学习很努力，他的数学成绩是5*6=30。",
+        "pinyin": "xiao3 ming2 xue2 xi2 hen3 nu3 li4 ， ta1 de shu4 xue2 cheng2 ji4 shi4 5*6=30。"
+    },
+    {
+        "id": "000127",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "-  (减)"
+        ],
+        "text": "今天数学作业中，小明做了10道题，错了3道，所以他的得分是10-3等于7。",
+        "pinyin": "jin1 tian1 shu4 xue2 zuo4 ye4 zhong1 ， xiao3 ming2 zuo4 le 10 dao4 ti2 ， cuo4 le 3 dao4 ， suo3 yi3 ta1 de de2 fen1 shi4 10-3 deng3 yu2 7。"
+    },
+    {
+        "id": "000128",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "+  (加)"
+        ],
+        "text": "小明的数学成绩一直很优秀，他喜欢做加法，特别擅长计算+法运算。",
+        "pinyin": "xiao3 ming2 de shu4 xue2 cheng2 ji4 yi4 zhi2 hen3 you1 xiu4 ， ta1 xi3 huan1 zuo4 jia1 fa3 ， te4 bie2 shan4 chang2 ji4 suan4 + fa3 yun4 suan4 。"
+    },
+    {
+        "id": "000129",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "="
+        ],
+        "text": "在数学中，2+2=4是一个基本的等式。",
+        "pinyin": "zai4 shu4 xue2 zhong1 ，2+2=4 shi4 yi2 ge4 ji1 ben3 de deng3 shi4 。"
+    },
+    {
+        "id": "000130",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "÷  (除)"
+        ],
+        "text": "小明学习很努力，数学题中的÷符号总是能正确运用。",
+        "pinyin": "xiao3 ming2 xue2 xi2 hen3 nu3 li4 ， shu4 xue2 ti2 zhong1 de ÷ fu2 hao4 zong3 shi4 neng2 zheng4 que4 yun4 yong4 。"
+    },
+    {
+        "id": "000131",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "/  (除)"
+        ],
+        "text": "这道数学题要求计算12/4的结果。",
+        "pinyin": "zhe4 dao4 shu4 xue2 ti2 yao1 qiu2 ji4 suan4 12/4 de jie2 guo3 。"
+    },
+    {
+        "id": "000132",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "≠（不等于）"
+        ],
+        "text": "在数学比较中，≠表示两者不相等，是进行逻辑判断时常用的符号。",
+        "pinyin": "zai4 shu4 xue2 bi3 jiao4 zhong1 ，≠ biao3 shi4 liang3 zhe3 bu4 xiang1 deng3 ， shi4 jin4 xing2 luo2 ji2 pan4 duan4 shi2 chang2 yong4 de fu2 hao4 。"
+    },
+    {
+        "id": "000133",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "≥  (大于等于)"
+        ],
+        "text": "他的成绩总是保持在≥90分的水平，让人羡慕不已。",
+        "pinyin": "ta1 de cheng2 ji4 zong3 shi4 bao3 chi2 zai4 ≥90 fen1 de shui3 ping2 ， rang4 ren2 xian4 mu4 bu4 yi3 。"
+    },
+    {
+        "id": "000134",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "≤  (小于等于)"
+        ],
+        "text": "这次考试，我的成绩终于达到了90分，超过了及格线，但仍然≤100分。",
+        "pinyin": "zhe4 ci4 kao3 shi4 ， wo3 de cheng2 ji4 zhong1 yu2 da2 dao4 le 90 fen1 ， chao1 guo4 le ji2 ge2 xian4 ， dan4 reng2 ran2 ≤100 fen1 。"
+    },
+    {
+        "id": "000135",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            ">=  (大于等于)"
+        ],
+        "text": "他的成绩>=90分，表现非常出色。",
+        "pinyin": "ta1 de cheng2 ji4 >=90 fen1 ， biao3 xian4 fei1 chang2 chu1 se4 。"
+    },
+    {
+        "id": "000136",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "<=  (小于等于)"
+        ],
+        "text": "这次考试，我的成绩终于达到了<=90分，超过了及格分数，但仍然达不到老师的期望。",
+        "pinyin": "zhe4 ci4 kao3 shi4 ， wo3 de cheng2 ji4 zhong1 yu2 da2 dao4 le <=90 fen1 ， chao1 guo4 le ji2 ge2 fen1 shu4 ， dan4 reng2 ran2 da2 bu2 dao4 lao3 shi1 de qi1 wang4 。"
+    },
+    {
+        "id": "000137",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1+2  (一加二)"
+        ],
+        "text": "小明算错了，1+2等于3，不是4。",
+        "pinyin": "xiao3 ming2 suan4 cuo4 le ，1+2 deng3 yu2 3， bu2 shi4 4。"
+    },
+    {
+        "id": "000138",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "-1+2  (负一加二)"
+        ],
+        "text": "数学题很简单，计算-1+2的结果是1。",
+        "pinyin": "shu4 xue2 ti2 hen3 jian3 dan1 ， ji4 suan4 -1+2 de jie2 guo3 shi4 1。"
+    },
+    {
+        "id": "000139",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1+2+3  (一加二加三)"
+        ],
+        "text": "小明算出1+2+3的结果是6，但实际上应该是1+2+3等于6。",
+        "pinyin": "xiao3 ming2 suan4 chu1 1+2+3 de jie2 guo3 shi4 6， dan4 shi2 ji4 shang4 ying1 gai1 shi4 1+2+3 deng3 yu2 6。"
+    },
+    {
+        "id": "000140",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2 = 1 + 1  (二等于一加一)"
+        ],
+        "text": "数学公式中常见的等式是2 = 1 + 1，这个简单的算术关系在数学中有着重要的作用。",
+        "pinyin": "shu4 xue2 gong1 shi4 zhong1 chang2 jian4 de deng3 shi4 shi4 2 = 1 + 1， zhe4 ge4 jian3 dan1 de suan4 shu4 guan1 xi4 zai4 shu4 xue2 zhong1 you3 zhe zhong4 yao4 de zuo4 yong4 。"
+    },
+    {
+        "id": "000141",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2 ≤ 4  (二小于等于四)"
+        ],
+        "text": "在数学比较中，2 ≤ 4是一个基本的不等式关系。",
+        "pinyin": "zai4 shu4 xue2 bi3 jiao4 zhong1 ，2 ≤ 4 shi4 yi2 ge4 ji1 ben3 de bu4 deng3 shi4 guan1 xi4 。"
+    },
+    {
+        "id": "000142",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2 ≥ 1  (二大于等于一)"
+        ],
+        "text": "数学中的基本原理是2 ≥ 1，这是我们必须牢记的。",
+        "pinyin": "shu4 xue2 zhong1 de ji1 ben3 yuan2 li3 shi4 2 ≥ 1， zhe4 shi4 wo3 men bi4 xu1 lao2 ji4 de 。"
+    },
+    {
+        "id": "000143",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2<=4  (二小于等于四)"
+        ],
+        "text": "数学作业要求比较两个数，2<=4，表示二小于等于四。",
+        "pinyin": "shu4 xue2 zuo4 ye4 yao1 qiu2 bi3 jiao4 liang3 ge4 shu4 ，2<=4， biao3 shi4 er4 xiao3 yu2 deng3 yu2 si4 。"
+    },
+    {
+        "id": "000144",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2>=1  (二大于等于一)"
+        ],
+        "text": "在数学比较中，2>=1是一个基本的判断条件。",
+        "pinyin": "zai4 shu4 xue2 bi3 jiao4 zhong1 ，2>=1 shi4 yi2 ge4 ji1 ben3 de pan4 duan4 tiao2 jian4 。"
+    },
+    {
+        "id": "000145",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1/2  (二分之一)"
+        ],
+        "text": "这块蛋糕已经被分成1/2，你拿一半，我吃一半。",
+        "pinyin": "zhe4 kuai4 dan4 gao1 yi3 jing1 bei4 fen1 cheng2 1/2， ni3 na2 yi2 ban4 ， wo3 chi1 yi2 ban4 。"
+    },
+    {
+        "id": "000146",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "3/16  (十六分之三)"
+        ],
+        "text": "这个比例是3/16，表示十六分之三的关系。",
+        "pinyin": "zhe4 ge4 bi3 li4 shi4 3/16， biao3 shi4 shi2 liu4 fen1 zhi1 san1 de guan1 xi4 。"
+    },
+    {
+        "id": "000147",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1 / 2  (二分之一)"
+        ],
+        "text": "这个蛋糕切成1 / 2，每一份都是二分之一，足够大家分享了。",
+        "pinyin": "zhe4 ge4 dan4 gao1 qie4 cheng2 1 / 2， mei3 yi1 fen4 dou1 shi4 er4 fen1 zhi1 yi1 ， zu2 gou4 da4 jia1 fen1 xiang3 le 。"
+    },
+    {
+        "id": "000148",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "-1  (负一)"
+        ],
+        "text": "他的态度让人印象深刻，简直是-1！",
+        "pinyin": "ta1 de tai4 du4 rang4 ren2 yin4 xiang4 shen1 ke4 ， jian3 zhi2 shi4 -1！"
+    },
+    {
+        "id": "000149",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "0  (零)"
+        ],
+        "text": "这个月的支出记录中，有一天的花销竟然为0元，让人感到意外。",
+        "pinyin": "zhe4 ge4 yue4 de zhi1 chu1 ji4 lu4 zhong1 ， you3 yi1 tian1 de hua1 xiao1 jing4 ran2 wei4 0 yuan2 ， rang4 ren2 gan3 dao4 yi4 wai4 。"
+    },
+    {
+        "id": "000150",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1  (一)"
+        ],
+        "text": "这个问题的答案只有1个，非常简单。",
+        "pinyin": "zhe4 ge4 wen4 ti2 de da2 an4 zhi3 you3 1 ge4 ， fei1 chang2 jian3 dan1 。"
+    },
+    {
+        "id": "000151",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2  (二)"
+        ],
+        "text": "他的生日是每月的2号，我们要为他准备一个惊喜！",
+        "pinyin": "ta1 de sheng1 ri4 shi4 mei3 yue4 de 2 hao4 ， wo3 men yao4 wei4 ta1 zhun3 bei4 yi2 ge4 jing1 xi3 ！"
+    },
+    {
+        "id": "000152",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10  (十)"
+        ],
+        "text": "他的成绩排名全班第10，是一个非常优秀的学生。",
+        "pinyin": "ta1 de cheng2 ji4 pai2 ming2 quan2 ban1 di4 10， shi4 yi2 ge4 fei1 chang2 you1 xiu4 de xue2 sheng1 。"
+    },
+    {
+        "id": "000153",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "11  (十一)"
+        ],
+        "text": "今天是11月11日，也就是双十一购物节，商家都推出了很多优惠活动。",
+        "pinyin": "jin1 tian1 shi4 11 yue4 11 ri4 ， ye3 jiu4 shi4 shuang1 shi2 yi1 gou4 wu4 jie2 ， shang1 jia1 dou1 tui1 chu1 le hen3 duo1 you1 hui4 huo2 dong4 。"
+    },
+    {
+        "id": "000154",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "20  (二十)"
+        ],
+        "text": "今天是我20岁生日，希望未来的日子里能够过得更加充实和快乐。",
+        "pinyin": "jin1 tian1 shi4 wo3 20 sui4 sheng1 ri4 ， xi1 wang4 wei4 lai2 de ri4 zi li3 neng2 gou4 guo4 de2 geng4 jia1 chong1 shi2 he2 kuai4 le4 。"
+    },
+    {
+        "id": "000155",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "100  (一百)"
+        ],
+        "text": "他的成绩考了100分，真是太棒了！",
+        "pinyin": "ta1 de cheng2 ji4 kao3 le 100 fen1 ， zhen1 shi4 tai4 bang4 le ！"
+    },
+    {
+        "id": "000156",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "101  (一百零一)"
+        ],
+        "text": "这个考试题目太简单了，我得了101分，简直太容易了！",
+        "pinyin": "zhe4 ge4 kao3 shi4 ti2 mu4 tai4 jian3 dan1 le ， wo3 de2 le 101 fen1 ， jian3 zhi2 tai4 rong2 yi4 le ！"
+    },
+    {
+        "id": "000157",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "111  (一百一十一)"
+        ],
+        "text": "他们一起庆祝公司成立111周年，意义非凡。",
+        "pinyin": "ta1 men yi4 qi3 qing4 zhu4 gong1 si1 cheng2 li4 111 zhou1 nian2 ， yi4 yi4 fei1 fan2 。"
+    },
+    {
+        "id": "000158",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "200  (两百)"
+        ],
+        "text": "他们公司今年的销售额达到200万元，创下历史新高。",
+        "pinyin": "ta1 men gong1 si1 jin1 nian2 de xiao1 shou4 e2 da2 dao4 200 wan4 yuan2 ， chuang4 xia4 li4 shi3 xin1 gao1 。"
+    },
+    {
+        "id": "000159",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1000  (一千)"
+        ],
+        "text": "他的工资达到了1000元，终于实现了存款一千的目标。",
+        "pinyin": "ta1 de gong1 zi1 da2 dao4 le 1000 yuan2 ， zhong1 yu2 shi2 xian4 le cun2 kuan3 yi1 qian1 de mu4 biao1 。"
+    },
+    {
+        "id": "000160",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1001  (一千零一)"
+        ],
+        "text": "他们的爱情故事发生在1001个夜晚里，浪漫而永恒。",
+        "pinyin": "ta1 men de ai4 qing2 gu4 shi4 fa1 sheng1 zai4 1001 ge4 ye4 wan3 li3 ， lang4 man4 er2 yong3 heng2 。"
+    },
+    {
+        "id": "000161",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1011  (一千零一十一)"
+        ],
+        "text": "这个月的工资总额达到1011元，比上个月多了不少。",
+        "pinyin": "zhe4 ge4 yue4 de gong1 zi1 zong3 e2 da2 dao4 1011 yuan2 ， bi3 shang4 ge4 yue4 duo1 le bu4 shao3 。"
+    },
+    {
+        "id": "000162",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1111  (一千一百一十一)"
+        ],
+        "text": "他的成绩单上写着1111分，让人惊叹不已。",
+        "pinyin": "ta1 de cheng2 ji4 dan1 shang4 xie3 zhe 1111 fen1 ， rang4 ren2 jing1 tan4 bu4 yi3 。"
+    },
+    {
+        "id": "000163",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2000  (两千)"
+        ],
+        "text": "这幅画作的价值高达2000万元，堪称艺术珍品。",
+        "pinyin": "zhe4 fu2 hua4 zuo4 de jia4 zhi2 gao1 da2 2000 wan4 yuan2 ， kan1 cheng1 yi4 shu4 zhen1 pin3 。"
+    },
+    {
+        "id": "000164",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10000  (一万)"
+        ],
+        "text": "他的努力终于换来了10000的粉丝，感慨万分。",
+        "pinyin": "ta1 de nu3 li4 zhong1 yu2 huan4 lai2 le 10000 de fen3 si1 ， gan3 kai3 wan4 fen1 。"
+    },
+    {
+        "id": "000165",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10001  (一万零一)"
+        ],
+        "text": "他的努力终于换来了10001分的成绩，值得骄傲！",
+        "pinyin": "ta1 de nu3 li4 zhong1 yu2 huan4 lai2 le 10001 fen1 de cheng2 ji4 ， zhi2 de jiao1 ao4 ！"
+    },
+    {
+        "id": "000166",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10011  (一万零一十一)"
+        ],
+        "text": "这个数字10011看起来有点特别，好像隐藏着某种神秘的含义。",
+        "pinyin": "zhe4 ge4 shu4 zi4 10011 kan4 qi3 lai2 you3 dian3 te4 bie2 ， hao3 xiang4 yin3 cang2 zhe mou3 zhong3 shen2 mi4 de han2 yi4 。"
+    },
+    {
+        "id": "000167",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10111  (一万零一百一十一)"
+        ],
+        "text": "他的银行存款账户里有10111元，看来他是个节俭的人。",
+        "pinyin": "ta1 de yin2 hang2 cun2 kuan3 zhang4 hu4 li3 you3 10111 yuan2 ， kan4 lai2 ta1 shi4 ge4 jie2 jian3 de ren2 。"
+    },
+    {
+        "id": "000168",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "11111  (一万一千一百一十一)"
+        ],
+        "text": "他的生日是11月11日，正好是11111这个特殊数字的组合。",
+        "pinyin": "ta1 de sheng1 ri4 shi4 11 yue4 11 ri4 ， zheng4 hao3 shi4 11111 zhe4 ge4 te4 shu1 shu4 zi4 de zu3 he2 。"
+    },
+    {
+        "id": "000169",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "20000  (两万)"
+        ],
+        "text": "他的积蓄已经达到20000，是一个节俭的人。",
+        "pinyin": "ta1 de ji1 xu4 yi3 jing1 da2 dao4 20000， shi4 yi2 ge4 jie2 jian3 de ren2 。"
+    },
+    {
+        "id": "000170",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "101111  (十万一千一百一十一)"
+        ],
+        "text": "这个数字101111看起来很有趣，可以用来做数学题目。",
+        "pinyin": "zhe4 ge4 shu4 zi4 101111 kan4 qi3 lai2 hen3 you3 qu4 ， ke3 yi3 yong4 lai2 zuo4 shu4 xue2 ti2 mu4 。"
+    },
+    {
+        "id": "000171",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1001111  (一百万一千一百一十一)"
+        ],
+        "text": "他的微博粉丝已经突破1001111，人气爆棚！",
+        "pinyin": "ta1 de wei1 bo2 fen3 si1 yi3 jing1 tu1 po4 1001111， ren2 qi4 bao4 peng2 ！"
+    },
+    {
+        "id": "000172",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "10001111  (一千万一千一百一十一)"
+        ],
+        "text": "他的微信号尾号是10001111，记得添加好友哦。",
+        "pinyin": "ta1 de wei1 xin4 hao4 wei3 hao4 shi4 10001111， ji4 de tian1 jia1 hao3 you3 o2 。"
+    },
+    {
+        "id": "000173",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1.01  (一点零一)"
+        ],
+        "text": "这款产品的质量得分高达1.01，是市场上的顶尖产品之一。",
+        "pinyin": "zhe4 kuan3 chan3 pin3 de zhi4 liang4 de2 fen1 gao1 da2 1.01， shi4 shi4 chang3 shang4 de ding3 jian1 chan3 pin3 zhi1 yi1 。"
+    },
+    {
+        "id": "000174",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "1.11  (一点一一)"
+        ],
+        "text": "你的帐户余额仅剩1.11元，请尽快充值。",
+        "pinyin": "ni3 de zhang4 hu4 yu2 e2 jin3 sheng4 1.11 yuan2 ， qing3 jin3 kuai4 chong1 zhi2 。"
+    },
+    {
+        "id": "000175",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "共465篇，约315万字  (共四百六十五篇,约三百一十五万字)"
+        ],
+        "text": "这本百科全书共465篇，约315万字，内容丰富全面，是学习的绝佳资料。",
+        "pinyin": "zhe4 ben3 bai3 ke1 quan2 shu1 gong4 465 pian1 ， yue1 315 wan4 zi4 ， nei4 rong2 feng1 fu4 quan2 mian4 ， shi4 xue2 xi2 de jue2 jia1 zi1 liao4 。"
+    },
+    {
+        "id": "000176",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "共计6.42万人  (共计六点四二万人)"
+        ],
+        "text": "这次活动共计6.42万人参与，创下了历史新高。",
+        "pinyin": "zhe4 ci4 huo2 dong4 gong4 ji4 6.42 wan4 ren2 shen1 yu3 ， chuang4 xia4 le li4 shi3 xin1 gao1 。"
+    },
+    {
+        "id": "000177",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "同比升高0.6个百分点  (同比升高零点六个百分点)"
+        ],
+        "text": "该产品的销量同比升高0.6个百分点，显示出市场需求的增长趋势。",
+        "pinyin": "gai1 chan3 pin3 de xiao1 liang4 tong2 bi3 sheng1 gao1 0.6 ge4 bai3 fen1 dian3 ， xian3 shi4 chu1 shi4 chang3 xu1 qiu2 de zeng1 zhang3 qu1 shi4 。"
+    },
+    {
+        "id": "000178",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "总量的1/5以上  (总量的五分之一以上)"
+        ],
+        "text": "这次活动的参与人数超过总量的1/5以上，可谓是一次巨大的成功！",
+        "pinyin": "zhe4 ci4 huo2 dong4 de can1 yu4 ren2 shu4 chao1 guo4 zong3 liang4 de 1/5 yi3 shang4 ， ke3 wei4 shi4 yi1 ci4 ju4 da4 de cheng2 gong1 ！"
+    },
+    {
+        "id": "000179",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "相当于头发丝的1/16  (相当于头发丝的十六分之一)"
+        ],
+        "text": "这种纤细的线，相当于头发丝的1/16，细小而坚韧。",
+        "pinyin": "zhe4 zhong3 xian1 xi4 de xian4 ， xiang1 dang1 yu2 tou2 fa4 si1 de 1/16， xi4 xiao3 er2 jian1 ren4 。"
+    },
+    {
+        "id": "000180",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "3/2是一个假分数"
+        ],
+        "text": "小明认为3/2是一个假分数，因为分子大于分母。",
+        "pinyin": "xiao3 ming2 ren4 wei2 3/2 shi4 yi2 ge4 jia3 fen1 shu4 ， yin1 wei4 fen4 zi3 da4 yu2 fen1 mu3 。"
+    },
+    {
+        "id": "000181",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "同比增长6.3%  (同比增长百分之六点三)"
+        ],
+        "text": "该产品今年同比增长6.3%，表现优异。",
+        "pinyin": "gai1 chan3 pin3 jin1 nian2 tong2 bi3 zeng1 zhang3 6.3%， biao3 xian4 you1 yi4 。"
+    },
+    {
+        "id": "000182",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "增幅0.4%  (增幅百分之零点四)"
+        ],
+        "text": "最新数据显示，该产品销量较上月增幅0.4%，市场表现稳健。",
+        "pinyin": "zui4 xin1 shu4 ju4 xian3 shi4 ， gai1 chan3 pin3 xiao1 liang4 jiao4 shang4 yue4 zeng1 fu2 0.4%， shi4 chang3 biao3 xian4 wen3 jian4 。"
+    },
+    {
+        "id": "000183",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "计算-2的绝对值是2  (计算负二的绝对值是二)"
+        ],
+        "text": "要计算-2的绝对值是2，需要将负数转换为正数，结果是2。",
+        "pinyin": "yao4 ji4 suan4 -2 de jue2 dui4 zhi2 shi4 2， xu1 yao4 jiang1 fu4 shu4 zhuan3 huan4 wei4 zheng4 shu4 ， jie2 guo3 shi4 2。"
+    },
+    {
+        "id": "000184",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "±2的平方都是4  (正负二的平方都是四)"
+        ],
+        "text": "数学上，±2的平方都是4，这是一个基本的数学常识。",
+        "pinyin": "shu4 xue2 shang4 ，±2 de ping2 fang1 dou1 shi4 4， zhe4 shi4 yi2 ge4 ji1 ben3 de shu4 xue2 chang2 shi2 。"
+    },
+    {
+        "id": "000185",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "人均200以内  (人均两百以内)"
+        ],
+        "text": "这家餐厅的消费人均200以内，性价比很高，值得一试。",
+        "pinyin": "zhe4 jia1 can1 ting1 de xiao1 fei4 ren2 jun1 200 yi3 nei4 ， xing4 jia4 bi3 hen3 gao1 ， zhi2 de2 yi1 shi4 。"
+    },
+    {
+        "id": "000186",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "当场票数≥100万  (当场票数大于等于一百万)"
+        ],
+        "text": "这部电影的当场票数≥100万，可谓大获成功！",
+        "pinyin": "zhe4 bu4 dian4 ying3 di2 dang4 chang3 piao4 shu4 ≥100 wan4 ， ke3 wei4 da4 huo4 cheng2 gong1 ！"
+    },
+    {
+        "id": "000187",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "仅仅是２０１５年  (仅仅是二零一五年)"
+        ],
+        "text": "这本书的出版日期仅仅是２０１５年，却蕴含着深刻的思想。",
+        "pinyin": "zhe4 ben3 shu1 de chu1 ban3 ri4 qi1 jin3 jin3 shi4 ２０１５ nian2 ， que4 yun4 han2 zhe shen1 ke4 de si1 xiang3 。"
+    },
+    {
+        "id": "000188",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "包含３０００余件  (包含三千余件)"
+        ],
+        "text": "这次展览共展出艺术品包含３０００余件，吸引了众多观众前来欣赏。",
+        "pinyin": "zhe4 ci4 zhan3 lan3 gong4 zhan3 chu1 yi4 shu4 pin3 bao1 han2 ３０００ yu2 jian4 ， xi1 yin3 le zhong4 duo1 guan1 zhong4 qian2 lai2 xin1 shang3 。"
+    },
+    {
+        "id": "000189",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "查处４５０余名  (查处四百五十余名)"
+        ],
+        "text": "警方连续开展行动，成功查处４５０余名涉嫌违法犯罪的嫌疑人。",
+        "pinyin": "jing3 fang1 lian2 xu4 kai1 zhan3 xing2 dong4 ， cheng2 gong1 cha2 chu3 ４５０ yu2 ming2 she4 xian2 wei2 fa3 fan4 zui4 de xian2 yi2 ren2 。"
+    },
+    {
+        "id": "000190",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "查处450余名  (查处四百五十余名)"
+        ],
+        "text": "警方连续展开行动，成功查处450余名涉案人员，维护了社会治安秩序。",
+        "pinyin": "jing3 fang1 lian2 xu4 zhan3 kai1 xing2 dong4 ， cheng2 gong1 cha2 chu3 450 yu2 ming2 she4 an4 ren2 yuan2 ， wei2 hu4 le she4 hui4 zhi4 an1 zhi4 xu4 。"
+    },
+    {
+        "id": "000191",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "独得300w张  (独得三百万张)"
+        ],
+        "text": "这位画家独得300w张画作，展现了其独特的艺术魅力。",
+        "pinyin": "zhe4 wei4 hua4 jia1 du2 de2 300w zhang1 hua4 zuo4 ， zhan3 xian4 le qi2 du2 te4 de yi4 shu4 mei4 li4 。"
+    },
+    {
+        "id": "000192",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "工资5k  (工资五千)"
+        ],
+        "text": "这家公司提供的工资5k很诱人，考虑到生活成本，还是值得考虑的。",
+        "pinyin": "zhe4 jia1 gong1 si1 ti2 gong1 de gong1 zi1 5k hen3 you4 ren2 ， kao3 lv4 dao4 sheng1 huo2 cheng2 ben3 ， hai2 shi4 zhi2 de kao3 lv4 de 。"
+    },
+    {
+        "id": "000193",
+        "source": "特殊符号及数字_数学符号",
+        "words": [
+            "2%  (百分之二)"
+        ],
+        "text": "这种罕见疾病的发病率仅为2%，需要及时就医进行治疗。",
+        "pinyin": "zhe4 zhong3 han3 jian4 ji2 bing4 de fa1 bing4 lv4 jin3 wei4 2%， xu1 yao4 ji2 shi2 jiu4 yi1 jin4 xing2 zhi4 liao2 。"
+    },
+    {
+        "id": "000194",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008-08-08  (二零零八年八月八日)"
+        ],
+        "text": "我们结婚的日子定在2008-08-08，希望能够永远幸福。",
+        "pinyin": "wo3 men jie2 hun1 de ri4 zi ding4 zai4 2008-08-08， xi1 wang4 neng2 gou4 yong3 yuan3 xing4 fu2 。"
+    },
+    {
+        "id": "000195",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008/08/08  (二零零八年八月八日)"
+        ],
+        "text": "那个重要的日子是2008/08/08，我们一起庆祝吧！",
+        "pinyin": "na4 ge4 zhong4 yao4 de ri4 zi shi4 2008/08/08， wo3 men yi4 qi3 qing4 zhu4 ba ！"
+    },
+    {
+        "id": "000196",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008.08.08  (二零零八年八月八日)"
+        ],
+        "text": "我们结婚的日子定在2008.08.08，希望能够永远幸福。",
+        "pinyin": "wo3 men jie2 hun1 de ri4 zi ding4 zai4 2008.08.08， xi1 wang4 neng2 gou4 yong3 yuan3 xing4 fu2 。"
+    },
+    {
+        "id": "000197",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008-8-8  (二零零八年八月八日)"
+        ],
+        "text": "我们相识的日子是2008-8-8，那是一个美好的夏日。",
+        "pinyin": "wo3 men xiang1 shi2 de ri4 zi shi4 2008-8-8， na4 shi4 yi2 ge4 mei3 hao3 de xia4 ri4 。"
+    },
+    {
+        "id": "000198",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08-08-2008  (二零零八年八月八日)"
+        ],
+        "text": "我们结婚的日子定在08-08-2008，希望这个日子能给我们带来好运。",
+        "pinyin": "wo3 men jie2 hun1 de ri4 zi ding4 zai4 08-08-2008， xi1 wang4 zhe4 ge4 ri4 zi neng2 gei3 wo3 men dai4 lai2 hao3 yun4 。"
+    },
+    {
+        "id": "000199",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008-08  (二零零八年八月)"
+        ],
+        "text": "我们相识于2008-08，那是一个美好的夏天。",
+        "pinyin": "wo3 men xiang1 shi2 yu2 2008-08， na4 shi4 yi2 ge4 mei3 hao3 de xia4 tian1 。"
+    },
+    {
+        "id": "000200",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008/08  (二零零八年八月)"
+        ],
+        "text": "我们相识于2008/08，那是一个美好的八月。",
+        "pinyin": "wo3 men xiang1 shi2 yu2 2008/08， na4 shi4 yi2 ge4 mei3 hao3 de ba1 yue4 。"
+    },
+    {
+        "id": "000201",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2008.08  (二零零八年八月)"
+        ],
+        "text": "我们相识于2008.08，那是一个美好的夏天。",
+        "pinyin": "wo3 men xiang1 shi2 yu2 2008.08， na4 shi4 yi2 ge4 mei3 hao3 de xia4 tian1 。"
+    },
+    {
+        "id": "000202",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08-2008  (二零零八年八月)"
+        ],
+        "text": "我们相识于08-2008，那是一个美好的夏天。",
+        "pinyin": "wo3 men xiang1 shi2 yu2 08-2008， na4 shi4 yi2 ge4 mei3 hao3 de xia4 tian1 。"
+    },
+    {
+        "id": "000203",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08/2008  (二零零八年八月)"
+        ],
+        "text": "我毕业于08/2008，那是我人生中最珍贵的时刻。",
+        "pinyin": "wo3 bi4 ye4 yu2 08/2008， na4 shi4 wo3 ren2 sheng1 zhong1 zui4 zhen1 gui4 de shi2 ke4 。"
+    },
+    {
+        "id": "000204",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08.2008  (二零零八年八月)"
+        ],
+        "text": "我们相识于08.2008，那是一个美好的夏天。",
+        "pinyin": "wo3 men xiang1 shi2 yu2 08.2008， na4 shi4 yi2 ge4 mei3 hao3 de xia4 tian1 。"
+    },
+    {
+        "id": "000205",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08-08  (八月八日)"
+        ],
+        "text": "他们的结婚纪念日是在08-08，每年都会一起庆祝。",
+        "pinyin": "ta1 men de jie2 hun1 ji4 nian4 ri4 shi4 zai4 08-08， mei3 nian2 dou1 hui4 yi4 qi3 qing4 zhu4 。"
+    },
+    {
+        "id": "000206",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08/08  (八月八日)"
+        ],
+        "text": "我生日是在08/08，希望那天能和家人朋友一起欢度。",
+        "pinyin": "wo3 sheng1 ri4 shi4 zai4 08/08， xi1 wang4 na4 tian1 neng2 he2 jia1 ren2 peng2 you3 yi4 qi3 huan1 du4 。"
+    },
+    {
+        "id": "000207",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "08.08  (八月八日)"
+        ],
+        "text": "他们约定在08.08举行婚礼，这个日子对他们来说意义非凡。",
+        "pinyin": "ta1 men yue1 ding4 zai4 08.08 ju3 xing2 hun1 li3 ， zhe4 ge4 ri4 zi dui4 ta1 men lai2 shuo1 yi4 yi4 fei1 fan2 。"
+    },
+    {
+        "id": "000208",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2:02  (两点零二分)"
+        ],
+        "text": "比赛进行到2:02，比分胶着，紧张的气氛弥漫在体育馆里。",
+        "pinyin": "bi3 sai4 jin4 xing2 dao4 2:02， bi3 fen1 jiao1 zhe ， jin3 zhang1 de qi4 fen1 mi2 man4 zai4 ti3 yu4 guan3 li3 。"
+    },
+    {
+        "id": "000209",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "11:00  (十一点)"
+        ],
+        "text": "明天的会议安排在上午11:00，记得准时参加。",
+        "pinyin": "ming2 tian1 de hui4 yi4 an1 pai2 zai4 shang4 wu3 11:00， ji4 de zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000210",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "22：58  (二十二点五十八分)"
+        ],
+        "text": "当钟表指针指向22：58时，夜晚的宁静已经降临，城市渐入梦乡。",
+        "pinyin": "dang1 zhong1 biao3 zhi3 zhen1 zhi3 xiang4 22：58 shi2 ， ye4 wan3 de ning2 jing4 yi3 jing1 jiang4 lin2 ， cheng2 shi4 jian4 ru4 meng4 xiang1 。"
+    },
+    {
+        "id": "000211",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "13:10:36  (十三点十分三十六秒)"
+        ],
+        "text": "当我看到钟表上显示13:10:36时，意识到时间已经不早了，赶紧出门赴约。",
+        "pinyin": "dang1 wo3 kan4 dao4 zhong1 biao3 shang4 xian3 shi4 13:10:36 shi2 ， yi4 shi2 dao4 shi2 jian1 yi3 jing1 bu4 zao3 le ， gan3 jin3 chu1 men2 fu4 yue1 。"
+    },
+    {
+        "id": "000212",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "1:02:36am  (上午一点零二分三十六秒)"
+        ],
+        "text": "他在1:02:36am的时候收到了那封重要的邮件。",
+        "pinyin": "ta1 zai4 1:02:36am de shi2 hou4 shou1 dao4 le na4 feng1 zhong4 yao4 de you2 jian4 。"
+    },
+    {
+        "id": "000213",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "1:02:36 am  (上午一点零二分三十六秒)"
+        ],
+        "text": "他在1:02:36 am醒来，意识到今天是个特殊的日子。",
+        "pinyin": "ta1 zai4 1:02:36 am xing3 lai2 ， yi4 shi2 dao4 jin1 tian1 shi4 ge4 te4 shu1 de ri4 zi 。"
+    },
+    {
+        "id": "000214",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "7:30a m  (上午七点半/上午七点三十分)"
+        ],
+        "text": "明天的会议安排在上午七点半，记得准时参加。",
+        "pinyin": "ming2 tian1 de hui4 yi4 an1 pai2 zai4 shang4 wu3 qi1 dian3 ban4 ， ji4 de zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000215",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "8:45a.m.  (上午八点四十五分)"
+        ],
+        "text": "他约定的会议时间是上午八点四十五分，务必准时赴约。",
+        "pinyin": "ta1 yue1 ding4 de hui4 yi4 shi2 jian1 shi4 shang4 wu3 ba1 dian3 si4 shi2 wu3 fen1 ， wu4 bi4 zhun3 shi2 fu4 yue1 。"
+    },
+    {
+        "id": "000216",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "10:36am  (上午十点三十六分)"
+        ],
+        "text": "我约定的会议时间是上午10:36am，记得准时参加哦！",
+        "pinyin": "wo3 yue1 ding4 de hui4 yi4 shi2 jian1 shi4 shang4 wu3 10:36am， ji4 de zhun3 shi2 can1 jia1 o2 ！"
+    },
+    {
+        "id": "000217",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "9:00A M  (上午九点)"
+        ],
+        "text": "明天的会议安排在9:00A M，记得准时参加。",
+        "pinyin": "ming2 tian1 de hui4 yi4 an1 pai2 zai4 9:00A M， ji4 de zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000218",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "6:05:04AM  (上午六点零五分零四秒)"
+        ],
+        "text": "他们约定在6:05:04AM见面，却因为误解错过了重要的会议。",
+        "pinyin": "ta1 men yue1 ding4 zai4 6:05:04AM jian4 mian4 ， que4 yin1 wei4 wu4 jie3 cuo4 guo4 le zhong4 yao4 de hui4 yi4 。"
+    },
+    {
+        "id": "000219",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "13:08p m  (下午一点零八分)"
+        ],
+        "text": "我约定在13:08p m见他，希望他不要迟到。",
+        "pinyin": "wo3 yue1 ding4 zai4 13:08p m jian4 ta1 ， xi1 wang4 ta1 bu2 yao4 chi2 dao4 。"
+    },
+    {
+        "id": "000220",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "16:30p.m.  (下午四点半/下午四点三十分)"
+        ],
+        "text": "会议安排在今天下午16:30p.m.，请准时参加。",
+        "pinyin": "hui4 yi4 an1 pai2 zai4 jin1 tian1 xia4 wu3 16:30p.m.， qing3 zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000221",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "15:06:55pm  (下午三点零六分五十五秒)"
+        ],
+        "text": "当时的时间是15:06:55pm，下午三点零六分五十五秒，我们正准备结束会议。",
+        "pinyin": "dang1 shi2 de shi2 jian1 shi4 15:06:55pm， xia4 wu3 san1 dian3 ling2 liu4 fen1 wu3 shi2 wu3 miao3 ， wo3 men zheng4 zhun3 bei4 jie2 shu4 hui4 yi4 。"
+    },
+    {
+        "id": "000222",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "20:00P M  (下午八点)"
+        ],
+        "text": "今晚的会议安排在20:00P M，请准时参加。",
+        "pinyin": "jin1 wan3 de hui4 yi4 an1 pai2 zai4 20:00P M， qing3 zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000223",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "19:00PM  (下午七点)"
+        ],
+        "text": "我们约定在19:00PM见面，不要迟到哦！",
+        "pinyin": "wo3 men yue1 ding4 zai4 19:00PM jian4 mian4 ， bu2 yao4 chi2 dao4 o2 ！"
+    },
+    {
+        "id": "000224",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2002/01/28  (二零零二年一月二十八日)"
+        ],
+        "text": "2002/01/28这一天，是我人生中值得铭记的重要时刻。",
+        "pinyin": "2002/01/28 zhe4 yi1 tian1 ， shi4 wo3 ren2 sheng1 zhong1 zhi2 de ming2 ji4 de zhong4 yao4 shi2 ke4 。"
+    },
+    {
+        "id": "000225",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2002-01-28  (二零零二年一月二十八日)"
+        ],
+        "text": "我出生于2002-01-28，那是一个寒冷的冬日。",
+        "pinyin": "wo3 chu1 sheng1 yu2 2002-01-28， na4 shi4 yi2 ge4 han2 leng3 de dong1 ri4 。"
+    },
+    {
+        "id": "000226",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2002.01.28  (二零零二年一月二十八日)"
+        ],
+        "text": "2002.01.28这一天，是我人生中永远难忘的一天。",
+        "pinyin": "2002.01.28 zhe4 yi1 tian1 ， shi4 wo3 ren2 sheng1 zhong1 yong3 yuan3 nan2 wang4 de yi1 tian1 。"
+    },
+    {
+        "id": "000227",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "2002/01  (二零零二年一月)"
+        ],
+        "text": "他们相识于2002/01，那是一个寒冷的冬天，一切都刚刚开始。",
+        "pinyin": "ta1 men xiang1 shi2 yu2 2002/01， na4 shi4 yi2 ge4 han2 leng3 de dong1 tian1 ， yi1 qie4 dou1 gang1 gang1 kai1 shi3 。"
+    },
+    {
+        "id": "000228",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "8月16号12:00之前  (八月十六号十二点之前)"
+        ],
+        "text": "请务必在8月16号12:00之前完成报名手续，谢谢合作。",
+        "pinyin": "qing3 wu4 bi4 zai4 8 yue4 16 hao4 12:00 zhi1 qian2 wan2 cheng2 bao4 ming2 shou3 xu4 ， xie4 xie4 he2 zuo4 。"
+    },
+    {
+        "id": "000229",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "我是5:02开始的  (我是五点零二分开始的)"
+        ],
+        "text": "今天的会议我是5:02开始的，请准时参加。",
+        "pinyin": "jin1 tian1 de hui4 yi4 wo3 shi4 5:02 kai1 shi3 de ， qing3 zhun3 shi2 can1 jia1 。"
+    },
+    {
+        "id": "000230",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "于5:35:36发射  (于五点三十五分三十六秒发射)"
+        ],
+        "text": "火箭计划于5:35:36发射，倒计时开始！",
+        "pinyin": "huo3 jian4 ji4 hua4 yu2 5:35:36 fa1 she4 ， dao4 ji4 shi2 kai1 shi3 ！"
+    },
+    {
+        "id": "000231",
+        "source": "特殊符号及数字_时间日期",
+        "words": [
+            "8:00 a.m.准时开会  (上午八点准时开会)"
+        ],
+        "text": "明天早晨8:00 a.m.准时开会，大家务必按时到场。",
+        "pinyin": "ming2 tian1 zao3 chen2 8:00 a.m. zhun3 shi2 kai1 hui4 ， da4 jia1 wu4 bi4 an4 shi2 dao4 chang3 。"
+    },
+    {
+        "id": "000232",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "报警打110  (幺幺零)"
+        ],
+        "text": "遇到紧急情况时，记得报警打110，及时寻求帮助。",
+        "pinyin": "yu4 dao4 jin3 ji2 qing2 kuang4 shi2 ， ji4 de bao4 jing3 da3 110， ji2 shi2 xun2 qiu2 bang1 zhu4 。"
+    },
+    {
+        "id": "000233",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "联系电话是010-64035547  （零一零六四零三五五四七)"
+        ],
+        "text": "请记住，联系电话是010-64035547，有任何问题随时致电。",
+        "pinyin": "qing3 ji4 zhu4 ， lian2 xi4 dian4 hua4 shi4 010-64035547， you3 ren4 he2 wen4 ti2 sui2 shi2 zhi4 dian4 。"
+    },
+    {
+        "id": "000234",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "手机尾号1702  （尾号幺七零二)"
+        ],
+        "text": "我的手机尾号1702，记得准时充电以保持通讯畅通。",
+        "pinyin": "wo3 de shou3 ji1 wei3 hao4 1702， ji4 de zhun3 shi2 chong1 dian4 yi3 bao3 chi2 tong1 xun4 chang4 tong1 。"
+    },
+    {
+        "id": "000235",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "手机尾号是3385  (尾号是三三八五)"
+        ],
+        "text": "我的手机尾号是3385，记得准时给我发信息哦。",
+        "pinyin": "wo3 de shou3 ji1 wei3 hao4 shi4 3385， ji4 de zhun3 shi2 gei3 wo3 fa1 xin4 xi1 o2 。"
+    },
+    {
+        "id": "000236",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "身份证尾号为2349  (尾号为二三四九)"
+        ],
+        "text": "请提供您的身份证，尾号为2349，以便核实身份信息。",
+        "pinyin": "qing3 ti2 gong1 nin2 de shen1 fen4 zheng4 ， wei3 hao4 wei4 2349， yi3 bian4 he2 shi2 shen1 fen4 xin4 xi1 。"
+    },
+    {
+        "id": "000237",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "可以打我手机13501234567  (可以打我手机幺三五零幺二三四五六七)"
+        ],
+        "text": "如果有紧急情况，请可以打我手机13501234567联系我。",
+        "pinyin": "ru2 guo3 you3 jin3 ji2 qing2 kuang4 ， qing3 ke3 yi3 da3 wo3 shou3 ji1 13501234567 lian2 xi4 wo3 。"
+    },
+    {
+        "id": "000238",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "可以拨打12306来咨询  (可以拨打幺二三零六来咨询)"
+        ],
+        "text": "如果有列车时刻表查询需求，可以拨打12306来咨询。",
+        "pinyin": "ru2 guo3 you3 lie4 che1 shi2 ke4 biao3 cha2 xun2 xu1 qiu2 ， ke3 yi3 bo1 da3 12306 lai2 zi1 xun2 。"
+    },
+    {
+        "id": "000239",
+        "source": "特殊符号及数字_电话号码",
+        "words": [
+            "给12315打个电话  (给幺二三幺五打个电话)"
+        ],
+        "text": "如果遇到消费纠纷，不妨给12315打个电话寻求帮助。",
+        "pinyin": "ru2 guo3 yu4 dao4 xiao1 fei4 jiu1 fen1 ， bu4 fang2 gei3 12315 da3 ge4 dian4 hua4 xun2 qiu2 bang1 zhu4 。"
+    },
+    {
+        "id": "000240",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "￥1.25  (一点二五元)"
+        ],
+        "text": "这本书的售价仅为￥1.25，是个很划算的选择。",
+        "pinyin": "zhe4 ben3 shu1 de shou4 jia4 jin3 wei4 ￥1.25， shi4 ge4 hen3 hua2 suan4 de xuan3 ze2 。"
+    },
+    {
+        "id": "000241",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CNY1.25  (一点二五人民币)"
+        ],
+        "text": "这本书的售价仅为CNY1.25，是个物美价廉的好选择。",
+        "pinyin": "zhe4 ben3 shu1 de shou4 jia4 jin3 wei4 CNY1.25， shi4 ge4 wu4 mei3 jia4 lian2 de hao3 xuan3 ze2 。"
+    },
+    {
+        "id": "000242",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CNY 1.25  (一点二五人民币)"
+        ],
+        "text": "这本书的售价仅为CNY 1.25，是个物美价廉的好选择。",
+        "pinyin": "zhe4 ben3 shu1 de shou4 jia4 jin3 wei4 CNY 1.25， shi4 ge4 wu4 mei3 jia4 lian2 de hao3 xuan3 ze2 。"
+    },
+    {
+        "id": "000243",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "A$  (澳元)"
+        ],
+        "text": "他在澳大利亚旅行时，花了100A$购买当地特色商品。",
+        "pinyin": "ta1 zai4 ao4 da4 li4 ya4 lv3 xing2 shi2 ， hua1 le 100A$ gou4 mai3 dang1 di4 te4 se4 shang1 pin3 。"
+    },
+    {
+        "id": "000244",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "AED  (阿联酋迪拉姆)"
+        ],
+        "text": "她在迪拜旅行时花了100AED购买了一件纪念品。",
+        "pinyin": "ta1 zai4 di2 bai4 lv3 xing2 shi2 hua1 le 100AED gou4 mai3 le yi1 jian4 ji4 nian4 pin3 。"
+    },
+    {
+        "id": "000245",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "ARS  (阿根廷比索)"
+        ],
+        "text": "我在阿根廷旅游时，用100ARS买了一些纪念品。",
+        "pinyin": "wo3 zai4 a1 gen1 ting2 lv3 you2 shi2 ， yong4 100ARS mai3 le yi1 xie1 ji4 nian4 pin3 。"
+    },
+    {
+        "id": "000246",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "AUD  (澳元)"
+        ],
+        "text": "他在旅行中花了10000AUD，享受了异国风情。",
+        "pinyin": "ta1 zai4 lv3 xing2 zhong1 hua1 le 10000AUD， xiang3 shou4 le yi4 guo2 feng1 qing2 。"
+    },
+    {
+        "id": "000247",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CAD$  (加元)"
+        ],
+        "text": "这本书的售价是50CAD$，是一本物超所值的好书。",
+        "pinyin": "zhe4 ben3 shu1 de shou4 jia4 shi4 50CAD$， shi4 yi1 ben3 wu4 chao1 suo3 zhi2 de hao3 shu1 。"
+    },
+    {
+        "id": "000248",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CAD  (加元)"
+        ],
+        "text": "他在旅行中花费了3000 CAD，享受了加拿大美妙的风景。",
+        "pinyin": "ta1 zai4 lv3 xing2 zhong1 hua1 fei4 le 3000 CAD， xiang3 shou4 le jia1 na2 da4 mei3 miao4 de feng1 jing3 。"
+    },
+    {
+        "id": "000249",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CHF  (瑞士法郎)"
+        ],
+        "text": "他的存款里有100CHF，计划去瑞士旅行。",
+        "pinyin": "ta1 de cun2 kuan3 li3 you3 100CHF， ji4 hua4 qu4 rui4 shi4 lv3 xing2 。"
+    },
+    {
+        "id": "000250",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CNY  (人民币)"
+        ],
+        "text": "这家餐厅的招牌菜虽然价格不菲，但绝对物有所值，值得花费1000CNY来品尝。",
+        "pinyin": "zhe4 jia1 can1 ting1 de zhao1 pai2 cai4 sui1 ran2 jia4 ge2 bu4 fei1 ， dan4 jue2 dui4 wu4 you3 suo3 zhi2 ， zhi2 de hua1 fei4 1000CNY lai2 pin3 chang2 。"
+    },
+    {
+        "id": "000251",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "EUR  (欧元)"
+        ],
+        "text": "旅行预算有限，但她还是决定带上1000EUR去欧洲自由行。",
+        "pinyin": "lv3 xing2 yu4 suan4 you3 xian4 ， dan4 ta1 hai2 shi4 jue2 ding4 dai4 shang4 1000EUR qu4 ou1 zhou1 zi4 you2 xing2 。"
+    },
+    {
+        "id": "000252",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "GBP  (GBP)"
+        ],
+        "text": "他在旅行中花费了2000GBP，但仍觉得物超所值。",
+        "pinyin": "ta1 zai4 lv3 xing2 zhong1 hua1 fei4 le 2000GBP， dan4 reng2 jue2 de wu4 chao1 suo3 zhi2 。"
+    },
+    {
+        "id": "000253",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "HK＄  (港元)"
+        ],
+        "text": "这件商品的价格是1000HK＄，需要换算成人民币吗？",
+        "pinyin": "zhe4 jian4 shang1 pin3 de jia4 ge2 shi4 1000HK＄， xu1 yao4 huan4 suan4 cheng2 ren2 min2 bi4 ma ？"
+    },
+    {
+        "id": "000254",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "HKD  (港元)"
+        ],
+        "text": "这本书的价格是50HKD，是个物美价廉的好选择。",
+        "pinyin": "zhe4 ben3 shu1 de jia4 ge2 shi4 50HKD， shi4 ge4 wu4 mei3 jia4 lian2 de hao3 xuan3 ze2 。"
+    },
+    {
+        "id": "000255",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "INR  (印度卢比)"
+        ],
+        "text": "他在印度旅行时，用1000INR支付了酒店费用。",
+        "pinyin": "ta1 zai4 yin4 du4 lv3 xing2 shi2 ， yong4 1000INR zhi1 fu4 le jiu3 dian4 fei4 yong4 。"
+    },
+    {
+        "id": "000256",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "J￥  (日元)"
+        ],
+        "text": "这家餐厅的寿司价格昂贵，一份寿司要价达到2000 J￥，实在有些贵了。",
+        "pinyin": "zhe4 jia1 can1 ting1 de shou4 si1 jia4 ge2 ang2 gui4 ， yi1 fen4 shou4 si1 yao4 jia4 da2 dao4 2000 J￥， shi2 zai4 you3 xie1 gui4 le 。"
+    },
+    {
+        "id": "000257",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "JPY￥  (日元)"
+        ],
+        "text": "去日本旅游时，我花了1000JPY￥买了一些纪念品。",
+        "pinyin": "qu4 ri4 ben3 lv3 you2 shi2 ， wo3 hua1 le 1000JPY￥ mai3 le yi1 xie1 ji4 nian4 pin3 。"
+    },
+    {
+        "id": "000258",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "JPY  (日元)"
+        ],
+        "text": "他在日本旅行时，花了1000JPY，体验了当地的文化和美食。",
+        "pinyin": "ta1 zai4 ri4 ben3 lv3 xing2 shi2 ， hua1 le 1000JPY， ti3 yan4 liao3 dang4 di4 de wen2 hua4 he2 mei3 shi2 。"
+    },
+    {
+        "id": "000259",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "KRW  (韩元)"
+        ],
+        "text": "兑换1000KRW大约能买一杯咖啡。",
+        "pinyin": "dui4 huan4 1000KRW da4 yue1 neng2 mai3 yi1 bei1 ka1 fei1 。"
+    },
+    {
+        "id": "000260",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "RUB  (俄罗斯卢布)"
+        ],
+        "text": "最近汇率波动较大，1美元可以兑换70RUB，投资需谨慎。",
+        "pinyin": "zui4 jin4 hui4 lv4 bo1 dong4 jiao4 da4 ，1 mei3 yuan2 ke3 yi3 dui4 huan4 70RUB， tou2 zi1 xu1 jin3 shen4 。"
+    },
+    {
+        "id": "000261",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "SAR  (沙特阿拉伯里亚尔)"
+        ],
+        "text": "他在沙特阿拉伯旅行时，用SAR支付购物，体验当地文化。",
+        "pinyin": "ta1 zai4 sha1 te4 a1 la1 bo2 lv3 xing2 shi2 ， yong4 SAR zhi1 fu4 gou4 wu4 ， ti3 yan4 dang1 di4 wen2 hua4 。"
+    },
+    {
+        "id": "000262",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "SEK  (瑞典克朗)"
+        ],
+        "text": "他在瑞典旅行时，发现1SEK的价值比想象中高，感叹瑞典克朗的稳定性。",
+        "pinyin": "ta1 zai4 rui4 dian3 lv3 xing2 shi2 ， fa1 xian4 1SEK de jia4 zhi2 bi3 xiang3 xiang4 zhong1 gao1 ， gan3 tan4 rui4 dian3 ke4 lang3 de wen3 ding4 xing4 。"
+    },
+    {
+        "id": "000263",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "SGD  (新加坡元)"
+        ],
+        "text": "这家餐厅的招牌菜售价为50SGD，物有所值，深受游客喜爱。",
+        "pinyin": "zhe4 jia1 can1 ting1 de zhao1 pai2 cai4 shou4 jia4 wei4 50SGD， wu4 you3 suo3 zhi2 ， shen1 shou4 you2 ke4 xi3 ai4 。"
+    },
+    {
+        "id": "000264",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "THB  (泰铢)"
+        ],
+        "text": "他在泰国旅行时，用100THB买了一些当地特色的纪念品。",
+        "pinyin": "ta1 zai4 tai4 guo2 lv3 xing2 shi2 ， yong4 100THB mai3 le yi1 xie1 dang1 di4 te4 se4 de ji4 nian4 pin3 。"
+    },
+    {
+        "id": "000265",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "TRY  (土耳其里拉)"
+        ],
+        "text": "最近TRY汇率波动较大，需要密切关注国际经济动态。",
+        "pinyin": "zui4 jin4 TRY hui4 lv4 bo1 dong4 jiao4 da4 ， xu1 yao4 mi4 qie4 guan1 zhu4 guo2 ji4 jing1 ji4 dong4 tai4 。"
+    },
+    {
+        "id": "000266",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "USD  (美元)"
+        ],
+        "text": "他在网上购买了一件衣服，花费了50USD，价格实惠。",
+        "pinyin": "ta1 zai4 wang3 shang4 gou4 mai3 le yi1 jian4 yi1 fu2 ， hua1 fei4 le 50USD， jia4 ge2 shi2 hui4 。"
+    },
+    {
+        "id": "000267",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "$  (美元)"
+        ],
+        "text": "这件衣服原价100$，现在打折只要50美元，真是物美价廉！",
+        "pinyin": "zhe4 jian4 yi1 fu2 yuan2 jia4 100$， xian4 zai4 da3 zhe2 zhi3 yao4 50 mei3 yuan2 ， zhen1 shi4 wu4 mei3 jia4 lian2 ！"
+    },
+    {
+        "id": "000268",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "£  (英镑)"
+        ],
+        "text": "这本书的价格是15£，我需要去找零钱。",
+        "pinyin": "zhe4 ben3 shu1 de jia4 ge2 shi4 15£， wo3 xu1 yao4 qu4 zhao3 ling2 qian2 。"
+    },
+    {
+        "id": "000269",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "￡  (英镑)"
+        ],
+        "text": "这本书的价格是15￡，相当实惠。",
+        "pinyin": "zhe4 ben3 shu1 de jia4 ge2 shi4 15￡， xiang1 dang1 shi2 hui4 。"
+    },
+    {
+        "id": "000270",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "¥  (元)"
+        ],
+        "text": "这本书的售价仅为15¥，是个物美价廉的好选择。",
+        "pinyin": "zhe4 ben3 shu1 de shou4 jia4 jin3 wei4 15¥， shi4 ge4 wu4 mei3 jia4 lian2 de hao3 xuan3 ze2 。"
+    },
+    {
+        "id": "000271",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "￥  (元)"
+        ],
+        "text": "这件衣服原价200￥，现在特价只需100￥，真是物美价廉！",
+        "pinyin": "zhe4 jian4 yi1 fu2 yuan2 jia4 200￥， xian4 zai4 te4 jia4 zhi3 xu1 100￥， zhen1 shi4 wu4 mei3 jia4 lian2 ！"
+    },
+    {
+        "id": "000272",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "฿  (泰铢)"
+        ],
+        "text": "他在泰国旅行时，用50฿换取了当地特色商品。",
+        "pinyin": "ta1 zai4 tai4 guo2 lv3 xing2 shi2 ， yong4 50฿ huan4 qu3 liao3 dang4 di4 te4 se4 shang1 pin3 。"
+    },
+    {
+        "id": "000273",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "€  (欧元)"
+        ],
+        "text": "这件衣服原价是50€，现在打折只要30€，真是物美价廉！",
+        "pinyin": "zhe4 jian4 yi1 fu2 yuan2 jia4 shi4 50€， xian4 zai4 da3 zhe2 zhi3 yao4 30€， zhen1 shi4 wu4 mei3 jia4 lian2 ！"
+    },
+    {
+        "id": "000274",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "₹  (印度卢比)"
+        ],
+        "text": "他在印度旅行时，花了199₹购买当地特色商品。",
+        "pinyin": "ta1 zai4 yin4 du4 lv3 xing2 shi2 ， hua1 le 199₹ gou4 mai3 dang1 di4 te4 se4 shang1 pin3 。"
+    },
+    {
+        "id": "000275",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "₽  (卢布)"
+        ],
+        "text": "他在俄罗斯旅行时，用50₽购买了一件传统的俄罗斯头巾。",
+        "pinyin": "ta1 zai4 e2 luo2 si1 lv3 xing2 shi2 ， yong4 50₽ gou4 mai3 le yi1 jian4 chuan2 tong3 de e2 luo2 si1 tou2 jin1 。"
+    },
+    {
+        "id": "000276",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "CHF  (瑞士法郎)"
+        ],
+        "text": "他的存款里有1000CHF，计划去瑞士旅行购物。",
+        "pinyin": "ta1 de cun2 kuan3 li3 you3 1000CHF， ji4 hua4 qu4 rui4 shi4 lv3 xing2 gou4 wu4 。"
+    },
+    {
+        "id": "000277",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "R$  (巴西雷亚尔)"
+        ],
+        "text": "他在巴西旅行时，发现1美元可以兑换5R$，觉得物价相对便宜。",
+        "pinyin": "ta1 zai4 ba1 xi1 lv3 xing2 shi2 ， fa1 xian4 1 mei3 yuan2 ke3 yi3 dui4 huan4 5R$， jue2 de wu4 jia4 xiang1 dui4 pian2 yi 。"
+    },
+    {
+        "id": "000278",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "价格是￥13.5  (价格是十三点五元)"
+        ],
+        "text": "这件衣服的价格是￥13.5，性价比非常高。",
+        "pinyin": "zhe4 jian4 yi1 fu2 de jia4 ge2 shi4 ￥13.5， xing4 jia4 bi3 fei1 chang2 gao1 。"
+    },
+    {
+        "id": "000279",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "价格是$13.5  (价格是十三点五美元)"
+        ],
+        "text": "这件衣服的价格是$13.5，性价比非常高！",
+        "pinyin": "zhe4 jian4 yi1 fu2 de jia4 ge2 shi4 $13.5， xing4 jia4 bi3 fei1 chang2 gao1 ！"
+    },
+    {
+        "id": "000280",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "价格是A$13.5  (价格是十三点五澳元)"
+        ],
+        "text": "这本书的价格是A$13.5，性价比非常高。",
+        "pinyin": "zhe4 ben3 shu1 de jia4 ge2 shi4 A$13.5， xing4 jia4 bi3 fei1 chang2 gao1 。"
+    },
+    {
+        "id": "000281",
+        "source": "特殊符号及数字_货币单位",
+        "words": [
+            "HKD13.5(价格是十三点五港元)"
+        ],
+        "text": "这件商品的价格是HKD13.5，性价比非常高。",
+        "pinyin": "zhe4 jian4 shang1 pin3 de jia4 ge2 shi4 HKD13.5， xing4 jia4 bi3 fei1 chang2 gao1 。"
+    }
+]

@@ -1,0 +1,4069 @@
+[
+    {
+        "id": "000001",
+        "source": "汉语多音字",
+        "words": [
+            "的 de5 搬起石头砸自己的脚",
+            "的 di2 的确",
+            "的 di4 众矢之的"
+        ],
+        "text": "他这是搬起石头砸自己的脚，成了众矢之的，这件事的确让人非议。",
+        "pinyin": "ta1 zhe4 shi4 ban1 qi3 shi2 tou za2 zi4 ji3 de jiao3，cheng2 le zhong4 shi3 zhi1 di4，zhe4 jian4 shi4 di2 que4 rang4 ren2 fei1 yi4。"
+    },
+    {
+        "id": "000002",
+        "source": "汉语多音字",
+        "words": [
+            "一 yi1 六一儿童节",
+            "一 yi2 一诺千金",
+            "一 yi4 一劳永逸"
+        ],
+        "text": "六一儿童节，父母一诺千金，给孩子们创造一劳永逸的幸福天地。",
+        "pinyin": "liu4 yi1 er2 tong2 jie2，fu4 mu3 yi2 nuo4 qian1 jin1，gei3 hai2 zi men chuang4 zao4 yi4 lao2 yong3 yi4 de xing4 fu2 tian1 di4。"
+    },
+    {
+        "id": "000003",
+        "source": "汉语多音字",
+        "words": [
+            "了 le5 赔了夫人又折兵",
+            "了 liao3 了解"
+        ],
+        "text": "与其赔了夫人又折兵，不如多做了解再做决定。",
+        "pinyin": "yu3 qi2 pei2 le fu1 ren2 you4 zhe2 bing1，bu4 ru2 duo1 zuo4 liao3 jie3 zai4 zuo4 jue2 ding4。"
+    },
+    {
+        "id": "000004",
+        "source": "汉语多音字",
+        "words": [
+            "不 bu2 不是",
+            "不 bu4 不知天高地厚"
+        ],
+        "text": "他不是职场新人，自然不会不知天高地厚。",
+        "pinyin": "ta1 bu2 shi4 zhi2 chang3 xin1 ren2，zi4 ran2 bu2 hui4 bu4 zhi1 tian1 gao1 di4 hou4。"
+    },
+    {
+        "id": "000005",
+        "source": "汉语多音字",
+        "words": [
+            "个 ge3 自个儿",
+            "个 ge4 个人"
+        ],
+        "text": "自个儿在家无聊，一个个人都想出去转转。",
+        "pinyin": "zi4 ge3 er2 zai4 jia1 wu2 liao2，yi2 ge4 ge4 ren2 dou1 xiang3 chu1 qu4 zhuan3 zhuan3。"
+    },
+    {
+        "id": "000006",
+        "source": "汉语多音字",
+        "words": [
+            "说 shui4 游说",
+            "说 shuo1 打开天窗说亮话"
+        ],
+        "text": "政客巧舌如簧，游说无门不入；面对矛盾，他却能打开天窗说亮话。",
+        "pinyin": "zheng4 ke4 qiao3 she2 ru2 huang2，you2 shui4 wu2 men2 bu4 ru4；mian4 dui4 mao2 dun4，ta1 que4 neng2 da3 kai1 tian1 chuang1 shuo1 liang4 hua4。"
+    },
+    {
+        "id": "000007",
+        "source": "汉语多音字",
+        "words": [
+            "上 shang3 上声",
+            "上 shang4 上梁不正下梁歪"
+        ],
+        "text": "老师教导我们，字的第三声，例如‘上’，是上声；在生活中必须端正态度，否则就是上梁不正下梁歪。",
+        "pinyin": "lao3 shi1 jiao4 dao3 wo3 men，zi4 de di4 san1 sheng1，li4 ru2‘shang4’，是shang4声；zai4 sheng1 huo2 zhong1 bi4 xu1 duan1 zheng4 tai4 du4，否则就是shang4梁不正下梁歪。"
+    },
+    {
+        "id": "000008",
+        "source": "汉语多音字",
+        "words": [
+            "着 zhao1 怎么着",
+            "着 zhao2 八竿子打不着",
+            "着 zhe5 摸着石头过河",
+            "着 zhuo2 附着力"
+        ],
+        "text": "他尝试制造附着力强的胶水，怎么着也要成功；哪怕现状八竿子打不着，也得摸着石头过河。",
+        "pinyin": "ta1 chang2 shi4 zhi4 zao4 fu4 zhuo2 li4 qiang2 de jiao1 shui3，zen3 me zhao1 ye3 yao4 cheng2 gong1；na3 pa4 xian4 zhuang4 ba1 gan1 zi3 da3 bu4 zhao2，ye3 de2 mo1 zhe shi2 tou guo4 he2。"
+    },
+    {
+        "id": "000009",
+        "source": "汉语多音字",
+        "words": [
+            "大 da4 第二次世界大战",
+            "大 dai4 大夫"
+        ],
+        "text": "第二次世界大战中，许多受伤的士兵被送往后方的大夫那里救治。",
+        "pinyin": "di4 er4 ci4 shi4 jie4 da4 zhan4 zhong1，xu3 duo1 shou4 shang1 di1 shi4 bing1 bei4 song4 wang3 hou4 fang1 de dai4 fu1 na4 li3 jiu4 zhi4。"
+    },
+    {
+        "id": "000010",
+        "source": "汉语多音字",
+        "words": [
+            "看 kan1 看家狗",
+            "看 kan4 杀鸡给猴看"
+        ],
+        "text": "这条看家狗机警得很，连杀鸡给猴看的场面也不放过。",
+        "pinyin": "zhe4 tiao2 kan1 jia1 gou3 ji1 jing3 de2 hen3，lian2 sha1 ji1 gei3 hou2 kan4 de chang3 mian4 ye3 bu4 fang4 guo4。"
+    },
+    {
+        "id": "000011",
+        "source": "汉语多音字",
+        "words": [
+            "要 yao1 要挟",
+            "要 yao4 生产要素"
+        ],
+        "text": "他用合同漏洞要挟公司，太不讲生产要素的合理配置了。",
+        "pinyin": "ta1 yong4 he2 tong2 lou4 dong4 yao1 xie2 gong1 si1，tai4 bu4 jiang3 sheng1 chan3 yao4 su4 de he2 li3 pei4 zhi4 le。"
+    },
+    {
+        "id": "000012",
+        "source": "汉语多音字",
+        "words": [
+            "中 zhong1 雪中送炭",
+            "中 zhong4 食物中毒"
+        ],
+        "text": "在困境时他像雪中送炭一般伸出援手;因不慎食物中毒,我住进了医院。",
+        "pinyin": "zai4 kun4 jing4 shi2 ta1 xiang4 xue3 zhong1 song4 tan4 yi4 ban1 shen1 chu1 yuan2 shou3;yin1 bu4 shen4 shi2 wu4 zhong4 du2,wo3 zhu4 jin4 le yi1 yuan4。"
+    },
+    {
+        "id": "000013",
+        "source": "汉语多音字",
+        "words": [
+            "没 mei2 没精打采",
+            "没 mo4 神出鬼没"
+        ],
+        "text": "他神出鬼没地完成任务，却显得没精打采。",
+        "pinyin": "ta1 shen2 chu1 gui3 mo4 di4 wan2 cheng2 ren4 wu4，que4 xian3 de mei2 jing1 da3 cai3。"
+    },
+    {
+        "id": "000014",
+        "source": "汉语多音字",
+        "words": [
+            "里 li3 宰相肚里能撑船",
+            "里 li5 窝里反"
+        ],
+        "text": "他虽然表面温和，却是宰相肚里能撑船，对于窝里反的事态更是处之泰然。",
+        "pinyin": "ta1 sui1 ran2 biao3 mian4 wen1 he2，que4 shi4 zai3 xiang1 du4 li3 neng2 cheng1 chuan2，dui4 yu2 wo1 li fan3 de shi4 tai4 geng4 shi4 chu3 zhi1 tai4 ran2。"
+    },
+    {
+        "id": "000015",
+        "source": "汉语多音字",
+        "words": [
+            "为 wei2 习以为常",
+            "为 wei4 舍己为人"
+        ],
+        "text": "他总是舍己为人，已经习以为常了。",
+        "pinyin": "ta1 zong3 shi4 she3 ji3 wei4 ren2，yi3 jing1 xi2 yi3 wei2 chang2 le。"
+    },
+    {
+        "id": "000016",
+        "source": "汉语多音字",
+        "words": [
+            "好 hao3 恰到好处",
+            "好 hao4 洁身自好"
+        ],
+        "text": "她洁身自好，每次烹饪调味恰到好处。",
+        "pinyin": "ta1 jie2 shen1 zi4 hao4，mei3 ci4 peng1 ren4 tiao2 wei4 qia4 dao4 hao3 chu4。"
+    },
+    {
+        "id": "000017",
+        "source": "汉语多音字",
+        "words": [
+            "得 de2 求之不得",
+            "得 de5 对得住",
+            "得 dei3 总得"
+        ],
+        "text": "这份工作求之不得，总得好好干，要对得住公司的信任。",
+        "pinyin": "zhe4 fen4 gong1 zuo4 qiu2 zhi1 bu4 de2，zong3 dei3 hao3 hao3 gan4，yao4 dui4 de zhu4 gong1 si1 de xin4 ren4。"
+    },
+    {
+        "id": "000018",
+        "source": "汉语多音字",
+        "words": [
+            "可 ke3 可望而不可即",
+            "可 ke4 可汗"
+        ],
+        "text": "那座遥远的城堡，可望而不可即，如同古老传说中威严的可汗。",
+        "pinyin": "na4 zuo4 yao2 yuan3 de cheng2 bao3，ke3 wang4 er2 bu4 ke3 ji2，ru2 tong2 gu3 lao3 chuan2 shuo1 zhong1 wei1 yan2 de ke4 han2。"
+    },
+    {
+        "id": "000019",
+        "source": "汉语多音字",
+        "words": [
+            "会 hui4 社会",
+            "会 kuai4 会计"
+        ],
+        "text": "在社会上，会计人员为企业合规运作提供了保障。",
+        "pinyin": "zai4 she4 hui4 shang4，kuai4 ji4 ren2 yuan2 wei4 qi3 ye4 he2 gui1 yun4 zuo4 ti2 gong1 le bao3 zhang4。"
+    },
+    {
+        "id": "000020",
+        "source": "汉语多音字",
+        "words": [
+            "还 hai2 解铃还须系铃人",
+            "还 huan2 返老还童"
+        ],
+        "text": "他想借助科技返老还童，却发现解铃还须系铃人。",
+        "pinyin": "ta1 xiang3 jie4 zhu4 ke1 ji4 fan3 lao3 huan2 tong2，que4 fa1 xian4 jie3 ling2 hai2 xu1 xi4 ling2 ren2。"
+    },
+    {
+        "id": "000021",
+        "source": "汉语多音字",
+        "words": [
+            "都 dou1 全都",
+            "都 du1 古都"
+        ],
+        "text": "去过的古都是旅行心中的美好记忆，全都难忘。",
+        "pinyin": "qu4 guo4 de gu3 du1 shi4 lv3 xing2 xin1 zhong1 de mei3 hao3 ji4 yi4，quan2 dou1 nan2 wang4。"
+    },
+    {
+        "id": "000022",
+        "source": "汉语多音字",
+        "words": [
+            "和 he2 和平",
+            "和 he4 曲高和寡",
+            "和 huo2 和面儿",
+            "和 huo4 和稀泥"
+        ],
+        "text": "他倡导和平，却总是曲高和寡，幸好他会和面儿，不会总和稀泥。",
+        "pinyin": "ta1 chang4 dao3 he2 ping2，que4 zong3 shi4 qu3 gao1 he4 gua3，xing4 hao3 ta1 hui4 huo2 mian4 er2，bu2 hui4 zong3 he2 xi1 ni2。"
+    },
+    {
+        "id": "000023",
+        "source": "汉语多音字",
+        "words": [
+            "只 zhi1 脚踏两只船",
+            "只 zhi3 只要"
+        ],
+        "text": "王浩宁只要专心，就不会再脚踏两只船。",
+        "pinyin": "wang2 hao4 ning2 zhi3 yao4 zhuan1 xin1，jiu4 bu2 hui4 zai4 jiao3 ta4 liang3 zhi1 chuan2。"
+    },
+    {
+        "id": "000024",
+        "source": "汉语多音字",
+        "words": [
+            "什 shen2 没什么",
+            "什 shi2 布尔什维克"
+        ],
+        "text": "问他什么事，他总回答说没什么；那本关于布尔什维克的书很有趣。",
+        "pinyin": "wen4 ta1 shen2 me shi4，ta1 zong3 hui2 da2 shuo1 mei2 shen2 me；na4 ben3 guan1 yu2 bu4 er3 shi2 wei2 ke4 de shu1 hen3 you3 qu4。"
+    },
+    {
+        "id": "000025",
+        "source": "汉语多音字",
+        "words": [
+            "头 tou2 头破血流",
+            "头 tou5 丫头"
+        ],
+        "text": "那丫头不小心跌倒，头破血流地哭了起来。",
+        "pinyin": "na4 ya1 tou bu4 xiao3 xin1 die1 dao3，tou2 po4 xue4 liu2 di4 ku1 le qi3 lai2。"
+    },
+    {
+        "id": "000026",
+        "source": "汉语多音字",
+        "words": [
+            "家 jia1 国家所有制",
+            "家 jia5 亲家"
+        ],
+        "text": "他对国家所有制的研究颇有造诣，而我的亲家也是该领域的专家。",
+        "pinyin": "ta1 dui4 guo2 jia1 suo3 you3 zhi4 de yan2 jiu1 po3 you3 zao4 yi4，er2 wo3 de qing4 jia ye3 shi4 gai1 ling3 yu4 de zhuan1 jia1。"
+    },
+    {
+        "id": "000027",
+        "source": "汉语多音字",
+        "words": [
+            "无 mo2 南无阿弥陀佛",
+            "无 wu2 巧妇难为无米之炊"
+        ],
+        "text": "他面对困境，合掌虔诚念着南无阿弥陀佛，却也感叹巧妇难为无米之炊。",
+        "pinyin": "ta1 mian4 dui4 kun4 jing4，he2 zhang3 qian2 cheng2 nian4 zhe na1 mo2 e1 mi2 tuo2 fo2，que4 ye3 gan3 tan4 qiao3 fu4 nan2 wei2 wu2 mi3 zhi1 chui1。"
+    },
+    {
+        "id": "000028",
+        "source": "汉语多音字",
+        "words": [
+            "发 fa1 牵一发而动全身",
+            "发 fa4 披头散发"
+        ],
+        "text": "他牵一发而动全身，冲动之下披头散发离去。",
+        "pinyin": "ta1 qian1 yi1 fa4 er2 dong4 quan2 shen1，chong1 dong4 zhi1 xia4 pi1 tou2 san4 fa4 li2 qu4。"
+    },
+    {
+        "id": "000029",
+        "source": "汉语多音字",
+        "words": [
+            "把 ba3 眉毛胡子一把抓",
+            "把 ba4 刀把儿"
+        ],
+        "text": "这件事你别把眉毛胡子一把抓，先找到刀把儿再说。",
+        "pinyin": "zhe4 jian4 shi4 ni3 bie2 ba3 mei2 mao2 hu2 zi yi1 ba3 zhua1，xian1 zhao3 dao4 dao1 ba4 er zai4 shuo1。"
+    },
+    {
+        "id": "000030",
+        "source": "汉语多音字",
+        "words": [
+            "见 jian4 不见棺材不落泪",
+            "见 xian4 图穷匕首见"
+        ],
+        "text": "历经阴谋，终于到了图穷匕首见的时刻，他竟然还是不见棺材不落泪。",
+        "pinyin": "li4 jing1 yin1 mou2，zhong1 yu2 dao4 le tu2 qiong2 bi3 shou3 xian4 de shi2 ke4，ta1 jing4 ran2 hai2 shi4 bu4 jian4 guan1 cai2 bu4 luo4 lei4。"
+    },
+    {
+        "id": "000031",
+        "source": "汉语多音字",
+        "words": [
+            "当 dang1 门当户对",
+            "当 dang4 正当防卫"
+        ],
+        "text": "这门婚事是门当户对的好姻缘，且他行使正当防卫，无可非议。",
+        "pinyin": "zhe4 men2 hun1 shi4 shi4 men2 dang1 hu4 dui4 de hao3 yin1 yuan2，qie3 ta1 xing2 shi3 zheng4 dang4 fang2 wei4，wu2 ke3 fei1 yi4。"
+    },
+    {
+        "id": "000032",
+        "source": "汉语多音字",
+        "words": [
+            "长 chang2 长江后浪推前浪",
+            "长 zhang3 长子"
+        ],
+        "text": "长子总说，要像长江后浪推前浪，勇往直前。",
+        "pinyin": "zhang3 zi3 zong3 shuo1，yao4 xiang4 chang2 jiang1 hou4 lang4 tui1 qian2 lang4，yong3 wang3 zhi2 qian2。"
+    },
+    {
+        "id": "000033",
+        "source": "汉语多音字",
+        "words": [
+            "间 jian1 格林尼治时间",
+            "间 jian4 间接经验"
+        ],
+        "text": "在格林尼治时间下午三点间，他通过阅读积累了大量间接经验。",
+        "pinyin": "zai4 ge2 lin2 ni2 zhi4 shi2 jian1 xia4 wu3 san1 dian3 jian1，ta1 tong1 guo4 yue4 du2 ji1 lei3 le da4 liang4 jian4 jie1 jing1 yan4。"
+    },
+    {
+        "id": "000034",
+        "source": "汉语多音字",
+        "words": [
+            "给 gei3 杀鸡给猴看",
+            "给 ji3 补给线"
+        ],
+        "text": "他们故意杀鸡给猴看，以此警示那些不听话的人，同时确保前线的补给线畅通无阻。",
+        "pinyin": "ta1 men gu4 yi4 sha1 ji1 gei3 hou2 kan4，yi3 ci3 jing3 shi4 na4 xie1 bu4 ting1 hua4 de ren2，tong2 shi2 que4 bao3 qian2 xian4 de bu3 ji3 xian4 chang4 tong1 wu2 zu3。"
+    },
+    {
+        "id": "000035",
+        "source": "汉语多音字",
+        "words": [
+            "正 zheng1 正月",
+            "正 zheng4 一本正经"
+        ],
+        "text": "正月里，他总是一本正经的坚持做早操。",
+        "pinyin": "zheng1 yue4 li3，ta1 zong3 shi4 yi1 ben3 zheng4 jing1 de jian1 chi2 zuo4 zao3 cao1。"
+    },
+    {
+        "id": "000036",
+        "source": "汉语多音字",
+        "words": [
+            "打 da2 小苏打",
+            "打 da3 打破沙锅问到底"
+        ],
+        "text": "妈妈用小苏打清洁厨房，我则打破沙锅问到底寻找失物。",
+        "pinyin": "ma1 ma1 yong4 xiao3 su1 da2 qing1 jie2 chu2 fang2，wo3 ze2 da3 po4 sha1 guo1 wen4 dao4 di3 xun2 zhao3 shi1 wu4。"
+    },
+    {
+        "id": "000037",
+        "source": "汉语多音字",
+        "words": [
+            "几 ji1 茶几",
+            "几 ji3 曾几何时"
+        ],
+        "text": "曾几何时，你我满座谈天，今日却是冷清的茶几上只剩下几人。",
+        "pinyin": "ceng2 ji3 he2 shi2，ni3 wo3 man3 zuo4 tan2 tian1，jin1 ri4 que4 shi4 leng3 qing1 de cha2 ji1 shang4 zhi3 sheng4 xia4 ji3 ren2。"
+    },
+    {
+        "id": "000038",
+        "source": "汉语多音字",
+        "words": [
+            "行 hang2 三百六十行",
+            "行 hang4 树行子",
+            "行 heng2 道行",
+            "行 xing2 行程"
+        ],
+        "text": "三百六十行，行行出状元；郁郁葱葱的树行子紧挨着道行，已是我下月行程的终点。",
+        "pinyin": "san1 bai3 liu4 shi2 hang2，hang2 hang2 chu1 zhuang4 yuan2；yu4 yu4 cong1 cong1 de shu4 hang4 zi jin3 ai1 zhe dao4 heng2，yi3 shi4 wo3 xia4 yue4 xing2 cheng2 de zhong1 dian3。"
+    },
+    {
+        "id": "000039",
+        "source": "汉语多音字",
+        "words": [
+            "种 zhong3 外来物种入侵",
+            "种 zhong4 广种薄收"
+        ],
+        "text": "为了防止外来物种入侵，我们要采取措施，避免广种薄收的结果。",
+        "pinyin": "wei4 le fang2 zhi3 wai4 lai2 wu4 zhong3 ru4 qin1，wo3 men yao4 cai3 qu3 cuo4 shi1，bi4 mian3 guang3 zhong4 bo2 shou1 de jie2 guo3。"
+    },
+    {
+        "id": "000040",
+        "source": "汉语多音字",
+        "words": [
+            "将 jiang1 将信将疑",
+            "将 jiang4 运动健将",
+            "将 qiang1 将进酒"
+        ],
+        "text": "他对这个消息将信将疑，但作为运动健将，选择用李白的《将进酒》来鼓舞士气。",
+        "pinyin": "ta1 dui4 zhe4 ge4 xiao1 xi1 jiang1 xin4 jiang1 yi2，dan4 zuo4 wei2 yun4 dong4 jian4 jiang4，xuan3 ze2 yong4 li3 bai2 de《qiang1 jin4 jiu3》lai2 gu3 wu3 shi4 qi4。"
+    },
+    {
+        "id": "000041",
+        "source": "汉语多音字",
+        "words": [
+            "同 tong2 不可同日而语",
+            "同 tong4 死胡同"
+        ],
+        "text": "他的才华与你不可同日而语，决策失误让公司陷入了死胡同。",
+        "pinyin": "ta1 de cai2 hua2 yu3 ni3 bu4 ke3 tong2 ri4 er2 yu3，jue2 ce4 shi1 wu4 rang4 gong1 si1 xian4 ru4 le si3 hu2 tong4。"
+    },
+    {
+        "id": "000042",
+        "source": "汉语多音字",
+        "words": [
+            "分 fen1 高分子化合物",
+            "分 fen4 安分守己"
+        ],
+        "text": "高分子化合物的研究对材料科学至关重要，而人们则需安分守己，共建和谐社会。",
+        "pinyin": "gao1 fen1 zi3 hua4 he2 wu4 de yan2 jiu1 dui4 cai2 liao4 ke1 xue2 zhi4 guan1 zhong4 yao4，er2 ren2 men ze2 xu1 an1 fen4 shou3 ji3，gong4 jian4 he2 xie2 she4 hui4。"
+    },
+    {
+        "id": "000043",
+        "source": "汉语多音字",
+        "words": [
+            "作 zuo1 作坊",
+            "作 zuo4 信用合作社"
+        ],
+        "text": "他在乡下开了一个木工作坊，同时也是信用合作社的成员。",
+        "pinyin": "ta1 zai4 xiang1 xia4 kai1 le yi2 ge4 mu4 gong1 zuo1 fang1，tong2 shi2 ye3 shi4 xin4 yong4 he2 zuo4 she4 de cheng2 yuan2。"
+    },
+    {
+        "id": "000044",
+        "source": "汉语多音字",
+        "words": [
+            "吧 ba1 酒吧间",
+            "吧 ba5 好吧"
+        ],
+        "text": "好吧，我们就在那家酒吧间见面。",
+        "pinyin": "hao3 ba，wo3 men jiu4 zai4 na4 jia1 jiu3 ba1 jian1 jian4 mian4。"
+    },
+    {
+        "id": "000045",
+        "source": "汉语多音字",
+        "words": [
+            "觉 jiao4 午觉",
+            "觉 jue2 神不知鬼不觉"
+        ],
+        "text": "他下午偷得浮生半日闲，神不知鬼不觉地睡了个午觉。",
+        "pinyin": "ta1 xia4 wu3 tou1 de2 fu2 sheng1 ban4 ri4 xian2，shen2 bu4 zhi1 gui3 bu4 jue2 di4 shui4 le ge4 wu3 jiao4。"
+    },
+    {
+        "id": "000046",
+        "source": "汉语多音字",
+        "words": [
+            "与 yu3 与日俱增",
+            "与 yu4 与闻（参与其事并知道内情）"
+        ],
+        "text": "他的影响力与日俱增，因为他总是与闻于那些重大事件。",
+        "pinyin": "ta1 de ying3 xiang3 li4 yu3 ri4 ju4 zeng1，yin1 wei4 ta1 zong3 shi4 yu4 wen2 yu2 na4 xie1 zhong4 da4 shi4 jian4。"
+    },
+    {
+        "id": "000047",
+        "source": "汉语多音字",
+        "words": [
+            "相 xiang1 狭路相逢",
+            "相 xiang4 傻瓜相机"
+        ],
+        "text": "昨日偶遇老对头，真是狭路相逢；我只用傻瓜相机记录了这一刻。",
+        "pinyin": "zuo2 ri4 ou3 yu4 lao3 dui4 tou2，zhen1 shi4 xia2 lu4 xiang1 feng2；wo3 zhi3 yong4 sha3 gua1 xiang4 ji1 ji4 lu4 le zhe4 yi1 ke4。"
+    },
+    {
+        "id": "000048",
+        "source": "汉语多音字",
+        "words": [
+            "吗 ma2 干吗",
+            "吗 ma3 吗啡"
+        ],
+        "text": "你老追问我干吗，难道你吗啡上瘾了吗？",
+        "pinyin": "ni3 lao3 zhui1 wen4 wo3 gan4 ma2，nan2 dao4 ni3 ma3 fei1 shang4 yin3 le ma？"
+    },
+    {
+        "id": "000049",
+        "source": "汉语多音字",
+        "words": [
+            "别 bie2 特别行政区",
+            "别 bie4 闹别扭"
+        ],
+        "text": "香港是中国的一个特别行政区，不必跟朋友闹别扭。",
+        "pinyin": "xiang1 gang3 shi4 zhong1 guo2 de yi2 ge4 te4 bie2 xing2 zheng4 qu1，bu4 bi4 gen1 peng2 you3 nao4 bie4 niu3。"
+    },
+    {
+        "id": "000050",
+        "source": "汉语多音字",
+        "words": [
+            "色 se4 特色",
+            "色 shai3 色子"
+        ],
+        "text": "这家餐厅的特色菜肴令人回味无穷，而那里摆放的骰子桌上，几个客人正开心地摇着色子。",
+        "pinyin": "zhe4 jia1 can1 ting1 de te4 se4 cai4 yao2 ling4 ren2 hui2 wei4 wu2 qiong2，er2 na4 li3 bai3 fang4 de tou2 zi3 zhuo1 shang4，ji3 ge4 ke4 ren2 zheng4 kai1 xin1 di4 yao2 zhuo2 se4 zi。"
+    },
+    {
+        "id": "000051",
+        "source": "汉语多音字",
+        "words": [
+            "少 shao3 少见多怪",
+            "少 shao4 少年先锋队"
+        ],
+        "text": "少年先锋队的孩子们少见多怪，对一切都充满好奇。",
+        "pinyin": "shao4 nian2 xian1 feng1 dui4 de hai2 zi men shao3 jian4 duo1 guai4，dui4 yi1 qie4 dou1 chong1 man3 hao4 qi2。"
+    },
+    {
+        "id": "000052",
+        "source": "汉语多音字",
+        "words": [
+            "重 chong2 重修旧好",
+            "重 zhong4 重要"
+        ],
+        "text": "在他看来，重修旧好比任何事情都重要。",
+        "pinyin": "zai4 ta1 kan4 lai2，chong2 xiu1 jiu4 hao3 bi3 ren4 he2 shi4 qing2 dou1 zhong4 yao4。"
+    },
+    {
+        "id": "000053",
+        "source": "汉语多音字",
+        "words": [
+            "体 ti1 体己（亲近的、贴心的）",
+            "体 ti3 太阳系小天体"
+        ],
+        "text": "他对我很体己，甚至为我命名了一颗太阳系小天体。",
+        "pinyin": "ta1 dui4 wo3 hen3 ti1 ji3，shen4 zhi4 wei4 wo3 ming4 ming2 le yi1 ke1 tai4 yang2 xi4 xiao3 tian1 ti3。"
+    },
+    {
+        "id": "000054",
+        "source": "汉语多音字",
+        "words": [
+            "呢 ne5 好呢",
+            "呢 ni2 呢子（一种面料）"
+        ],
+        "text": "这件呢子外套真好呢，穿上既保暖又时尚。",
+        "pinyin": "zhe4 jian4 ni2 zi3 wai4 tao4 zhen1 hao3 ne，chuan1 shang4 ji4 bao3 nuan3 you4 shi2 shang4。"
+    },
+    {
+        "id": "000055",
+        "source": "汉语多音字",
+        "words": [
+            "应 ying1 应有尽有",
+            "应 ying4 原子核反应堆"
+        ],
+        "text": "这家电器商场应有尽有，连最新型的原子核反应堆都能订购。",
+        "pinyin": "zhe4 jia1 dian4 qi4 shang1 chang3 ying1 you3 jin4 you3，lian2 zui4 xin1 xing2 de yuan2 zi3 he2 fan3 ying4 dui1 dou1 neng2 ding4 gou4。"
+    },
+    {
+        "id": "000056",
+        "source": "汉语多音字",
+        "words": [
+            "便 bian4 有奶便是娘",
+            "便 pian2 大腹便便"
+        ],
+        "text": "这个社会，有些人真是有奶便是娘，为了利益大腹便便地奔波。",
+        "pinyin": "zhe4 ge4 she4 hui4，you3 xie1 ren2 zhen1 shi4 you3 nai3 bian4 shi4 niang2，wei4 le li4 yi4 da4 fu4 pian2 pian2 di4 ben1 bo1。"
+    },
+    {
+        "id": "000057",
+        "source": "汉语多音字",
+        "words": [
+            "难 nan2 困难",
+            "难 nan4 患难与共"
+        ],
+        "text": "生活中遇到难题，我们要患难与共。",
+        "pinyin": "sheng1 huo2 zhong1 yu4 dao4 nan2 ti2，wo3 men yao4 huan4 nan4 yu3 gong4。"
+    },
+    {
+        "id": "000058",
+        "source": "汉语多音字",
+        "words": [
+            "更 geng1 国际日期变更线",
+            "更 geng4 更上一层楼"
+        ],
+        "text": "当飞机穿越国际日期变更线时，他立志更上一层楼。",
+        "pinyin": "dang1 fei1 ji1 chuan1 yue4 guo2 ji4 ri4 qi1 bian4 geng1 xian4 shi2，ta1 li4 zhi4 geng4 shang4 yi1 ceng2 lou2。"
+    },
+    {
+        "id": "000059",
+        "source": "汉语多音字",
+        "words": [
+            "处 chu3 和平共处",
+            "处 chu4 街道办事处"
+        ],
+        "text": "两国为实现和平共处，派代表到街道办事处会谈。",
+        "pinyin": "liang3 guo2 wei4 shi2 xian4 he2 ping2 gong4 chu3，pai4 dai4 biao3 dao4 jie1 dao4 ban4 shi4 chu4 hui4 tan2。"
+    },
+    {
+        "id": "000060",
+        "source": "汉语多音字",
+        "words": [
+            "空 kong1 空想社会主义",
+            "空 kong4 空白点"
+        ],
+        "text": "他批评对方的计划如同空想社会主义，计划书上也有许多空白点。",
+        "pinyin": "ta1 pi1 ping2 dui4 fang1 de ji4 hua4 ru2 tong2 kong1 xiang3 she4 hui4 zhu3 yi4，ji4 hua4 shu1 shang4 ye3 you3 xu3 duo1 kong4 bai2 dian3。"
+    },
+    {
+        "id": "000061",
+        "source": "汉语多音字",
+        "words": [
+            "场 chang2 打场子",
+            "场 chang3 市场"
+        ],
+        "text": "他在市场上打了个场子，生意红火起来。",
+        "pinyin": "ta1 zai4 shi4 chang3 shang4 da3 le ge4 chang3 zi，sheng1 yi4 hong2 huo3 qi3 lai2。"
+    },
+    {
+        "id": "000062",
+        "source": "汉语多音字",
+        "words": [
+            "思 sai1 于思（常叠用，形容胡子极多）",
+            "思 si1 挖空心思"
+        ],
+        "text": "他挖空心思地工作，结果却变成了满脸于思于思。",
+        "pinyin": "ta1 wa1 kong1 xin1 si1 di4 gong1 zuo4，jie2 guo3 que4 bian4 cheng2 le man3 lian3 yu2 sai1 yu2 sai1。"
+    },
+    {
+        "id": "000063",
+        "source": "汉语多音字",
+        "words": [
+            "亲 qin1 众叛亲离",
+            "亲 qing4 亲家母"
+        ],
+        "text": "他经历众叛亲离，而我却成了他亲家母的倾诉对象。",
+        "pinyin": "ta1 jing1 li4 zhong4 pan4 qin1 li2，er2 wo3 que4 cheng2 le ta1 qing4 jia1 mu3 de qing1 su4 dui4 xiang4。"
+    },
+    {
+        "id": "000064",
+        "source": "汉语多音字",
+        "words": [
+            "强 jiang4 倔强",
+            "强 qiang2 强热带风暴",
+            "强 qiang3 强词夺理"
+        ],
+        "text": "倔强的孩子面对强热带风暴毫不畏惧，但却总是强词夺理。",
+        "pinyin": "jue2 jiang4 de hai2 zi mian4 dui4 qiang2 re4 dai4 feng1 bao4 hao2 bu4 wei4 ju4，dan4 que4 zong3 shi4 qiang3 ci2 duo2 li3。"
+    },
+    {
+        "id": "000065",
+        "source": "汉语多音字",
+        "words": [
+            "车 che1 车到山前必有路",
+            "车 ju1 舍车保帅"
+        ],
+        "text": "围棋比赛中，他采取了舍车保帅的策略，果然车到山前必有路，最终扭转了局势。",
+        "pinyin": "wei2 qi2 bi3 sai4 zhong1，ta1 cai3 qu3 le she4 ju1 bao3 shuai4 de ce4 lve4，guo3 ran2 che1 dao4 shan1 qian2 bi4 you3 lu4，zui4 zhong1 niu3 zhuan3 liao3 ju2 shi4。"
+    },
+    {
+        "id": "000066",
+        "source": "汉语多音字",
+        "words": [
+            "解 jie3 远水解不了近渴",
+            "解 jie4 押解",
+            "解 xie4 解数（使出浑身解数）"
+        ],
+        "text": "囚犯被押解途中，警察使出浑身解数，但远水解不了近渴，终未能阻止其逃逸。",
+        "pinyin": "qiu2 fan4 bei4 ya1 jie4 tu2 zhong1，jing3 cha2 shi3 chu1 hun2 shen1 xie4 shu4，dan4 yuan3 shui3 jie3 bu4 liao3 jin4 ke3，zhong1 wei4 neng2 zu3 zhi3 qi2 tao2 yi4。"
+    },
+    {
+        "id": "000067",
+        "source": "汉语多音字",
+        "words": [
+            "红 gong1 女红",
+            "红 hong2 中国工农红军"
+        ],
+        "text": "她绣花技艺高超，是村里有名的女红;我的祖辈曾是中国工农红军的一员。",
+        "pinyin": "ta1 xiu4 hua1 ji4 yi4 gao1 chao1，shi4 cun1 li3 you3 ming2 de nv3 gong1;wo3 de zu3 bei4 ceng2 shi4 zhong1 guo2 gong1 nong2 hong2 jun1 de yi1 yuan2。"
+    },
+    {
+        "id": "000068",
+        "source": "汉语多音字",
+        "words": [
+            "转 zhuai3 转文（指说话时不用口语而用文言文，显示自己有学问）",
+            "转 zhuan3 星移斗转",
+            "转 zhuan4 天旋地转"
+        ],
+        "text": "他一口转文回答，让人感觉星移斗转，仿佛经历了天旋地转。",
+        "pinyin": "ta1 yi1 kou3 zhuai3 wen2 hui2 da2，rang4 ren2 gan3 jue2 xing1 yi2 dou3 zhuan3，fang3 fu2 jing1 li4 le tian1 xuan2 di4 zhuan4。"
+    },
+    {
+        "id": "000069",
+        "source": "汉语多音字",
+        "words": [
+            "似 shi4 似的（像...似的）",
+            "似 si4 如饥似渴"
+        ],
+        "text": "他对成功的渴望如饥似渴，每天工作都是拼命三郎似的。",
+        "pinyin": "ta1 dui4 cheng2 gong1 de ke3 wang4 ru2 ji1 si4 ke3，mei3 tian1 gong1 zuo4 dou1 shi4 pin1 ming4 san1 lang2 shi4 de。"
+    },
+    {
+        "id": "000070",
+        "source": "汉语多音字",
+        "words": [
+            "万 mo4 (姓氏)",
+            "万 wan4 (极多, 数量大)"
+        ],
+        "text": "万家灯火中，万俟先生淡然自若，对世事变换似乎早有洞悉，万变不离其宗。",
+        "pinyin": "wan4 jia1 deng1 huo3 zhong1，mo4 qi2 xian1 sheng1 dan4 ran2 zi4 ruo4，dui4 shi4 shi4 bian4 huan4 si4 hu1 zao3 you3 dong4 xi1，wan4 bian4 bu4 li2 qi2 zong1。"
+    },
+    {
+        "id": "000071",
+        "source": "汉语多音字",
+        "words": [
+            "干 gan1 化干戈为玉帛",
+            "干 gan4 精明强干"
+        ],
+        "text": "通过外交手段，成功化干戈为玉帛，国内也需有精明强干的领导者。",
+        "pinyin": "tong1 guo4 wai4 jiao1 shou3 duan4，cheng2 gong1 hua4 gan1 ge1 wei2 yu4 bo2，guo2 nei4 ye3 xu1 you3 jing1 ming2 qiang2 gan4 de ling3 dao3 zhe3。"
+    },
+    {
+        "id": "000072",
+        "source": "汉语多音字",
+        "words": [
+            "通 tong1 心有灵犀一点通",
+            "通 tong4 一通"
+        ],
+        "text": "俗话说心有灵犀一点通，他却偏要打一通电话确认。",
+        "pinyin": "su2 hua4 shuo1 xin1 you3 ling2 xi1 yi1 dian3 tong1，ta1 que4 pian1 yao4 da3 yi2 tong4 dian4 hua4 que4 ren4。"
+    },
+    {
+        "id": "000073",
+        "source": "汉语多音字",
+        "words": [
+            "量 liang2 车载斗量",
+            "量 liang4 阿伏伽德罗常量"
+        ],
+        "text": "书店新书车载斗量，而课本倒提到了阿伏伽德罗常量。",
+        "pinyin": "shu1 dian4 xin1 shu1 che1 zai4 dou3 liang2，er2 ke4 ben3 dao4 ti2 dao4 le a1 fu2 ga1 de2 luo2 chang2 liang4。"
+    },
+    {
+        "id": "000074",
+        "source": "汉语多音字",
+        "words": [
+            "结 jie1 结巴",
+            "结 jie2 瞠目结舌"
+        ],
+        "text": "每当别人问及隐私，他总是结结巴巴的，听得旁人瞠目结舌。",
+        "pinyin": "mei3 dang1 bie2 ren2 wen4 ji2 yin3 si1，ta1 zong3 shi4 jie1 jie1 ba1 ba1 de，ting1 de2 pang2 ren2 cheng1 mu4 jie2 she2。"
+    },
+    {
+        "id": "000075",
+        "source": "汉语多音字",
+        "words": [
+            "拉 la1 埃博拉出血热",
+            "拉 la3 半拉",
+            "拉 la4 拉下"
+        ],
+        "text": "经理命令他将半拉货物拉下，没想到他染了埃博拉出血热。",
+        "pinyin": "jing1 li3 ming4 ling4 ta1 jiang1 ban4 la3 huo4 wu4 la1 xia4，mei2 xiang3 dao4 ta1 ran3 le ai1 bo2 la1 chu1 xue4 re4。"
+    },
+    {
+        "id": "000076",
+        "source": "汉语多音字",
+        "words": [
+            "倒 dao3 穷途潦倒",
+            "倒 dao4 本末倒置"
+        ],
+        "text": "他生意失败后，穷途潦倒，还常本末倒置地做决策。",
+        "pinyin": "ta1 sheng1 yi4 shi1 bai4 hou4，qiong2 tu2 liao2 dao3，hai2 chang2 ben3 mo4 dao4 zhi4 di4 zuo4 jue2 ce4。"
+    },
+    {
+        "id": "000077",
+        "source": "汉语多音字",
+        "words": [
+            "度 du4 温度计",
+            "度 duo2 审时度势"
+        ],
+        "text": "他用温度计测量水温，又审时度势决定是否下水游泳。",
+        "pinyin": "ta1 yong4 wen1 du4 ji4 ce4 liang2 shui3 wen1，you4 shen3 shi2 duo2 shi4 jue2 ding4 shi4 fou3 xia4 shui3 you2 yong3。"
+    },
+    {
+        "id": "000078",
+        "source": "汉语多音字",
+        "words": [
+            "教 jiao1 教书匠",
+            "教 jiao4 科学教育影片"
+        ],
+        "text": "那位教书匠为孩子们放映科学教育影片，丰富了他们的课余生活。",
+        "pinyin": "na4 wei4 jiao1 shu1 jiang4 wei4 hai2 zi men fang4 ying4 ke1 xue2 jiao4 yu4 ying3 pian1，feng1 fu4 le ta1 men de ke4 yu2 sheng1 huo2。"
+    },
+    {
+        "id": "000079",
+        "source": "汉语多音字",
+        "words": [
+            "谁 shei2 鹿死谁手",
+            "谁 shui2 花落谁家"
+        ],
+        "text": "这场商战，最终鹿死谁手尚无定论；谁家庭院里落英缤纷，只花落谁家已是谜。",
+        "pinyin": "zhe4 chang3 shang1 zhan4，zui4 zhong1 lu4 si3 shei2 shou3 shang4 wu2 ding4 lun4；shui2 jia1 ting2 yuan4 li3 luo4 ying1 bin1 fen1，zhi3 hua1 luo4 shui2 jia1 yi3 shi4 mi2。"
+    },
+    {
+        "id": "000080",
+        "source": "汉语多音字",
+        "words": [
+            "落 la4 丢三落四",
+            "落 lao4 莲花落（一种说唱曲艺艺术）",
+            "落 luo4 不见棺材不落泪"
+        ],
+        "text": "他经常丢三落四，不见棺材不落泪，唯独听到莲花落，总是津津有味。",
+        "pinyin": "ta1 jing1 chang2 diu1 san1 la4 si4，bu4 jian4 guan1 cai2 bu4 luo4 lei4，wei2 du2 ting1 dao4 lian2 hua1 lao4，zong3 shi4 jin1 jin1 you3 wei4。"
+    },
+    {
+        "id": "000081",
+        "source": "汉语多音字",
+        "words": [
+            "传 chuan2 传宗接代",
+            "传 zhuan4 圣经贤传"
+        ],
+        "text": "家族典礼上，长辈讲述祖先英勇传宗接代的故事，仿佛圣经贤传般庄严神圣。",
+        "pinyin": "jia1 zu2 dian3 li3 shang4，zhang3 bei4 jiang3 shu4 zu3 xian1 ying1 yong3 chuan2 zong1 jie1 dai4 de gu4 shi4，fang3 fu2 sheng4 jing1 xian2 zhuan4 ban1 zhuang1 yan2 shen2 sheng4。"
+    },
+    {
+        "id": "000082",
+        "source": "汉语多音字",
+        "words": [
+            "提 di1 提防",
+            "提 ti2 提心吊胆"
+        ],
+        "text": "他每日提心吊胆，对周遭的人提防备至。",
+        "pinyin": "ta1 mei3 ri4 ti2 xin1 diao4 dan3，dui4 zhou1 zao1 de ren2 di1 fang2 bei4 zhi4。"
+    },
+    {
+        "id": "000083",
+        "source": "汉语多音字",
+        "words": [
+            "哪 na3 哪门子",
+            "哪 nei3 哪会儿"
+        ],
+        "text": "你这是哪门子理论？我哪会儿说过这事？",
+        "pinyin": "ni3 zhe4 shi4 na3 men2 zi3 li3 lun4？wo3 nei3 hui4 er shuo1 guo4 zhe4 shi4？"
+    },
+    {
+        "id": "000084",
+        "source": "汉语多音字",
+        "words": [
+            "数 shu3 数不胜数",
+            "数 shu4 工业品出厂价格指数",
+            "数 shuo4 数见不鲜"
+        ],
+        "text": "这项调查显示，市场上廉价工业品出厂价格指数上涨，而数不胜数的问题也因而数见不鲜。",
+        "pinyin": "zhe4 xiang4 diao4 cha2 xian3 shi4，shi4 chang3 shang4 lian2 jia4 gong1 ye4 pin3 chu1 chang3 jia4 ge2 zhi3 shu4 shang4 zhang3，er2 shu3 bu4 sheng4 shu3 de wen4 ti2 ye3 yin1 er2 shuo4 jian4 bu4 xian1。"
+    },
+    {
+        "id": "000085",
+        "source": "汉语多音字",
+        "words": [
+            "奇 ji1 奇数",
+            "奇 qi2 奇形怪状"
+        ],
+        "text": "他喜欢收集奇数序列的数字，以及各种奇形怪状的石头。",
+        "pinyin": "ta1 xi3 huan1 shou1 ji2 ji1 shu4 xu4 lie4 de shu4 zi4，yi3 ji2 ge4 zhong3 qi2 xing2 guai4 zhuang4 de shi2 tou。"
+    },
+    {
+        "id": "000086",
+        "source": "汉语多音字",
+        "words": [
+            "衣 yi1 白衣天使",
+            "衣 yi4 衣锦还乡"
+        ],
+        "text": "白衣天使夜以继日救人无数，梦想衣锦还乡得荣誉。",
+        "pinyin": "bai2 yi1 tian1 shi3 ye4 yi3 ji4 ri4 jiu4 ren2 wu2 shu4，meng4 xiang3 yi4 jin3 huan2 xiang1 de2 rong2 yu4。"
+    },
+    {
+        "id": "000087",
+        "source": "汉语多音字",
+        "words": [
+            "系 ji4 解铃系铃",
+            "系 xi4 解铃还须系铃人"
+        ],
+        "text": "面对问题，要有解铃系铃的勇气；关键时刻，解铃还须系铃人来。",
+        "pinyin": "mian4 dui4 wen4 ti2，yao4 you3 jie3 ling2 ji4 ling2 de yong3 qi4；guan1 jian4 shi2 ke4，jie3 ling2 hai2 xu1 xi4 ling2 ren2 lai2。"
+    },
+    {
+        "id": "000088",
+        "source": "汉语多音字",
+        "words": [
+            "般 ban1 十八般武艺",
+            "般 bo1 般若"
+        ],
+        "text": "他精通般若心经，如同演练十八般武艺般游刃有余。",
+        "pinyin": "ta1 jing1 tong1 bo1 re3 xin1 jing1，ru2 tong2 yan3 lian4 shi2 ba1 ban1 wu3 yi4 ban1 you2 ren4 you3 yu2。"
+    },
+    {
+        "id": "000089",
+        "source": "汉语多音字",
+        "words": [
+            "血 xie3 一针见血",
+            "血 xue4 埃博拉出血热"
+        ],
+        "text": "医生的诊断一针见血，明确了他患上了埃博拉出血热。",
+        "pinyin": "yi1 sheng1 de zhen3 duan4 yi1 zhen1 jian4 xie3，ming2 que4 le ta1 huan4 shang4 le ai1 bo2 la1 chu1 xue4 re4。"
+    },
+    {
+        "id": "000090",
+        "source": "汉语多音字",
+        "words": [
+            "切 qie1 望闻问切",
+            "切 qie4 切肤之痛"
+        ],
+        "text": "医生恪守望闻问切，患者却感受到切肤之痛。",
+        "pinyin": "yi1 sheng1 ke4 shou3 wang4 wen2 wen4 qie1，huan4 zhe3 que4 gan3 shou4 dao4 qie4 fu1 zhi1 tong4。"
+    },
+    {
+        "id": "000091",
+        "source": "汉语多音字",
+        "words": [
+            "夫 fu1 赔了夫人又折兵",
+            "夫 fu2 若夫"
+        ],
+        "text": "街头争斗本想劝架，若夫一不慎，竟赔了夫人又折兵。",
+        "pinyin": "jie1 tou2 zheng1 dou4 ben3 xiang3 quan4 jia4，ruo4 fu2 yi1 bu4 shen4，jing4 pei2 le fu1 ren2 you4 zhe2 bing1。"
+    },
+    {
+        "id": "000092",
+        "source": "汉语多音字",
+        "words": [
+            "哈 ha1 嘻嘻哈哈",
+            "哈 ha3 哈达（一种藏族丝织品）",
+            "哈 ha4 哈什蚂（一种林蛙）"
+        ],
+        "text": "在藏族朋友的聚会上，大家嘻嘻哈哈，互赠哈达，还品尝了哈什蚂。",
+        "pinyin": "zai4 zang4 zu2 peng2 you3 de ju4 hui4 shang4，da4 jia1 xi1 xi1 ha1 ha1，hu4 zeng4 ha3 da2，hai2 pin3 chang2 le ha4 shi2 ma3。"
+    },
+    {
+        "id": "000093",
+        "source": "汉语多音字",
+        "words": [
+            "阿 a1 阿猫阿狗",
+            "阿 e1 刚正不阿"
+        ],
+        "text": "不像他，总是阿谀奉承，连阿猫阿狗都不放过；你要做人刚正不阿。",
+        "pinyin": "bu4 xiang4 ta1，zong3 shi4 e1 yu2 feng4 cheng2，lian2 a1 mao1 a1 gou3 dou1 bu4 fang4 guo4；ni3 yao4 zuo4 ren2 gang1 zheng4 bu4 e1。"
+    },
+    {
+        "id": "000094",
+        "source": "汉语多音字",
+        "words": [
+            "冲 chong1 怒发冲冠",
+            "冲 chong4 冲劲儿"
+        ],
+        "text": "他一怒发冲冠，冲劲儿十足地步入会场。",
+        "pinyin": "ta1 yi1 nu4 fa4 chong1 guan1，chong4 jin4 er shi2 zu2 di4 bu4 ru4 hui4 chang3。"
+    },
+    {
+        "id": "000095",
+        "source": "汉语多音字",
+        "words": [
+            "片 pian1 科学教育影片",
+            "片 pian4 第二次鸦片战争"
+        ],
+        "text": "老师放了一片科学教育影片，深入讲解了鸦片战争的历史。",
+        "pinyin": "lao3 shi1 fang4 le yi1 pian4 ke1 xue2 jiao4 yu4 ying3 pian1，shen1 ru4 jiang3 jie3 le ya1 pian4 zhan4 zheng1 de li4 shi3。"
+    },
+    {
+        "id": "000096",
+        "source": "汉语多音字",
+        "words": [
+            "南 na1 南无",
+            "南 nan2 南瓜"
+        ],
+        "text": "念着南无阿弥陀佛，她将南瓜切开做成了美味的饼。",
+        "pinyin": "nian4 zhe na1 mo2 e1 mi2 tuo2 fo2，ta1 jiang1 nan2 gua1 qie4 kai1 zuo4 cheng2 le mei3 wei4 de bing3。"
+    },
+    {
+        "id": "000097",
+        "source": "汉语多音字",
+        "words": [
+            "兴 xing1 文艺复兴",
+            "兴 xing4 兴高采烈"
+        ],
+        "text": "他研究文艺复兴时期的艺术史，因此总是兴高采烈地讲解每一幅名画。",
+        "pinyin": "ta1 yan2 jiu1 wen2 yi4 fu4 xing1 shi2 qi1 de yi4 shu4 shi3，yin1 ci3 zong3 shi4 xing4 gao1 cai3 lie4 di4 jiang3 jie3 mei3 yi1 fu2 ming2 hua4。"
+    },
+    {
+        "id": "000098",
+        "source": "汉语多音字",
+        "words": [
+            "令 ling2 令狐",
+            "令 ling4 令行禁止"
+        ],
+        "text": "令狐冲是金庸笔下的侠客，其行为令人称道，但宫中有令行禁止，不可逾越。",
+        "pinyin": "ling2 hu2 chong1 shi4 jin1 yong1 bi3 xia4 de xia2 ke4，qi2 xing2 wei2 ling4 ren2 cheng1 dao4，dan4 gong1 zhong1 you3 ling4 xing2 jin4 zhi3，bu4 ke3 yu2 yue4。"
+    },
+    {
+        "id": "000099",
+        "source": "汉语多音字",
+        "words": [
+            "识 shi2 识时务者为俊杰",
+            "识 zhi4 博闻强识"
+        ],
+        "text": "识时务者为俊杰，他还博闻强识，真乃人杰。",
+        "pinyin": "shi2 shi2 wu4 zhe3 wei2 jun4 jie2，ta1 hai2 bo2 wen2 qiang2 zhi4，zhen1 nai3 ren2 jie2。"
+    },
+    {
+        "id": "000100",
+        "source": "汉语多音字",
+        "words": [
+            "若 re3 阿兰若（森林）",
+            "若 ruo4 求贤若渴"
+        ],
+        "text": "他在阿兰若中修行，对外求贤若渴，希望得到真传。",
+        "pinyin": "ta1 zai4 a1 lan2 re3 zhong1 xiu1 xing2，dui4 wai4 qiu2 xian2 ruo4 ke3，xi1 wang4 de2 dao4 zhen1 chuan2。"
+    },
+    {
+        "id": "000101",
+        "source": "汉语多音字",
+        "words": [
+            "尽 jin3 尽量",
+            "尽 jin4 丧尽天良"
+        ],
+        "text": "看你这样丧尽天良，我真是尽量忍耐了。",
+        "pinyin": "kan4 ni3 zhe4 yang4 sang4 jin4 tian1 liang2，wo3 zhen1 shi4 jin3 liang4 ren3 nai4 le。"
+    },
+    {
+        "id": "000102",
+        "source": "汉语多音字",
+        "words": [
+            "答 da1 羞羞答答",
+            "答 da2 答非所问"
+        ],
+        "text": "当众提问时，她羞羞答答，常常答非所问，显得十分紧张。",
+        "pinyin": "dang1 zhong4 ti2 wen4 shi2，ta1 xiu1 xiu1 da1 da1，chang2 chang2 da2 fei1 suo3 wen4，xian3 de shi2 fen1 jin3 zhang1。"
+    },
+    {
+        "id": "000103",
+        "source": "汉语多音字",
+        "words": [
+            "乐 le4 何乐而不为",
+            "乐 yue4 广东音乐"
+        ],
+        "text": "喜爱广东音乐的他，何乐而不为地成为了一名乐手。",
+        "pinyin": "xi3 ai4 guang3 dong1 yin1 yue4 de ta1，he2 le4 er2 bu4 wei2 di4 cheng2 wei2 le yi1 ming2 le4 shou3。"
+    },
+    {
+        "id": "000104",
+        "source": "汉语多音字",
+        "words": [
+            "单 chan2 单于",
+            "单 dan1 原子质量单位",
+            "单 shan4 单（姓）"
+        ],
+        "text": "单于显赫一时，而我们学校的单老师正在讲授原子质量单位。",
+        "pinyin": "chan2 yu2 xian3 he4 yi1 shi2，er2 wo3 men xue2 xiao4 de dan1 lao3 shi1 zheng4 zai4 jiang3 shou4 yuan2 zi zhi4 liang4 dan1 wei4。"
+    },
+    {
+        "id": "000105",
+        "source": "汉语多音字",
+        "words": [
+            "朝 chao2 胳膊肘儿朝外拐",
+            "朝 zhao1 有朝一日"
+        ],
+        "text": "你这样胳膊肘儿朝外拐，有朝一日会后悔的。",
+        "pinyin": "ni3 zhe4 yang4 ge1 bo2 zhou3 er chao2 wai4 guai3，you3 zhao1 yi1 ri4 hui4 hou4 hui3 de。"
+    },
+    {
+        "id": "000106",
+        "source": "汉语多音字",
+        "words": [
+            "喝 he1 喝西北风",
+            "喝 he4 喝彩"
+        ],
+        "text": "窗外寒风凛冽，我仿佛能喝到西北风；台上演员表现精彩，观众齐声喝彩。",
+        "pinyin": "chuang1 wai4 han2 feng1 lin3 lie4，wo3 fang3 fu2 neng2 he1 dao4 xi1 bei3 feng1；tai2 shang4 yan3 yuan2 biao3 xian4 jing1 cai3，guan1 zhong4 qi2 sheng1 he4 cai3。"
+    },
+    {
+        "id": "000107",
+        "source": "汉语多音字",
+        "words": [
+            "台 tai1 天台宗",
+            "台 tai2 台钟"
+        ],
+        "text": "山间古寺，一位僧人讲解天台宗心法，旁边的台钟悠扬敲响。",
+        "pinyin": "shan1 jian1 gu3 si4，yi1 wei4 seng1 ren2 jiang3 jie3 tian1 tai1 zong1 xin1 fa3，pang2 bian1 de tai2 zhong1 you1 yang2 qiao1 xiang3。"
+    },
+    {
+        "id": "000108",
+        "source": "汉语多音字",
+        "words": [
+            "丽 li2 高丽纸",
+            "丽 li4 华丽转身"
+        ],
+        "text": "舞者用高丽纸制作的扇子，完成了一次华丽转身。",
+        "pinyin": "wu3 zhe3 yong4 gao1 li2 zhi3 zhi4 zuo4 de shan4 zi，wan2 cheng2 le yi1 ci4 hua2 li4 zhuan3 shen1。"
+    },
+    {
+        "id": "000109",
+        "source": "汉语多音字",
+        "words": [
+            "背 bei1 背包袱",
+            "背 bei4 背信弃义"
+        ],
+        "text": "他背着沉重的包袱不离不弃，而他却背信弃义离我而去。",
+        "pinyin": "ta1 bei4 zhe chen2 zhong4 de bao1 fu2 bu4 li2 bu4 qi4，er2 ta1 que4 bei4 xin4 qi4 yi4 li2 wo3 er2 qu4。"
+    },
+    {
+        "id": "000110",
+        "source": "汉语多音字",
+        "words": [
+            "校 jiao4 校勘学",
+            "校 xiao4 专科学校"
+        ],
+        "text": "他在专科学校教书，业余研究校勘学。",
+        "pinyin": "ta1 zai4 zhuan1 ke1 xue2 xiao4 jiao1 shu1，ye4 yu2 yan2 jiu1 jiao4 kan1 xue2。"
+    },
+    {
+        "id": "000111",
+        "source": "汉语多音字",
+        "words": [
+            "曾 ceng2 曾经沧海",
+            "曾 zeng1 曾祖父"
+        ],
+        "text": "曾祖父是一位曾经沧海的老船长。",
+        "pinyin": "zeng1 zu3 fu4 shi4 yi1 wei4 ceng2 jing1 cang1 hai3 de lao3 chuan2 zhang3。"
+    },
+    {
+        "id": "000112",
+        "source": "汉语多音字",
+        "words": [
+            "露 lou4 露馅儿",
+            "露 lu4 初露锋芒"
+        ],
+        "text": "小张初露锋芒，分析报告一出便露馅儿，公司泄密者原来是他。",
+        "pinyin": "xiao3 zhang1 chu1 lu4 feng1 mang2，fen1 xi1 bao4 gao4 yi1 chu1 bian4 lou4 xian4 er2，gong1 si1 xie4 mi4 zhe3 yuan2 lai2 shi4 ta1。"
+    },
+    {
+        "id": "000113",
+        "source": "汉语多音字",
+        "words": [
+            "观 guan1 社会主义核心价值观",
+            "观 guan4 道观"
+        ],
+        "text": "他每逢重大节日都会到道观祈福，身体力行社会主义核心价值观。",
+        "pinyin": "ta1 mei3 feng2 zhong4 da4 jie2 ri4 dou1 hui4 dao4 dao4 guan4 qi2 fu2，shen1 ti3 li4 xing2 she4 hui4 zhu3 yi4 he2 xin1 jia4 zhi2 guan1。"
+    },
+    {
+        "id": "000114",
+        "source": "汉语多音字",
+        "words": [
+            "术 shu4 经济技术开发区",
+            "术 zhu2 白术"
+        ],
+        "text": "他在经济技术开发区工作，对种植白术有独到的心得。",
+        "pinyin": "ta1 zai4 jing1 ji4 ji4 shu4 kai1 fa1 qu1 gong1 zuo4，dui4 zhong4 zhi2 bai2 zhu2 you3 du2 dao4 de xin1 de2。"
+    },
+    {
+        "id": "000115",
+        "source": "汉语多音字",
+        "words": [
+            "甚 shen2 干甚么",
+            "甚 shen4 不求甚解"
+        ],
+        "text": "对于这件事，你干甚么都无济于事，不求甚解就好。",
+        "pinyin": "dui4 yu2 zhe4 jian4 shi4，ni3 gan4 shen2 me dou1 wu2 ji4 yu2 shi4，bu4 qiu2 shen4 jie3 jiu4 hao3。"
+    },
+    {
+        "id": "000116",
+        "source": "汉语多音字",
+        "words": [
+            "差 cha1 阴错阳差",
+            "差 cha4 差一点儿",
+            "差 chai1 钦差大臣",
+            "差 ci1 参差"
+        ],
+        "text": "阴错阳差间，钦差大臣迷路，差一点儿迟到，路边树木参差不齐。",
+        "pinyin": "yin1 cuo4 yang2 cha1 jian1，qin1 chai1 da4 chen2 mi2 lu4，cha4 yi4 dian3 er chi2 dao4，lu4 bian1 shu4 mu4 cen1 ci1 bu4 qi2。"
+    },
+    {
+        "id": "000117",
+        "source": "汉语多音字",
+        "words": [
+            "斗 dou3 才高八斗",
+            "斗 dou4 坐山观虎斗"
+        ],
+        "text": "他才高八斗，却爱坐山观虎斗，不愿涉世沉浮。",
+        "pinyin": "ta1 cai2 gao1 ba1 dou3，que4 ai4 zuo4 shan1 guan1 hu3 dou4，bu4 yuan4 she4 shi4 chen2 fu2。"
+    },
+    {
+        "id": "000118",
+        "source": "汉语多音字",
+        "words": [
+            "角 jiao3 五角大楼",
+            "角 jue2 唱主角"
+        ],
+        "text": "他在戏剧中唱主角，成了五角大楼的保卫英雄。",
+        "pinyin": "ta1 zai4 xi4 ju4 zhong1 chang4 zhu3 jue2，cheng2 le wu3 jiao3 da4 lou2 de bao3 wei4 ying1 xiong2。"
+    },
+    {
+        "id": "000119",
+        "source": "汉语多音字",
+        "words": [
+            "调 diao4 老调重弹",
+            "调 tiao2 烹调"
+        ],
+        "text": "他因总是老调重弹，烹调技术却一直没提高。",
+        "pinyin": "ta1 yin1 zong3 shi4 lao3 diao4 zhong4 dan4，peng1 tiao2 ji4 shu4 que4 yi4 zhi2 mei2 ti2 gao1。"
+    },
+    {
+        "id": "000120",
+        "source": "汉语多音字",
+        "words": [
+            "号 hao2 奔走呼号",
+            "号 hao4 天字第一号"
+        ],
+        "text": "小李子竭尽全力地奔走呼号，可那家饭店仍是天字第一号，无人能出其右。",
+        "pinyin": "xiao3 li3 zi jie2 jin4 quan2 li4 di4 ben1 zou3 hu1 hao2，ke3 na4 jia1 fan4 dian4 reng2 shi4 tian1 zi4 di4 yi1 hao4，wu2 ren2 neng2 chu1 qi2 you4。"
+    },
+    {
+        "id": "000121",
+        "source": "汉语多音字",
+        "words": [
+            "节 jie1 节子（木材上的疤痕）",
+            "节 jie2 五一国际劳动节"
+        ],
+        "text": "五一国际劳动节那天，他送我一块雕刻精美的木板，上面的每一个节子都见证了时间的流逝。",
+        "pinyin": "wu3 yi1 guo2 ji4 lao2 dong4 jie2 na4 tian1，ta1 song4 wo3 yi1 kuai4 diao1 ke4 jing1 mei3 de mu4 ban3，shang4 mian4 de mei3 yi2 ge4 jie1 zi3 dou1 jian4 zheng4 le shi2 jian1 de liu2 shi4。"
+    },
+    {
+        "id": "000122",
+        "source": "汉语多音字",
+        "words": [
+            "渐 jian1 渐染",
+            "渐 jian4 循序渐进"
+        ],
+        "text": "讲座中，他循序渐进地讲解，知识也渐渐染进了学生们的心中。",
+        "pinyin": "jiang3 zuo4 zhong1，ta1 xun2 xu4 jian4 jin4 di4 jiang3 jie3，zhi1 shi2 ye3 jian4 jian1 ran3 jin4 le xue2 sheng1 men de xin1 zhong1。"
+    },
+    {
+        "id": "000123",
+        "source": "汉语多音字",
+        "words": [
+            "区 ou1 区（姓）",
+            "区 qu1 景区"
+        ],
+        "text": "区小姐经常去不同的景区旅游，欣赏各地的美景。",
+        "pinyin": "qu1 xiao3 jie3 jing1 chang2 qu4 bu4 tong2 de jing3 qu1 lv3 you2，xin1 shang3 ge4 di4 de mei3 jing3。"
+    },
+    {
+        "id": "000124",
+        "source": "汉语多音字",
+        "words": [
+            "佛 fo2 佛教",
+            "佛 fu2 仿佛"
+        ],
+        "text": "他皈依佛教后，整个人佛了，仿佛超脱了尘世。",
+        "pinyin": "ta1 gui1 yi1 fo2 jiao4 hou4，zheng3 ge4 ren2 fu2 le，fang3 fu2 chao1 tuo1 le chen2 shi4。"
+    },
+    {
+        "id": "000125",
+        "source": "汉语多音字",
+        "words": [
+            "散 san3 一盘散沙",
+            "散 san4 驱散"
+        ],
+        "text": "部门成员缺乏合作，如一盘散沙，经理决定采取行动驱散这种消极态度。",
+        "pinyin": "bu4 men2 cheng2 yuan2 que1 fa2 he2 zuo4，ru2 yi1 pan2 san3 sha1，jing1 li3 jue2 ding4 cai3 qu3 xing2 dong4 qu1 san4 zhe4 zhong3 xiao1 ji2 tai4 du4。"
+    },
+    {
+        "id": "000126",
+        "source": "汉语多音字",
+        "words": [
+            "否 fou3 不置可否",
+            "否 pi3 否极泰来"
+        ],
+        "text": "他对问题不置可否，或许在等着否极泰来的那一天。",
+        "pinyin": "ta1 dui4 wen4 ti2 bu4 zhi4 ke3 fou3，huo4 xu3 zai4 deng3 zhe pi3 ji2 tai4 lai2 de na4 yi1 tian1。"
+    },
+    {
+        "id": "000127",
+        "source": "汉语多音字",
+        "words": [
+            "恶 e3 恶心",
+            "恶 e4 恶臭",
+            "恶 wu4 深恶痛绝"
+        ],
+        "text": "这垃圾堆散发的恶臭让人恶心，我对此深恶痛绝。",
+        "pinyin": "zhe4 la1 ji1 dui1 san4 fa4 de e4 chou4 rang4 ren2 e3 xin1，wo3 dui4 ci3 shen1 wu4 tong4 jue2。"
+    },
+    {
+        "id": "000128",
+        "source": "汉语多音字",
+        "words": [
+            "排 pai2 排难解纷",
+            "排 pai3 排子车"
+        ],
+        "text": "他总能排难解纷，像推排子车一样解决问题。",
+        "pinyin": "ta1 zong3 neng2 pai2 nan4 jie3 fen1，xiang4 tui1 pai3 zi3 che1 yi1 yang4 jie3 jue2 wen4 ti2。"
+    },
+    {
+        "id": "000129",
+        "source": "汉语多音字",
+        "words": [
+            "担 dan1 担惊受怕",
+            "担 dan4 扁担"
+        ],
+        "text": "他总是担惊受怕，一如挑着扁担的力气都快用光了。",
+        "pinyin": "ta1 zong3 shi4 dan1 jing1 shou4 pa4，yi1 ru2 tiao1 zhe bian3 dan4 de li4 qi4 dou1 kuai4 yong4 guang1 le。"
+    },
+    {
+        "id": "000130",
+        "source": "汉语多音字",
+        "words": [
+            "称 chen4 称职",
+            "称 cheng1 称兄道弟"
+        ],
+        "text": "他工作非常称职，同事间都称兄道弟。",
+        "pinyin": "ta1 gong1 zuo4 fei1 chang2 chen4 zhi2，tong2 shi4 jian1 dou1 cheng1 xiong1 dao4 di4。"
+    },
+    {
+        "id": "000131",
+        "source": "汉语多音字",
+        "words": [
+            "压 ya1 标准大气压",
+            "压 ya4 压根儿"
+        ],
+        "text": "他的心情比标准大气压还要沉重，压根儿就没放松过。",
+        "pinyin": "ta1 de xin1 qing2 bi3 biao1 zhun3 da4 qi4 ya1 hai2 yao4 chen2 zhong4，ya4 gen1 er2 jiu4 mei2 fang4 song1 guo4。"
+    },
+    {
+        "id": "000132",
+        "source": "汉语多音字",
+        "words": [
+            "卷 juan3 风卷残云",
+            "卷 juan4 手不释卷"
+        ],
+        "text": "他像风卷残云般吃光全桌菜，而她则手不释卷，专注备考。",
+        "pinyin": "ta1 xiang4 feng1 juan3 can2 yun2 ban1 chi1 guang1 quan2 zhuo1 cai4，er2 ta1 ze2 shou3 bu4 shi4 juan4，zhuan1 zhu4 bei4 kao3。"
+    },
+    {
+        "id": "000133",
+        "source": "汉语多音字",
+        "words": [
+            "据 ju1 拮据",
+            "据 ju4 真凭实据"
+        ],
+        "text": "拮据的生活让他学会精打细算；案件侦破需真凭实据。",
+        "pinyin": "jie2 ju1 de sheng1 huo2 rang4 ta1 xue2 hui4 jing1 da3 xi4 suan4；an4 jian4 zhen1 po4 xu1 zhen1 ping2 shi2 ju4。"
+    },
+    {
+        "id": "000134",
+        "source": "汉语多音字",
+        "words": [
+            "卡 ka3 社会保障卡",
+            "卡 qia3 关卡"
+        ],
+        "text": "在领取社会保障卡时，他遇到了不少的行政关卡。",
+        "pinyin": "zai4 ling3 qu3 she4 hui4 bao3 zhang4 ka3 shi2，ta1 yu4 dao4 le bu4 shao3 de xing2 zheng4 guan1 qia3。"
+    },
+    {
+        "id": "000135",
+        "source": "汉语多音字",
+        "words": [
+            "刺 ci1 刺溜",
+            "刺 ci4 针刺麻醉"
+        ],
+        "text": "他那刺溜的眼神让人不寒而栗，如同针刺麻醉般令人不适。",
+        "pinyin": "ta1 na4 ci1 liu1 de yan3 shen2 rang4 ren2 bu4 han2 er2 li4，ru2 tong2 zhen1 ci4 ma2 zui4 ban1 ling4 ren2 bu4 shi4。"
+    },
+    {
+        "id": "000136",
+        "source": "汉语多音字",
+        "words": [
+            "属 shu3 有色金属",
+            "属 zhu3 属望"
+        ],
+        "text": "这个新矿区发现了稀有的属金属，引起了国内外专家的强烈属望。",
+        "pinyin": "zhe4 ge4 xin1 kuang4 qu1 fa1 xian4 le xi1 you3 de shu3 jin1 shu3，yin3 qi3 le guo2 nei4 wai4 zhuan1 jia1 de qiang2 lie4 zhu3 wang4。"
+    },
+    {
+        "id": "000137",
+        "source": "汉语多音字",
+        "words": [
+            "禁 jin1 情不自禁",
+            "禁 jin4 禁制品"
+        ],
+        "text": "他想到即将重逢，便情不自禁地微笑起来；机场内明令禁止携带禁制品。",
+        "pinyin": "ta1 xiang3 dao4 ji2 jiang1 chong2 feng2，bian4 qing2 bu4 zi4 jin1 di4 wei1 xiao4 qi3 lai2；ji1 chang3 nei4 ming2 ling4 jin4 zhi3 xie2 dai4 jin4 zhi4 pin3。"
+    },
+    {
+        "id": "000138",
+        "source": "汉语多音字",
+        "words": [
+            "弄 long4 弄堂",
+            "弄 nong4 故弄玄虚"
+        ],
+        "text": "他在狭窄的弄堂中缓步，却总喜欢故弄玄虚，神秘兮兮。",
+        "pinyin": "ta1 zai4 xia2 zhai3 de long4 tang2 zhong1 huan3 bu4，que4 zong3 xi3 huan1 gu4 nong4 xuan2 xu1，shen2 mi4 xi1 xi1。"
+    },
+    {
+        "id": "000139",
+        "source": "汉语多音字",
+        "words": [
+            "参 can1 参军",
+            "参 cen1 参错（排列不整齐）",
+            "参 shen1 西洋参"
+        ],
+        "text": "他参军前，因为参错队形，被教官训斥，喝了一碗西洋参汤后心情好了些。",
+        "pinyin": "ta1 can1 jun1 qian2，yin1 wei4 cen1 cuo4 dui4 xing2，bei4 jiao4 guan1 xun4 chi4，he1 le yi1 wan3 xi1 yang2 shen1 tang1 hou4 xin1 qing2 hao3 le xie1。"
+    },
+    {
+        "id": "000140",
+        "source": "汉语多音字",
+        "words": [
+            "划 hua2 划不来",
+            "划 hua4 计划"
+        ],
+        "text": "做这笔生意明显划不来，还是按原计划推进吧。",
+        "pinyin": "zuo4 zhe4 bi3 sheng1 yi4 ming2 xian3 hua2 bu4 lai2，hai2 shi4 an4 yuan2 ji4 hua4 tui1 jin4 ba。"
+    },
+    {
+        "id": "000141",
+        "source": "汉语多音字",
+        "words": [
+            "模 mo2 模糊空间",
+            "模 mu2 人模狗样"
+        ],
+        "text": "在模糊空间中，他总是人模狗样，让人琢磨不透。",
+        "pinyin": "zai4 mo2 hu2 kong1 jian1 zhong1，ta1 zong3 shi4 ren2 mu2 gou3 yang4，rang4 ren2 zuo2 mo2 bu4 tou4。"
+    },
+    {
+        "id": "000142",
+        "source": "汉语多音字",
+        "words": [
+            "假 jia3 假模假样",
+            "假 jia4 假日"
+        ],
+        "text": "假日里，他仍然假模假样地忙碌着，不愿放松。",
+        "pinyin": "jia4 ri4 li3，ta1 reng2 ran2 jia3 mo2 jia3 yang4 di4 mang2 lu4 zhe，bu4 yuan4 fang4 song1。"
+    },
+    {
+        "id": "000143",
+        "source": "汉语多音字",
+        "words": [
+            "啦 la1 呼啦圈",
+            "啦 la5 劈里啪啦"
+        ],
+        "text": "孩子手上转着呼啦圈，雨劈里啪啦地下个不停。",
+        "pinyin": "hai2 zi shou3 shang4 zhuan3 zhe hu1 la1 quan1，yu3 pi1 li3 pa1 la di4 xia4 ge4 bu4 ting2。"
+    },
+    {
+        "id": "000144",
+        "source": "汉语多音字",
+        "words": [
+            "弹 dan4 照明弹",
+            "弹 tan2 对牛弹琴"
+        ],
+        "text": "敌暗处潜行，我军及时发射照明弹；与他论道，简直是对牛弹琴。",
+        "pinyin": "di2 an4 chu4 qian2 xing2，wo3 jun1 ji2 shi2 fa1 she4 zhao4 ming2 dan4；yu3 ta1 lun4 dao4，jian3 zhi2 shi4 dui4 niu2 tan2 qin2。"
+    },
+    {
+        "id": "000145",
+        "source": "汉语多音字",
+        "words": [
+            "食 shi2 饥不择食",
+            "食 si4 箪食壶浆"
+        ],
+        "text": "穷途末路，他饥不择食；流离失所，只得箪食壶浆相随。",
+        "pinyin": "qiong2 tu2 mo4 lu4，ta1 ji1 bu4 ze2 shi2；liu2 li2 shi1 suo3，zhi3 de dan1 si4 hu2 jiang1 xiang1 sui2。"
+    },
+    {
+        "id": "000146",
+        "source": "汉语多音字",
+        "words": [
+            "摸 mo1 摸着石头过河",
+            "摸 mo2 摸(摹)"
+        ],
+        "text": "企业家摸着石头过河，不断学习前辈，将经验摸到自家业务中。",
+        "pinyin": "qi3 ye4 jia1 mo1 zhe shi2 tou guo4 he2，bu4 duan4 xue2 xi2 qian2 bei4，jiang1 jing1 yan4 mo1 dao4 zi4 jia1 ye4 wu4 zhong1。"
+    },
+    {
+        "id": "000147",
+        "source": "汉语多音字",
+        "words": [
+            "藏 cang2 藏污纳垢",
+            "藏 zang4 藏红花"
+        ],
+        "text": "他家的储藏室既藏污纳垢，又存放着珍贵的藏红花。",
+        "pinyin": "ta1 jia1 de chu3 cang2 shi4 ji4 cang2 wu1 na4 gou4，you4 cun2 fang4 zhe zhen1 gui4 de zang4 hong2 hua1。"
+    },
+    {
+        "id": "000148",
+        "source": "汉语多音字",
+        "words": [
+            "混 hun2 混浊",
+            "混 hun4 钢筋混凝土"
+        ],
+        "text": "施工现场到处是钢筋混凝土，水库因为暴雨变得混浊。",
+        "pinyin": "shi1 gong1 xian4 chang3 dao4 chu4 shi4 gang1 jin1 hun4 ning2 tu3，shui3 ku4 yin1 wei4 bao4 yu3 bian4 de2 hun2 zhuo2。"
+    },
+    {
+        "id": "000149",
+        "source": "汉语多音字",
+        "words": [
+            "著 zhe5 著(着)",
+            "著 zhu4 著书立说",
+            "著 zhuo2 执著"
+        ],
+        "text": "他一直执著于研究，终于著书立说，这成果正值大家关注著。",
+        "pinyin": "ta1 yi4 zhi2 zhi2 zhuo2 yu2 yan2 jiu1，zhong1 yu2 zhu4 shu1 li4 shuo1，zhe4 cheng2 guo3 zheng4 zhi2 da4 jia1 guan1 zhu4 zhu4。"
+    },
+    {
+        "id": "000150",
+        "source": "汉语多音字",
+        "words": [
+            "劲 jin4 一个劲儿",
+            "劲 jing4 疾风知劲草"
+        ],
+        "text": "他一个劲儿地问我，却不知疾风知劲草，我会坚持到底。",
+        "pinyin": "ta1 yi2 ge4 jin4 er2 di4 wen4 wo3，que4 bu4 zhi1 ji2 feng1 zhi1 jing4 cao3，wo3 hui4 jian1 chi2 dao4 di3。"
+    },
+    {
+        "id": "000151",
+        "source": "汉语多音字",
+        "words": [
+            "咱 za2 咱家",
+            "咱 zan2 咱们"
+        ],
+        "text": "咱家条件虽然一般，但咱们心里都挺满足。",
+        "pinyin": "za2 jia1 tiao2 jian4 sui1 ran2 yi4 ban1，dan4 zan2 men xin1 li3 dou1 ting3 man3 zu2。"
+    },
+    {
+        "id": "000152",
+        "source": "汉语多音字",
+        "words": [
+            "宁 ning2 马克思列宁主义",
+            "宁 ning4 宁死不屈"
+        ],
+        "text": "他坚信马克思列宁主义，遇难时宁死不屈，身先士卒。",
+        "pinyin": "ta1 jian1 xin4 ma3 ke4 si1 lie4 ning2 zhu3 yi4，yu4 nan4 shi2 ning4 si3 bu4 qu1，shen1 xian1 shi4 zu2。"
+    },
+    {
+        "id": "000153",
+        "source": "汉语多音字",
+        "words": [
+            "吓 he4 威吓",
+            "吓 xia4 杀鸡吓猴"
+        ],
+        "text": "他用武力对小国进行威吓，就像杀鸡吓猴一样。",
+        "pinyin": "ta1 yong4 wu3 li4 dui4 xiao3 guo2 jin4 xing2 wei1 he4，jiu4 xiang4 sha1 ji1 xia4 hou2 yi1 yang4。"
+    },
+    {
+        "id": "000154",
+        "source": "汉语多音字",
+        "words": [
+            "读 dou4 句读",
+            "读 du2 读书人"
+        ],
+        "text": "句读有利于提升语言表达能力，而读书人则勤于修身齐家。",
+        "pinyin": "ju4 dou4 you3 li4 yu2 ti2 sheng1 yu3 yan2 biao3 da2 neng2 li4，er2 du2 shu1 ren2 ze2 qin2 yu2 xiu1 shen1 qi2 jia1。"
+    },
+    {
+        "id": "000155",
+        "source": "汉语多音字",
+        "words": [
+            "骨 gu1 花骨朵儿",
+            "骨 gu2 鸡蛋里挑骨头",
+            "骨 gu3 多米诺骨牌"
+        ],
+        "text": "他总是爱鸡蛋里挑骨头，却不知花骨朵儿娇艳如初；就像多米诺骨牌，一环扣一环。",
+        "pinyin": "ta1 zong3 shi4 ai4 ji1 dan4 li3 tiao1 gu2 tou，que4 bu4 zhi1 hua1 gu1 duo3 er2 jiao1 yan4 ru2 chu1；jiu4 xiang4 duo1 mi3 nuo4 gu3 pai2，yi1 huan2 kou4 yi1 huan2。"
+    },
+    {
+        "id": "000156",
+        "source": "汉语多音字",
+        "words": [
+            "蒙 meng1 蒙头转向",
+            "蒙 meng2 蒙昧主义",
+            "蒙 meng3 蒙古人种"
+        ],
+        "text": "他因为受了蒙昧主义影响，常常蒙头转向，不愿接触蒙古人种文化。",
+        "pinyin": "ta1 yin1 wei4 shou4 le meng2 mei4 zhu3 yi4 ying3 xiang3，chang2 chang2 meng1 tou2 zhuan4 xiang4，bu4 yuan4 jie1 chu4 meng3 gu3 ren2 zhong3 wen2 hua4。"
+    },
+    {
+        "id": "000157",
+        "source": "汉语多音字",
+        "words": [
+            "伯 bai3 大伯子",
+            "伯 bo2 阿拉伯数字"
+        ],
+        "text": "这份报表使用了阿拉伯数字表示数据，而我大伯子正好是做统计的。",
+        "pinyin": "zhe4 fen4 bao4 biao3 shi3 yong4 le a1 la1 bo2 shu4 zi4 biao3 shi4 shu4 ju4，er2 wo3 da4 bai3 zi3 zheng4 hao3 shi4 zuo4 tong3 ji4 de。"
+    },
+    {
+        "id": "000158",
+        "source": "汉语多音字",
+        "words": [
+            "娜 na4 拉尼娜现象",
+            "娜 nuo2 袅娜"
+        ],
+        "text": "气象专家正研究拉尼娜现象对气候的影响，而她的袅娜身姿也引人注目。",
+        "pinyin": "qi4 xiang4 zhuan1 jia1 zheng4 yan2 jiu1 la1 ni2 na4 xian4 xiang4 dui4 qi4 hou4 de ying3 xiang3，er2 ta1 de niao3 nuo2 shen1 zi1 ye3 yin3 ren2 zhu4 mu4。"
+    },
+    {
+        "id": "000159",
+        "source": "汉语多音字",
+        "words": [
+            "暴 bao4 强热带风暴",
+            "暴 pu4 一暴十寒"
+        ],
+        "text": "今年的强热带风暴来势汹汹，又让人想起了农谚‘一暴十寒’的道理。",
+        "pinyin": "jin1 nian2 de qiang2 re4 dai4 feng1 bao4 lai2 shi4 xiong1 xiong1，you4 rang4 ren2 xiang3 qi3 le nong2 yan4‘yi1 pu4 shi2 han2’de dao4 li3。"
+    },
+    {
+        "id": "000160",
+        "source": "汉语多音字",
+        "words": [
+            "舍 she3 舍己为公",
+            "舍 she4 打家劫舍"
+        ],
+        "text": "这个警察为了人民的安全，真是舍己为公；而那帮强盗专门打家劫舍。",
+        "pinyin": "zhe4 ge4 jing3 cha2 wei4 le ren2 min2 de an1 quan2，zhen1 shi4 she3 ji3 wei4 gong1；er2 na4 bang1 qiang2 dao4 zhuan1 men2 da3 jia1 jie2 she4。"
+    },
+    {
+        "id": "000161",
+        "source": "汉语多音字",
+        "words": [
+            "委 wei1 虚与委蛇",
+            "委 wei3 委曲求全"
+        ],
+        "text": "面对不合理的要求，他不是委曲求全就是虚与委蛇。",
+        "pinyin": "mian4 dui4 bu4 he2 li3 de yao1 qiu2，ta1 bu2 shi4 wei3 qu1 qiu2 quan2 jiu4 shi4 xu1 yu3 wei1 yi2。"
+    },
+    {
+        "id": "000162",
+        "source": "汉语多音字",
+        "words": [
+            "鲜 xian1 屡见不鲜",
+            "鲜 xian3 朝鲜族"
+        ],
+        "text": "朝鲜族的锦绣文化并不屡见不鲜。",
+        "pinyin": "chao2 xian3 zu2 de jin3 xiu4 wen2 hua4 bing4 bu4 lv3 jian4 bu4 xian1。"
+    },
+    {
+        "id": "000163",
+        "source": "汉语多音字",
+        "words": [
+            "创 chuang1 创口",
+            "创 chuang4 创新型国家"
+        ],
+        "text": "这个创口需要及时处理，我国正力争成为全球领先的创新型国家。",
+        "pinyin": "zhe4 ge4 chuang1 kou3 xu1 yao4 ji2 shi2 chu3 li3，wo3 guo2 zheng4 li4 zheng1 cheng2 wei2 quan2 qiu2 ling3 xian1 de chuang4 xin1 xing2 guo2 jia1。"
+    },
+    {
+        "id": "000164",
+        "source": "汉语多音字",
+        "words": [
+            "奔 ben1 奔驰",
+            "奔 ben4 各奔东西"
+        ],
+        "text": "高速上豪车奔驰，人生路上各奔东西。",
+        "pinyin": "gao1 su4 shang4 hao2 che1 ben1 chi2，ren2 sheng1 lu4 shang4 ge4 ben1 dong1 xi1。"
+    },
+    {
+        "id": "000165",
+        "source": "汉语多音字",
+        "words": [
+            "采 cai3 兴高采烈",
+            "采 cai4 采地（古代诸侯分封给卿大夫的田地"
+        ],
+        "text": "古代诸侯分封采地给大夫时，人们常常兴高采烈地庆祝。",
+        "pinyin": "gu3 dai4 zhu1 hou2 fen1 feng1 cai4 di4 gei3 dai4 fu1 shi2，ren2 men chang2 chang2 xing4 gao1 cai3 lie4 di4 qing4 zhu4。"
+    },
+    {
+        "id": "000166",
+        "source": "汉语多音字",
+        "words": [
+            "济 ji3 济济一堂",
+            "济 ji4 假公济私"
+        ],
+        "text": "爷爷八十大寿，亲朋济济一堂，然而某些官员却假公济私，令人失望。",
+        "pinyin": "ye2 ye2 ba1 shi2 da4 shou4，qin1 peng2 ji3 ji3 yi1 tang2，ran2 er2 mou3 xie1 guan1 yuan2 que4 jia3 gong1 ji4 si1，ling4 ren2 shi1 wang4。"
+    },
+    {
+        "id": "000167",
+        "source": "汉语多音字",
+        "words": [
+            "择 ze2 饥不择食",
+            "择 zhai2 择席（在某个地方睡惯了，换个地方就睡不安稳，叫择席）"
+        ],
+        "text": "饥不择食之时不需择席，坐哪儿都行。",
+        "pinyin": "ji1 bu4 ze2 shi2 zhi1 shi2 bu4 xu1 zhai2 xi2，zuo4 na3 er2 dou1 xing2。"
+    },
+    {
+        "id": "000168",
+        "source": "汉语多音字",
+        "words": [
+            "菲 fei1 芳菲",
+            "菲 fei3 妄自菲薄"
+        ],
+        "text": "春天来临，万物复苏，满园芳菲怡人心脾；然而她总是妄自菲薄，看不见自身的价值。",
+        "pinyin": "chun1 tian1 lai2 lin2，wan4 wu4 fu4 su1，man3 yuan2 fang1 fei1 yi2 ren2 xin1 pi2；ran2 er2 ta1 zong3 shi4 wang4 zi4 fei3 bo2，kan4 bu2 jian4 zi4 shen1 de jia4 zhi2。"
+    },
+    {
+        "id": "000169",
+        "source": "汉语多音字",
+        "words": [
+            "燕 yan1 燕国",
+            "燕 yan4 莺歌燕舞"
+        ],
+        "text": "燕国春风渐暖，庭院里莺歌燕舞。",
+        "pinyin": "yan4 guo2 chun1 feng1 jian4 nuan3，ting2 yuan4 li3 ying1 ge1 yan4 wu3。"
+    },
+    {
+        "id": "000170",
+        "source": "汉语多音字",
+        "words": [
+            "曲 qu1 黄曲霉菌",
+            "曲 qu3 流行歌曲"
+        ],
+        "text": "粮库的玉米被黄曲霉菌感染了，他却还在那儿哼着流行歌曲。",
+        "pinyin": "liang2 ku4 de yu4 mi3 bei4 huang2 qu1 mei2 jun1 gan3 ran3 le，ta1 que4 hai2 zai4 na4 er2 heng1 zhe liu2 xing2 ge1 qu3。"
+    },
+    {
+        "id": "000171",
+        "source": "汉语多音字",
+        "words": [
+            "折 she2 折本",
+            "折 zhe1 折腾",
+            "折 zhe2 折叠"
+        ],
+        "text": "他总爱折腾，不仅折了本，连纸飞机也折不好。",
+        "pinyin": "ta1 zong3 ai4 zhe1 teng2，bu4 jin3 zhe2 le ben3，lian2 zhi3 fei1 ji1 ye3 zhe2 bu4 hao3。"
+    },
+    {
+        "id": "000172",
+        "source": "汉语多音字",
+        "words": [
+            "占 zhan1 占星",
+            "占 zhan4 独占鳌头"
+        ],
+        "text": "他对占星颇有研究，今年又独占鳌头，成绩斐然。",
+        "pinyin": "ta1 dui4 zhan1 xing1 po3 you3 yan2 jiu1，jin1 nian2 you4 du2 zhan4 ao2 tou2，cheng2 ji4 fei3 ran2。"
+    },
+    {
+        "id": "000173",
+        "source": "汉语多音字",
+        "words": [
+            "漂 piao1 打水漂儿",
+            "漂 piao3 漂白粉",
+            "漂 piao4 漂亮话"
+        ],
+        "text": "小明喜欢在湖边打水漂儿，不爱听妈妈的漂亮话，但听说漂白粉有害，他却记住了。",
+        "pinyin": "xiao3 ming2 xi3 huan1 zai4 hu2 bian1 da3 shui3 piao1 er2，bu4 ai4 ting1 ma1 ma1 de piao4 liang4 hua4，dan4 ting1 shuo1 piao3 bai2 fen3 you3 hai4，ta1 que4 ji4 zhu4 le。"
+    },
+    {
+        "id": "000174",
+        "source": "汉语多音字",
+        "words": [
+            "挑 tiao1 百里挑一",
+            "挑 tiao3 挑唆"
+        ],
+        "text": "她是百里挑一的人选，却被别有用心的人挑唆离职。",
+        "pinyin": "ta1 shi4 bai3 li3 tiao1 yi1 de ren2 xuan3，que4 bei4 bie2 you3 yong4 xin1 de ren2 tiao3 suo1 li2 zhi2。"
+    },
+    {
+        "id": "000175",
+        "source": "汉语多音字",
+        "words": [
+            "绿 lu4 绿林起义",
+            "绿 lv4 花花绿绿"
+        ],
+        "text": "历史课上讲述绿林起义时，窗外正是一片花花绿绿。",
+        "pinyin": "li4 shi3 ke4 shang4 jiang3 shu4 lu4 lin2 qi3 yi4 shi2，chuang1 wai4 zheng4 shi4 yi1 pian4 hua1 hua1 lv4 lv4。"
+    },
+    {
+        "id": "000176",
+        "source": "汉语多音字",
+        "words": [
+            "累 lei2 累赘",
+            "累 lei3 长年累月",
+            "累 lei4 劳累"
+        ],
+        "text": "长年累月的努力后，他觉得身心劳累，决心摆脱一切累赘。",
+        "pinyin": "chang2 nian2 lei3 yue4 de nu3 li4 hou4，ta1 jue2 de shen1 xin1 lao2 lei4，jue2 xin1 bai3 tuo1 yi1 qie4 lei2 zhui4。"
+    },
+    {
+        "id": "000177",
+        "source": "汉语多音字",
+        "words": [
+            "降 jiang4 祸从天降",
+            "降 xiang2 一物降一物"
+        ],
+        "text": "他总是不顾后果，这次真是祸从天降;毕竟世上总有一物降一物。",
+        "pinyin": "ta1 zong3 shi4 bu4 gu4 hou4 guo3，zhe4 ci4 zhen1 shi4 huo4 cong2 tian1 jiang4;bi4 jing4 shi4 shang4 zong3 you3 yi1 wu4 xiang2 yi1 wu4。"
+    },
+    {
+        "id": "000178",
+        "source": "汉语多音字",
+        "words": [
+            "省 sheng3 省略号",
+            "省 xing3 发人深省"
+        ],
+        "text": "文章用省略号结尾，意味发人深省。",
+        "pinyin": "wen2 zhang1 yong4 sheng3 lve4 hao4 jie2 wei3，yi4 wei4 fa1 ren2 shen1 xing3。"
+    },
+    {
+        "id": "000179",
+        "source": "汉语多音字",
+        "words": [
+            "糊 hu1 血糊糊",
+            "糊 hu2 一塌糊涂",
+            "糊 hu4 糊弄局（〈名〉敷衍蒙混的事情）"
+        ],
+        "text": "事故现场血糊糊的，处理一塌糊涂，简直是个糊弄局。",
+        "pinyin": "shi4 gu4 xian4 chang3 xie3 hu1 hu1 de，chu3 li3 yi1 ta1 hu2 tu2，jian3 zhi2 shi4 ge4 hu4 nong4 ju2。"
+    },
+    {
+        "id": "000180",
+        "source": "汉语多音字",
+        "words": [
+            "汗 han2 可汗",
+            "汗 han4 汗马功劳"
+        ],
+        "text": "在族人心中，可汗的荣耀犹如汗马功劳，不可磨灭。",
+        "pinyin": "zai4 zu2 ren2 xin1 zhong1，ke4 han2 de rong2 yao4 you2 ru2 han4 ma3 gong1 lao2，bu4 ke3 mo2 mie4。"
+    },
+    {
+        "id": "000181",
+        "source": "汉语多音字",
+        "words": [
+            "悄 qiao1 静悄悄",
+            "悄 qiao3 悄然"
+        ],
+        "text": "月光下，我悄然离开了静悄悄的庭院。",
+        "pinyin": "yue4 guang1 xia4，wo3 qiao3 ran2 li2 kai1 le jing4 qiao1 qiao1 de ting2 yuan4。"
+    },
+    {
+        "id": "000182",
+        "source": "汉语多音字",
+        "words": [
+            "圈 juan4 羊圈（名词）",
+            "圈 quan1 罗圈儿腿（名词）"
+        ],
+        "text": "老张的罗圈儿腿，让他在羊圈里走动都显得格外费力。",
+        "pinyin": "lao3 zhang1 de luo2 quan1 er tui3，rang4 ta1 zai4 yang2 juan4 li3 zou3 dong4 dou1 xian3 de ge2 wai4 fei4 li4。"
+    },
+    {
+        "id": "000183",
+        "source": "汉语多音字",
+        "words": [
+            "俩 lia3 仨瓜俩枣",
+            "俩 liang3 伎俩"
+        ],
+        "text": "他背着布袋，里面装的就是仨瓜俩枣；她耍的小伎俩，我早看穿了。",
+        "pinyin": "ta1 bei4 zhe bu4 dai4，li3 mian4 zhuang1 de jiu4 shi4 sa1 gua1 lia3 zao3；ta1 shua3 de xiao3 ji4 liang3，wo3 zao3 kan4 chuan1 le。"
+    },
+    {
+        "id": "000184",
+        "source": "汉语多音字",
+        "words": [
+            "横 heng2 人行横道",
+            "横 heng4 蛮横"
+        ],
+        "text": "他在人行横道上一路狂奔，完全不理他人的眼光，真是蛮横。",
+        "pinyin": "ta1 zai4 ren2 xing2 heng2 dao4 shang4 yi1 lu4 kuang2 ben1，wan2 quan2 bu4 li3 ta1 ren2 de yan3 guang1，zhen1 shi4 man2 heng4。"
+    },
+    {
+        "id": "000185",
+        "source": "汉语多音字",
+        "words": [
+            "抢 qiang1 呼天抢地",
+            "抢 qiang3 抢购"
+        ],
+        "text": "电商平台一开启秒杀，大家纷纷抢购，简直是呼天抢地。",
+        "pinyin": "dian4 shang1 ping2 tai2 yi1 kai1 qi3 miao3 sha1，da4 jia1 fen1 fen1 qiang3 gou4，jian3 zhi2 shi4 hu1 tian1 qiang1 di4。"
+    },
+    {
+        "id": "000186",
+        "source": "汉语多音字",
+        "words": [
+            "率 lv4 存款准备金率",
+            "率 shuai4 率由旧章"
+        ],
+        "text": "央行宣布提高存款准备金率，企业家感叹：率由旧章，难以适应。",
+        "pinyin": "yang1 hang2 xuan1 bu4 ti2 gao1 cun2 kuan3 zhun3 bei4 jin1 lv4，qi3 ye4 jia1 gan3 tan4：shuai4 you2 jiu4 zhang1，nan2 yi3 shi4 ying4。"
+    },
+    {
+        "id": "000187",
+        "source": "汉语多音字",
+        "words": [
+            "稍 shao1 稍纵即逝",
+            "稍 shao4 稍息"
+        ],
+        "text": "青春稍纵即逝，珍惜时光；列队稍息，休整片刻。",
+        "pinyin": "qing1 chun1 shao1 zong4 ji2 shi4，zhen1 xi1 shi2 guang1；lie4 dui4 shao4 xi1，xiu1 zheng3 pian4 ke4。"
+    },
+    {
+        "id": "000188",
+        "source": "汉语多音字",
+        "words": [
+            "吐 tu3 狗嘴吐不出象牙",
+            "吐 tu4 吐血"
+        ],
+        "text": "他心急如焚地吐了口血，我却知道他那狗嘴吐不出象牙的本性。",
+        "pinyin": "ta1 xin1 ji2 ru2 fen2 di4 tu3 le kou3 xue4，wo3 que4 zhi1 dao4 ta1 na4 gou3 zui3 tu3 bu4 chu1 xiang4 ya2 de ben3 xing4。"
+    },
+    {
+        "id": "000189",
+        "source": "汉语多音字",
+        "words": [
+            "艾 ai4 期期艾艾",
+            "艾 yi4 自怨自艾"
+        ],
+        "text": "他总是期期艾艾地推脱责任，又常自怨自艾，真是令人厌烦。",
+        "pinyin": "ta1 zong3 shi4 qi1 qi1 ai4 ai4 di4 tui1 tuo1 ze2 ren4，you4 chang2 zi4 yuan4 zi4 yi4，zhen1 shi4 ling4 ren2 yan4 fan2。"
+    },
+    {
+        "id": "000190",
+        "source": "汉语多音字",
+        "words": [
+            "谷 gu3 陈谷子烂芝麻",
+            "谷 yu4 吐谷浑（古代中国一个政权）"
+        ],
+        "text": "他们谈论的话题像陈谷子烂芝麻一样老套，仿佛又带回了吐谷浑的年代。",
+        "pinyin": "ta1 men tan2 lun4 de hua4 ti2 xiang4 chen2 gu3 zi lan4 zhi1 ma2 yi1 yang4 lao3 tao4，fang3 fu2 you4 dai4 hui2 le tu3 yu4 hun2 de nian2 dai4。"
+    },
+    {
+        "id": "000191",
+        "source": "汉语多音字",
+        "words": [
+            "晃 huang3 打晃儿",
+            "晃 huang4 摇头晃脑"
+        ],
+        "text": "那孩子走路总是打晃儿，说话时还爱摇头晃脑的。",
+        "pinyin": "na4 hai2 zi zou3 lu4 zong3 shi4 da3 huang3 er2，shuo1 hua4 shi2 hai2 ai4 yao2 tou2 huang4 nao3 de。"
+    },
+    {
+        "id": "000192",
+        "source": "汉语多音字",
+        "words": [
+            "仔 zai3 牛仔舞（名词）",
+            "仔 zi1 仔肩",
+            "仔 zi3 仔畜"
+        ],
+        "text": "农场的仔畜长得健康，农民的仔肩重，他们晚上通过跳牛仔舞来放松。",
+        "pinyin": "nong2 chang3 de zi3 chu4 zhang3 de2 jian4 kang1，nong2 min2 de zi1 jian1 zhong4，ta1 men wan3 shang4 tong1 guo4 tiao4 niu2 zai3 wu3 lai2 fang4 song1。"
+    },
+    {
+        "id": "000193",
+        "source": "汉语多音字",
+        "words": [
+            "塞 sai1 火花塞",
+            "塞 sai4 塞翁失马",
+            "塞 se4 心肌梗塞"
+        ],
+        "text": "车子突发心肌梗塞，慌忙更换火花塞，岂不知塞翁失马焉知非福。",
+        "pinyin": "che1 zi tu1 fa1 xin1 ji1 geng3 se4，huang1 mang2 geng1 huan4 huo3 hua1 sai1，qi3 bu4 zhi1 sai4 weng1 shi1 ma3 yan1 zhi1 fei1 fu2。"
+    },
+    {
+        "id": "000194",
+        "source": "汉语多音字",
+        "words": [
+            "扎 za1 扎染",
+            "扎 zha1 安营扎寨",
+            "扎 zha2 挣扎"
+        ],
+        "text": "他们在山林中安营扎寨，一位女子扎染布匹，而士兵在敌人围困下奋力挣扎。",
+        "pinyin": "ta1 men zai4 shan1 lin2 zhong1 an1 ying2 zha1 zhai4，yi1 wei4 nv3 zi3 za1 ran3 bu4 pi3，er2 shi4 bing1 zai4 di2 ren2 wei2 kun4 xia4 fen4 li4 zheng1 zha2。"
+    },
+    {
+        "id": "000195",
+        "source": "汉语多音字",
+        "words": [
+            "闷 men1 闷声闷气",
+            "闷 men4 闷闷不乐"
+        ],
+        "text": "他总是闷声闷气的，看起来闷闷不乐。",
+        "pinyin": "ta1 zong3 shi4 men1 sheng1 men1 qi4 de，kan4 qi3 lai2 men4 men4 bu4 le4。"
+    },
+    {
+        "id": "000196",
+        "source": "汉语多音字",
+        "words": [
+            "盛 cheng2 盛器",
+            "盛 sheng4 盛气凌人"
+        ],
+        "text": "餐桌上的瓷盘是最常见的盛器；他那盛气凌人的态度让人难以接近。",
+        "pinyin": "can1 zhuo1 shang4 de ci2 pan2 shi4 zui4 chang2 jian4 de cheng2 qi4；ta1 na4 sheng4 qi4 ling2 ren2 de tai4 du4 rang4 ren2 nan2 yi3 jie1 jin4。"
+    },
+    {
+        "id": "000197",
+        "source": "汉语多音字",
+        "words": [
+            "侧 ce4 辗转反侧",
+            "侧 zhai1 侧歪"
+        ],
+        "text": "他因担忧而辗转反侧，而那只钟表因年久失修而侧歪。",
+        "pinyin": "ta1 yin1 dan1 you1 er2 zhan3 zhuan3 fan3 ce4，er2 na4 zhi3 zhong1 biao3 yin1 nian2 jiu3 shi1 xiu1 er2 zhai1 wai1。"
+    },
+    {
+        "id": "000198",
+        "source": "汉语多音字",
+        "words": [
+            "颤 chan4 颤颤巍巍",
+            "颤 zhan4 打冷颤"
+        ],
+        "text": "老人颤颤巍巍地走着，冷风一吹，我不禁打了个冷颤。",
+        "pinyin": "lao3 ren2 chan4 chan4 wei1 wei1 di4 zou3 zhe，leng3 feng1 yi1 chui1，wo3 bu4 jin1 da3 le ge4 leng3 zhan4。"
+    },
+    {
+        "id": "000199",
+        "source": "汉语多音字",
+        "words": [
+            "扫 sao3 扫地",
+            "扫 sao4 扫帚"
+        ],
+        "text": "她拿起扫帚开始扫地，一尘不染。",
+        "pinyin": "ta1 na2 qi3 sao4 zhou3 kai1 shi3 sao3 di4，yi1 chen2 bu4 ran3。"
+    },
+    {
+        "id": "000200",
+        "source": "汉语多音字",
+        "words": [
+            "臂 bei5 胳臂",
+            "臂 bi4 左膀右臂"
+        ],
+        "text": "他那健硕的胳臂是队伍中不可缺少的左膀右臂。",
+        "pinyin": "ta1 na4 jian4 shuo4 de ge1 bei shi4 dui4 wu3 zhong1 bu4 ke3 que1 shao3 de zuo3 bang3 you4 bi4。"
+    },
+    {
+        "id": "000201",
+        "source": "汉语多音字",
+        "words": [
+            "供 gong1 供应",
+            "供 gong4 逼供信"
+        ],
+        "text": "冬季煤炭供应紧张，警方审讯时不得对犯罪嫌疑人逼供信。",
+        "pinyin": "dong1 ji4 mei2 tan4 gong1 ying4 jin3 zhang1，jing3 fang1 shen3 xun4 shi2 bu4 de2 dui4 fan4 zui4 xian2 yi2 ren2 bi1 gong4 xin4。"
+    },
+    {
+        "id": "000202",
+        "source": "汉语多音字",
+        "words": [
+            "监 jian1 监外执行",
+            "监 jian4 国子监"
+        ],
+        "text": "因病情严重，他被准予监外执行，不必再回国子监复习旧课。",
+        "pinyin": "yin1 bing4 qing2 yan2 zhong4，ta1 bei4 zhun3 yu3 jian1 wai4 zhi2 xing2，bu4 bi4 zai4 hui2 guo2 zi3 jian4 fu4 xi2 jiu4 ke4。"
+    },
+    {
+        "id": "000203",
+        "source": "汉语多音字",
+        "words": [
+            "炸 zha2 油炸",
+            "炸 zha4 深水炸弹"
+        ],
+        "text": "小摊上油炸食品香气袭人，而水里则担心深水炸弹的暗藏威胁。",
+        "pinyin": "xiao3 tan1 shang4 you2 zha4 shi2 pin3 xiang1 qi4 xi2 ren2，er2 shui3 li3 ze2 dan1 xin1 shen1 shui3 zha4 dan4 de an4 cang2 wei1 xie2。"
+    },
+    {
+        "id": "000204",
+        "source": "汉语多音字",
+        "words": [
+            "郎 lang2 牛郎织女",
+            "郎 lang4 屎壳郎"
+        ],
+        "text": "七夕节时，人们常说牛郎织女的故事，而田野中屎壳郎也勤快地工作.",
+        "pinyin": "qi1 xi1 jie2 shi2，ren2 men chang2 shuo1 niu2 lang2 zhi1 nv3 de gu4 shi4，er2 tian2 ye3 zhong1 shi3 ke2 lang4 ye3 qin2 kuai4 di4 gong1 zuo4."
+    },
+    {
+        "id": "000205",
+        "source": "汉语多音字",
+        "words": [
+            "宿 su4 风餐露宿",
+            "宿 xiu3 成宿",
+            "宿 xiu4 星宿"
+        ],
+        "text": "为了追寻那颗神秘的星宿，他风餐露宿了整整一个成宿。",
+        "pinyin": "wei4 le zhui1 xun2 na4 ke1 shen2 mi4 de xing1 xiu4，ta1 feng1 can1 lu4 su4 le zheng3 zheng3 yi2 ge4 cheng2 xiu3。"
+    },
+    {
+        "id": "000206",
+        "source": "汉语多音字",
+        "words": [
+            "迫 pai3 迫击炮",
+            "迫 po4 迫不得已"
+        ],
+        "text": "士兵们操作迫击炮，因为形势危急，他们迫不得已发起反击。",
+        "pinyin": "shi4 bing1 men cao1 zuo4 pai3 ji1 pao4，yin1 wei4 xing2 shi4 wei1 ji2，ta1 men po4 bu4 de2 yi3 fa1 qi3 fan3 ji1。"
+    },
+    {
+        "id": "000207",
+        "source": "汉语多音字",
+        "words": [
+            "胖 pan2 心宽体胖",
+            "胖 pang4 打肿脸充胖子"
+        ],
+        "text": "他老是打肿脸充胖子，可只有心宽体胖才是真正的快乐。",
+        "pinyin": "ta1 lao3 shi4 da3 zhong3 lian3 chong1 pang4 zi3，ke3 zhi3 you3 xin1 kuan1 ti3 pan2 cai2 shi4 zhen1 zheng4 de kuai4 le4。"
+    },
+    {
+        "id": "000208",
+        "source": "汉语多音字",
+        "words": [
+            "炮 pao2 如法炮制",
+            "炮 pao4 火箭炮"
+        ],
+        "text": "完成这件工作，你可以如法炮制；我们则负责部署火箭炮。",
+        "pinyin": "wan2 cheng2 zhe4 jian4 gong1 zuo4，ni3 ke3 yi3 ru2 fa3 pao2 zhi4；wo3 men ze2 fu4 ze2 bu4 shu3 huo3 jian4 pao4。"
+    },
+    {
+        "id": "000209",
+        "source": "汉语多音字",
+        "words": [
+            "乌 wu1 乌孜别克族",
+            "乌 wu4 乌拉草"
+        ],
+        "text": "乌孜别克族的歌舞十分精彩，乌拉草在舞台一角静悄悄地生长。",
+        "pinyin": "wu1 zi1 bie2 ke4 zu2 de ge1 wu3 shi2 fen1 jing1 cai3，wu4 la cao3 zai4 wu3 tai2 yi1 jiao3 jing4 qiao1 qiao1 di4 sheng1 zhang3。"
+    },
+    {
+        "id": "000210",
+        "source": "汉语多音字",
+        "words": [
+            "摩 ma1 摩挲",
+            "摩 mo2 达摩克利斯剑"
+        ],
+        "text": "他轻轻摩挲书页，如同感受悬在头顶的达摩克利斯剑。",
+        "pinyin": "ta1 qing1 qing1 ma1 sa1 shu1 ye4，ru2 tong2 gan3 shou4 xuan2 zai4 tou2 ding3 de da2 mo2 ke4 li4 si1 jian4。"
+    },
+    {
+        "id": "000211",
+        "source": "汉语多音字",
+        "words": [
+            "肚 du3 羊肚儿手巾",
+            "肚 du4 宰相肚里能撑船"
+        ],
+        "text": "她拿着羊肚儿手巾，想起一句话：宰相肚里能撑船。",
+        "pinyin": "ta1 na2 zhe yang2 du3 er2 shou3 jin1，xiang3 qi3 yi1 ju4 hua4：zai3 xiang1 du4 li3 neng2 cheng1 chuan2。"
+    },
+    {
+        "id": "000212",
+        "source": "汉语多音字",
+        "words": [
+            "磨 mo2 磨刀不误砍柴工",
+            "磨 mo4 卸磨杀驴"
+        ],
+        "text": "老板终于露出卸磨杀驴的本性，明天限你磨刀不误砍柴工。",
+        "pinyin": "lao3 ban3 zhong1 yu2 lu4 chu1 xie4 mo4 sha1 lv2 de ben3 xing4，ming2 tian1 xian4 ni3 mo2 dao1 bu4 wu4 kan3 chai2 gong1。"
+    },
+    {
+        "id": "000213",
+        "source": "汉语多音字",
+        "words": [
+            "氏 shi4 莫氏硬度表",
+            "氏 zhi1 月氏"
+        ],
+        "text": "在讲解莫氏硬度表时，老师提到了古月氏族的金属用品。",
+        "pinyin": "zai4 jiang3 jie3 mo4 shi4 ying4 du4 biao3 shi2，lao3 shi1 ti2 dao4 le gu3 yue4 zhi1 zu2 de jin1 shu3 yong4 pin3。"
+    },
+    {
+        "id": "000214",
+        "source": "汉语多音字",
+        "words": [
+            "膀 bang3 膀大腰圆",
+            "膀 pang2 膀胱"
+        ],
+        "text": "他的膀大腰圆，却常常感觉膀胱不舒服。",
+        "pinyin": "ta1 de bang3 da4 yao1 yuan2，que4 chang2 chang2 gan3 jue2 pang2 guang1 bu4 shu1 fu2。"
+    },
+    {
+        "id": "000215",
+        "source": "汉语多音字",
+        "words": [
+            "蛇 she2 毒蛇",
+            "蛇 yi2 虚与委蛇"
+        ],
+        "text": "森林里出现了一条毒蛇，它虚与委蛇地缓缓爬行，让人不寒而栗。",
+        "pinyin": "sen1 lin2 li3 chu1 xian4 le yi1 tiao2 du2 she2，ta1 xu1 yu3 wei1 yi2 di4 huan3 huan3 pa2 xing2，rang4 ren2 bu4 han2 er2 li4。"
+    },
+    {
+        "id": "000216",
+        "source": "汉语多音字",
+        "words": [
+            "晕 yun1 晕头晕脑",
+            "晕 yun4 红晕"
+        ],
+        "text": "她感到头晕晕脑，脸上泛起了红晕。",
+        "pinyin": "ta1 gan3 dao4 tou2 yun1 yun1 nao3，lian3 shang4 fan4 qi3 le hong2 yun4。"
+    },
+    {
+        "id": "000217",
+        "source": "汉语多音字",
+        "words": [
+            "挣 zheng1 狰狞",
+            "挣 zheng4 挣命"
+        ],
+        "text": "他面容狰狞，拼命挣扎着逃脱困境，为了生存挣命。",
+        "pinyin": "ta1 mian4 rong2 zheng1 ning2，pin1 ming4 zheng1 zha2 zhe tao2 tuo1 kun4 jing4，wei4 le sheng1 cun2 zheng4 ming4。"
+    },
+    {
+        "id": "000218",
+        "source": "汉语多音字",
+        "words": [
+            "估 gu1 评估",
+            "估 gu4 估衣（天津估衣街，地名）"
+        ],
+        "text": "我们前往天津的估衣街，顺便对附近的商铺进行了一番评估。",
+        "pinyin": "wo3 men qian2 wang3 tian1 jin1 de gu4 yi1 jie1，shun4 bian4 dui4 fu4 jin4 de shang1 pu4 jin4 xing2 le yi1 fan1 ping2 gu1。"
+    },
+    {
+        "id": "000219",
+        "source": "汉语多音字",
+        "words": [
+            "勒 le4 勒索",
+            "勒 lei1 勒紧"
+        ],
+        "text": "黑客企图通过勒索的手段获取机密信息，使公司紧急勒紧了网络安全措施。",
+        "pinyin": "hei1 ke4 qi3 tu2 tong1 guo4 le4 suo3 de shou3 duan4 huo4 qu3 ji1 mi4 xin4 xi1，shi3 gong1 si1 jin3 ji2 lei1 jin3 le wang3 luo4 an1 quan2 cuo4 shi1。"
+    },
+    {
+        "id": "000220",
+        "source": "汉语多音字",
+        "words": [
+            "尾 wei3 街头巷尾",
+            "尾 yi3 马尾香"
+        ],
+        "text": "她喜欢在街头巷尾漫步，闻着马尾香，享受着宁静的时光。",
+        "pinyin": "ta1 xi3 huan1 zai4 jie1 tou2 xiang4 wei3 man4 bu4，wen2 zhe ma3 yi3 xiang1，xiang3 shou4 zhe ning2 jing4 de shi2 guang1。"
+    },
+    {
+        "id": "000221",
+        "source": "汉语多音字",
+        "words": [
+            "缩 su4 缩砂密（一种植物）",
+            "缩 suo1 压缩空气"
+        ],
+        "text": "他在研究缩砂密时发现，压缩空气可以促进其生长。",
+        "pinyin": "ta1 zai4 yan2 jiu1 su4 sha1 mi4 shi2 fa1 xian4，ya1 suo1 kong1 qi4 ke3 yi3 cu4 jin4 qi2 sheng1 zhang3。"
+    },
+    {
+        "id": "000222",
+        "source": "汉语多音字",
+        "words": [
+            "肖 xiao1 肖像",
+            "肖 xiao4 惟妙惟肖"
+        ],
+        "text": "这幅肖像画描绘得惟妙惟肖，仿佛栩栩如生。",
+        "pinyin": "zhe4 fu2 xiao4 xiang4 hua4 miao2 hui4 de2 wei2 miao4 wei2 xiao4，fang3 fu2 xu3 xu3 ru2 sheng1。"
+    },
+    {
+        "id": "000223",
+        "source": "汉语多音字",
+        "words": [
+            "薄 bao2 厚薄",
+            "薄 bo2 薄利多销",
+            "薄 bo4 薄荷"
+        ],
+        "text": "他对待人情事务的厚薄，像薄利多销的商人一样，心思清爽如同薄荷一般。",
+        "pinyin": "ta1 dui4 dai4 ren2 qing2 shi4 wu4 de hou4 bao2，xiang4 bo2 li4 duo1 xiao1 de shang1 ren2 yi1 yang4，xin1 si1 qing1 shuang3 ru2 tong2 bo4 he2 yi4 ban1。"
+    },
+    {
+        "id": "000224",
+        "source": "汉语多音字",
+        "words": [
+            "侯 hou2 王侯",
+            "侯 hou4 闽侯"
+        ],
+        "text": "在古代，王侯是权势显赫的人，而在闽侯这个地名中，侯指的是另一种地位和身份。",
+        "pinyin": "zai4 gu3 dai4，wang2 hou2 shi4 quan2 shi4 xian3 he4 de ren2，er2 zai4 min3 hou4 zhe4 ge4 di4 ming2 zhong1，hou2 zhi3 de shi4 ling4 yi1 zhong3 di4 wei4 he2 shen1 fen4。"
+    },
+    {
+        "id": "000225",
+        "source": "汉语多音字",
+        "words": [
+            "撒 sa1 盎格鲁-撒克逊人",
+            "撒 sa3 撒播"
+        ],
+        "text": "在历史上，盎格鲁-撒克逊人的迁徙对欧洲文明产生了深远影响，他们撒播了自己的文化和传统。",
+        "pinyin": "zai4 li4 shi3 shang4，ang4 ge2 lu3-sa1 ke4 xun4 ren2 de qian1 xi3 dui4 ou1 zhou1 wen2 ming2 chan3 sheng1 le shen1 yuan3 ying3 xiang3，ta1 men sa3 bo1 le zi4 ji3 de wen2 hua4 he2 chuan2 tong3。"
+    },
+    {
+        "id": "000226",
+        "source": "汉语多音字",
+        "words": [
+            "埋 mai2 隐姓埋名",
+            "埋 man2 埋怨"
+        ],
+        "text": "他选择隐姓埋名，却常常埋怨自己无法展露真实身份。",
+        "pinyin": "ta1 xuan3 ze2 yin3 xing4 mai2 ming2，que4 chang2 chang2 man2 yuan4 zi4 ji3 wu2 fa3 zhan3 lu4 zhen1 shi2 shen1 fen4。"
+    },
+    {
+        "id": "000227",
+        "source": "汉语多音字",
+        "words": [
+            "隆 long1 黑咕隆咚",
+            "隆 long2 隆重"
+        ],
+        "text": "他的声音在黑咕隆咚的夜晚里显得格外隆重。",
+        "pinyin": "ta1 de sheng1 yin1 zai4 hei1 gu1 long1 dong1 de ye4 wan3 li3 xian3 de ge2 wai4 long2 zhong4。"
+    },
+    {
+        "id": "000228",
+        "source": "汉语多音字",
+        "words": [
+            "括 gua1 挺括（形容衣服、布料、纸张等物品平整且不容易皱",
+            "括 kuo4 包括"
+        ],
+        "text": "新买的衬衫真挺括，质量好，价格包括税费。",
+        "pinyin": "xin1 mai3 de chen4 shan1 zhen1 ting3 gua1，zhi4 liang4 hao3，jia4 ge2 bao1 kuo4 shui4 fei4。"
+    },
+    {
+        "id": "000229",
+        "source": "汉语多音字",
+        "words": [
+            "脉 mai4 人脉",
+            "脉 mo4 温情脉脉"
+        ],
+        "text": "她在这个行业有着广泛的人脉，每次谈到家乡的时候，她的眼神总是温情脉脉的。",
+        "pinyin": "ta1 zai4 zhe4 ge4 hang2 ye4 you3 zhe guang3 fan4 de ren2 mai4，mei3 ci4 tan2 dao4 jia1 xiang1 de shi2 hou4，ta1 de yan3 shen2 zong3 shi4 wen1 qing2 mo4 mo4 de。"
+    },
+    {
+        "id": "000230",
+        "source": "汉语多音字",
+        "words": [
+            "钻 zuan1 钻牛角尖",
+            "钻 zuan4 金刚钻"
+        ],
+        "text": "他总是喜欢钻牛角尖，却不知道金刚钻就在眼前。",
+        "pinyin": "ta1 zong3 shi4 xi3 huan1 zuan1 niu2 jiao3 jian1，que4 bu4 zhi1 dao4 jin1 gang1 zuan4 jiu4 zai4 yan3 qian2。"
+    },
+    {
+        "id": "000231",
+        "source": "汉语多音字",
+        "words": [
+            "乘 cheng2 有机可乘",
+            "乘 sheng4 一乘（量词,形容马车）"
+        ],
+        "text": "当商人看到市场有机可乘时，便买下了一乘马车。",
+        "pinyin": "dang1 shang1 ren2 kan4 dao4 shi4 chang3 you3 ji1 ke3 cheng2 shi2，bian4 mai3 xia4 le yi1 cheng2 ma3 che1。"
+    },
+    {
+        "id": "000232",
+        "source": "汉语多音字",
+        "words": [
+            "夹 jia1 夹生饭",
+            "夹 jia2 夹克"
+        ],
+        "text": "她喜欢吃夹生饭，穿着一件时尚的夹克外出。",
+        "pinyin": "ta1 xi3 huan1 chi1 jia1 sheng1 fan4，chuan1 zhe yi1 jian4 shi2 shang4 de jia2 ke4 wai4 chu1。"
+    },
+    {
+        "id": "000233",
+        "source": "汉语多音字",
+        "words": [
+            "丧 sang1 丧事",
+            "丧 sang4 灰心丧气"
+        ],
+        "text": "他参与了这场丧事，却因遭遇挫折而变得灰心丧气。",
+        "pinyin": "ta1 can1 yu4 le zhe4 chang3 sang1 shi4，que4 yin1 zao1 yu4 cuo4 zhe2 er2 bian4 de2 hui1 xin1 sang4 qi4。"
+    },
+    {
+        "id": "000234",
+        "source": "汉语多音字",
+        "words": [
+            "载 zai3 千载难逢",
+            "载 zai4 载歌载舞"
+        ],
+        "text": "这次盛会上，千载难逢的机会让他载歌载舞，展现出非凡的魅力。",
+        "pinyin": "zhe4 ci4 sheng4 hui4 shang4，qian1 zai3 nan2 feng2 de ji1 hui4 rang4 ta1 zai4 ge1 zai4 wu3，zhan3 xian4 chu1 fei1 fan2 de mei4 li4。"
+    },
+    {
+        "id": "000235",
+        "source": "汉语多音字",
+        "words": [
+            "铺 pu1 铺张扬厉（过分讲究排场）",
+            "铺 pu4 饭铺"
+        ],
+        "text": "他在饭铺大吃大喝，实在是铺张扬厉。",
+        "pinyin": "ta1 zai4 fan4 pu4 da4 chi1 da4 he4，shi2 zai4 shi4 pu1 zhang1 yang2 li4。"
+    },
+    {
+        "id": "000236",
+        "source": "汉语多音字",
+        "words": [
+            "脏 zang1 肮脏",
+            "脏 zang4 心脏"
+        ],
+        "text": "他的心脏肮脏不堪，让人感到十分不安。",
+        "pinyin": "ta1 de xin1 zang4 ang1 zang1 bu4 kan1，rang4 ren2 gan3 dao4 shi2 fen1 bu4 an1。"
+    },
+    {
+        "id": "000237",
+        "source": "汉语多音字",
+        "words": [
+            "溜 liu1 溜之大吉",
+            "溜 liu4 一溜儿"
+        ],
+        "text": "他溜之大吉地离开了，一溜儿小狗跟在他后面。",
+        "pinyin": "ta1 liu1 zhi1 da4 ji2 di4 li2 kai1 le，yi1 liu4 er2 xiao3 gou3 gen1 zai4 ta1 hou4 mian4。"
+    },
+    {
+        "id": "000238",
+        "source": "汉语多音字",
+        "words": [
+            "臭 chou4 遗臭万年",
+            "臭 xiu4 乳臭未干（形容人幼稚无知"
+        ],
+        "text": "他还乳臭未干，却做出遗臭万年的事情。",
+        "pinyin": "ta1 hai2 ru3 xiu4 wei4 gan1，que4 zuo4 chu1 yi2 chou4 wan4 nian2 de shi4 qing2。"
+    },
+    {
+        "id": "000239",
+        "source": "汉语多音字",
+        "words": [
+            "泥 ni2 泥巴",
+            "泥 ni4 拘泥"
+        ],
+        "text": "他的衣服沾满了泥巴，但他不应该拘泥于此，应该继续前行。",
+        "pinyin": "ta1 de yi1 fu2 zhan1 man3 le ni2 ba1，dan4 ta1 bu4 ying1 gai1 ju1 ni4 yu2 ci3，ying1 gai1 ji4 xu4 qian2 xing2。"
+    },
+    {
+        "id": "000240",
+        "source": "汉语多音字",
+        "words": [
+            "贾 gu3 商贾",
+            "贾 jia3 贾（姓）"
+        ],
+        "text": "他是一位贾姓商贾，在商贸领域有着很高的声誉。",
+        "pinyin": "ta1 shi4 yi1 wei4 jia3 xing4 shang1 gu3，zai4 shang1 mao4 ling3 yu4 you3 zhe hen3 gao1 de sheng1 yu4。"
+    },
+    {
+        "id": "000241",
+        "source": "汉语多音字",
+        "words": [
+            "泡 pao1 泡桐",
+            "泡 pao4 泡沫塑料"
+        ],
+        "text": "春天来临时，泡桐树上绽放出美丽的花朵，而在包装行业中，泡沫塑料被广泛用于保护物品。",
+        "pinyin": "chun1 tian1 lai2 lin2 shi2，pao1 tong2 shu4 shang4 zhan4 fang4 chu1 mei3 li4 de hua1 duo3，er2 zai4 bao1 zhuang1 hang2 ye4 zhong1，pao4 mo4 su4 liao4 bei4 guang3 fan4 yong4 yu2 bao3 hu4 wu4 pin3。"
+    },
+    {
+        "id": "000242",
+        "source": "汉语多音字",
+        "words": [
+            "抹 ma1 抹布",
+            "抹 mo3 抹一鼻子灰",
+            "抹 mo4 转弯抹角"
+        ],
+        "text": "她用抹布擦拭桌子，抹了一鼻子灰的事实不容忽视，他总是转弯抹角，不直接表达自己的想法。",
+        "pinyin": "ta1 yong4 ma1 bu4 ca1 shi4 zhuo1 zi，mo3 le yi1 bi2 zi hui1 de shi4 shi2 bu4 rong2 hu1 shi4，ta1 zong3 shi4 zhuan3 wan1 mo4 jiao3，bu4 zhi2 jie1 biao3 da2 zi4 ji3 de xiang3 fa3。"
+    },
+    {
+        "id": "000243",
+        "source": "汉语多音字",
+        "words": [
+            "喷 pen1 喷气式飞机",
+            "喷 pen4 喷喷香"
+        ],
+        "text": "他乘坐喷气式飞机飞往远方，空中喷喷香的气味让他感到舒适愉悦。",
+        "pinyin": "ta1 cheng2 zuo4 pen1 qi4 shi4 fei1 ji1 fei1 wang3 yuan3 fang1，kong1 zhong1 pen1 pen4 xiang1 de qi4 wei4 rang4 ta1 gan3 dao4 shu1 shi4 yu2 yue4。"
+    },
+    {
+        "id": "000244",
+        "source": "汉语多音字",
+        "words": [
+            "络 lao4 络子",
+            "络 luo4 网络计算机"
+        ],
+        "text": "他在织络子的时候，总是沉浸在网络计算机的世界里。",
+        "pinyin": "ta1 zai4 zhi1 lao4 zi de shi2 hou4，zong3 shi4 chen2 jin4 zai4 wang3 luo4 ji4 suan4 ji1 de shi4 jie4 li3。"
+    },
+    {
+        "id": "000245",
+        "source": "汉语多音字",
+        "words": [
+            "葛 ge2 葛藤",
+            "葛 ge3 诸葛亮"
+        ],
+        "text": "他们之间的葛藤，让人想起了诸葛亮的智慧。",
+        "pinyin": "ta1 men zhi1 jian1 de ge2 teng2，rang4 ren2 xiang3 qi3 le zhu1 ge3 liang4 de zhi4 hui4。"
+    },
+    {
+        "id": "000246",
+        "source": "汉语多音字",
+        "words": [
+            "刹 cha4 一刹那",
+            "刹 sha1 刹车"
+        ],
+        "text": "他在一刹那间按下刹车，避免了事故的发生。",
+        "pinyin": "ta1 zai4 yi1 cha4 na4 jian1 an4 xia4 sha1 che1，bi4 mian3 liao3 shi4 gu4 de fa1 sheng1。"
+    },
+    {
+        "id": "000247",
+        "source": "汉语多音字",
+        "words": [
+            "瓦 wa3 瓦工",
+            "瓦 wa4 瓦刀"
+        ],
+        "text": "他是一名瓦工，手持瓦刀，精准地修补着屋顶上的瓦片。",
+        "pinyin": "ta1 shi4 yi1 ming2 wa3 gong1，shou3 chi2 wa4 dao1，jing1 zhun3 di4 xiu1 bu3 zhe wu1 ding3 shang4 de wa3 pian4。"
+    },
+    {
+        "id": "000248",
+        "source": "汉语多音字",
+        "words": [
+            "浅 jian1 浅浅",
+            "浅 qian3 深入浅出"
+        ],
+        "text": "她的笑容浅浅地绽放，散发着深入浅出的魅力。",
+        "pinyin": "ta1 de xiao4 rong2 jian1 jian1 di4 zhan4 fang4，san4 fa4 zhe shen1 ru4 qian3 chu1 de mei4 li4。"
+    },
+    {
+        "id": "000249",
+        "source": "汉语多音字",
+        "words": [
+            "予 yu2 予取予求",
+            "予 yu3 授予"
+        ],
+        "text": "他总是予取予求，却很少愿意授予别人。",
+        "pinyin": "ta1 zong3 shi4 yu2 qu3 yu2 qiu2，que4 hen3 shao3 yuan4 yi4 shou4 yu3 bie2 ren2。"
+    },
+    {
+        "id": "000250",
+        "source": "汉语多音字",
+        "words": [
+            "勾 gou1 一笔勾销",
+            "勾 gou4 勾当"
+        ],
+        "text": "他决定一笔勾销过去的误会，不再参与这次勾当。",
+        "pinyin": "ta1 jue2 ding4 yi1 bi3 gou1 xiao1 guo4 qu4 de wu4 hui4，bu4 zai4 can1 yu4 zhe4 ci4 gou4 dang4。"
+    },
+    {
+        "id": "000251",
+        "source": "汉语多音字",
+        "words": [
+            "尺 che3 工尺（中国民族音乐音阶上各个音的总称）",
+            "尺 chi3 咫尺天涯"
+        ],
+        "text": "在音乐会上，演奏者运用工尺精妙绝伦，让人感觉虽咫尺天涯，心灵却紧密相连。",
+        "pinyin": "zai4 yin1 yue4 hui4 shang4，yan3 zou4 zhe3 yun4 yong4 gong1 che3 jing1 miao4 jue2 lun2，rang4 ren2 gan3 jue2 sui1 zhi3 chi3 tian1 ya2，xin1 ling2 que4 jin3 mi4 xiang1 lian2。"
+    },
+    {
+        "id": "000252",
+        "source": "汉语多音字",
+        "words": [
+            "堡 bao3 桥头堡",
+            "堡 bu3 堡子",
+            "堡 pu4 土堡"
+        ],
+        "text": "在这片土地上，建立起了一个坚固的土堡，成为我们的堡子和战略桥头堡。",
+        "pinyin": "zai4 zhe4 pian4 tu3 di4 shang4，jian4 li4 qi3 le yi2 ge4 jian1 gu4 de tu3 pu4，cheng2 wei2 wo3 men de bu3 zi he2 zhan4 lve4 qiao2 tou2 bao3。"
+    },
+    {
+        "id": "000253",
+        "source": "汉语多音字",
+        "words": [
+            "怔 zheng1 怔忡",
+            "怔 zheng4 发怔"
+        ],
+        "text": "他看着她时，脸上浮现出一丝怔忡的表情，她的美丽让他发怔不已。",
+        "pinyin": "ta1 kan4 zhe ta1 shi2，lian3 shang4 fu2 xian4 chu1 yi1 si1 zheng1 chong1 de biao3 qing2，ta1 de mei3 li4 rang4 ta1 fa1 zheng4 bu4 yi3。"
+    },
+    {
+        "id": "000254",
+        "source": "汉语多音字",
+        "words": [
+            "核 he2 社会主义核心价值观",
+            "核 hu2 核儿（果核）"
+        ],
+        "text": "他坚持社会主义核心价值观，把吃剩的苹果核儿丢进了垃圾桶。",
+        "pinyin": "ta1 jian1 chi2 she4 hui4 zhu3 yi4 he2 xin1 jia4 zhi2 guan1，ba3 chi1 sheng4 de ping2 guo3 hu2 er2 diu1 jin4 le la1 ji1 tong3。"
+    },
+    {
+        "id": "000255",
+        "source": "汉语多音字",
+        "words": [
+            "哇 wa1 哇啦",
+            "哇 wa5 卡哇伊（形容可爱）"
+        ],
+        "text": "看到小狗的照片，她忍不住哇啦大叫，真是太卡哇伊了！",
+        "pinyin": "kan4 dao4 xiao3 gou3 de zhao4 pian1，ta1 ren3 bu2 zhu4 wa1 la1 da4 jiao4，zhen1 shi4 tai4 ka3 wa yi1 le！"
+    },
+    {
+        "id": "000256",
+        "source": "汉语多音字",
+        "words": [
+            "缝 feng2 缝纫机",
+            "缝 feng4 严丝合缝"
+        ],
+        "text": "她使用缝纫机巧妙地完成了这件作品，每一针都严丝合缝。",
+        "pinyin": "ta1 shi3 yong4 feng2 ren4 ji1 qiao3 miao4 di4 wan2 cheng2 le zhe4 jian4 zuo4 pin3，mei3 yi1 zhen1 dou1 yan2 si1 he2 feng4。"
+    },
+    {
+        "id": "000257",
+        "source": "汉语多音字",
+        "words": [
+            "笼 long2 灯笼裤",
+            "笼 long3 笼罩"
+        ],
+        "text": "她穿着一条灯笼裤，整个人被黑夜笼罩着，如同一盏明亮的灯笼。",
+        "pinyin": "ta1 chuan1 zhe yi1 tiao2 deng1 long2 ku4，zheng3 ge4 ren2 bei4 hei1 ye4 long3 zhao4 zhe，ru2 tong2 yi1 zhan3 ming2 liang4 de deng1 long2。"
+    },
+    {
+        "id": "000258",
+        "source": "汉语多音字",
+        "words": [
+            "咽 yan1 咽喉",
+            "咽 yan4 咽气",
+            "咽 ye4 哽咽"
+        ],
+        "text": "他说话时喉咙有些不舒服，咽喉处似乎有些异物，导致他不得不咽气，最终只能无奈地哽咽起来。",
+        "pinyin": "ta1 shuo1 hua4 shi2 hou2 long2 you3 xie1 bu4 shu1 fu2，yan1 hou2 chu4 si4 hu1 you3 xie1 yi4 wu4，dao3 zhi4 ta1 bu4 de2 bu4 yan4 qi4，zui4 zhong1 zhi3 neng2 wu2 nai4 di4 geng3 ye4 qi3 lai2。"
+    },
+    {
+        "id": "000259",
+        "source": "汉语多音字",
+        "words": [
+            "屏 bing3 屏气",
+            "屏 ping2 触摸屏"
+        ],
+        "text": "他在触摸屏上屏气，专心致志地完成着手头的工作。",
+        "pinyin": "ta1 zai4 chu4 mo1 ping2 shang4 bing3 qi4，zhuan1 xin1 zhi4 zhi4 di4 wan2 cheng2 zhuo2 shou3 tou2 de gong1 zuo4。"
+    },
+    {
+        "id": "000260",
+        "source": "汉语多音字",
+        "words": [
+            "劈 pi1 劈头盖脸",
+            "劈 pi3 劈叉"
+        ],
+        "text": "他一拳劈头盖脸打来，我只能劈叉躲开。",
+        "pinyin": "ta1 yi1 quan2 pi1 tou2 gai4 lian3 da3 lai2，wo3 zhi3 neng2 pi3 cha4 duo3 kai1。"
+    },
+    {
+        "id": "000261",
+        "source": "汉语多音字",
+        "words": [
+            "扇 shan1 扇动",
+            "扇 shan4 摇鹅毛扇"
+        ],
+        "text": "她手中的扇动起来，像是在摇鹅毛扇一样优雅。",
+        "pinyin": "ta1 shou3 zhong1 de shan1 dong4 qi3 lai2，xiang4 shi4 zai4 yao2 e2 mao2 shan4 yi1 yang4 you1 ya3。"
+    },
+    {
+        "id": "000262",
+        "source": "汉语多音字",
+        "words": [
+            "搂 lou1 搂搜（吝啬）",
+            "搂 lou3 搂抱"
+        ],
+        "text": "他对待金钱非常搂搜，却从不吝啬在困难时搂抱他人。",
+        "pinyin": "ta1 dui4 dai4 jin1 qian2 fei1 chang2 lou3 sou1，que4 cong2 bu4 lin4 se4 zai4 kun4 nan2 shi2 lou3 bao4 ta1 ren2。"
+    },
+    {
+        "id": "000263",
+        "source": "汉语多音字",
+        "words": [
+            "刷 shua1 活字印刷",
+            "刷 shua4 刷白（指面色白发青,不正常"
+        ],
+        "text": "他紧张到面色刷白，仿佛所有罪证都在这份活字印刷的文件上。",
+        "pinyin": "ta1 jin3 zhang1 dao4 mian4 se4 shua4 bai2，fang3 fu2 suo3 you3 zui4 zheng4 dou1 zai4 zhe4 fen4 huo2 zi4 yin4 shua1 de wen2 jian4 shang4。"
+    },
+    {
+        "id": "000264",
+        "source": "汉语多音字",
+        "words": [
+            "荷 he2 荷兰豆",
+            "荷 he4 电荷"
+        ],
+        "text": "她在超市买了一包荷兰豆，学校里的物理实验中，老师讲解了电荷的概念。",
+        "pinyin": "ta1 zai4 chao1 shi4 mai3 le yi1 bao1 he2 lan2 dou4，xue2 xiao4 li3 de wu4 li3 shi2 yan4 zhong1，lao3 shi1 jiang3 jie3 le dian4 he4 de gai4 nian4。"
+    },
+    {
+        "id": "000265",
+        "source": "汉语多音字",
+        "words": [
+            "冠 guan1 冠冕堂皇",
+            "冠 guan4 沐猴而冠"
+        ],
+        "text": "他的演讲冠冕堂皇，却像是沐猴而冠，显得虚伪不实。",
+        "pinyin": "ta1 de yan3 jiang3 guan1 mian3 tang2 huang2，que4 xiang4 shi4 mu4 hou2 er2 guan4，xian3 de xu1 wei3 bu4 shi2。"
+    },
+    {
+        "id": "000266",
+        "source": "汉语多音字",
+        "words": [
+            "咖 ga1 咖喱",
+            "咖 ka1 咖啡因"
+        ],
+        "text": "今天晚上我准备做一道咖喱菜肴，然后喝一杯含有咖啡因的咖啡。",
+        "pinyin": "jin1 tian1 wan3 shang4 wo3 zhun3 bei4 zuo4 yi1 dao4 ga1 li2 cai4 yao2，ran2 hou4 he1 yi1 bei1 han2 you3 ka1 fei1 yin1 de ka1 fei1。"
+    },
+    {
+        "id": "000267",
+        "source": "汉语多音字",
+        "words": [
+            "爪 zhao3 爪牙",
+            "爪 zhua3 爪牙"
+        ],
+        "text": "那个恶棍身边总是聚集着一帮爪牙，他们如同爪牙一般效忠于恶棍。",
+        "pinyin": "na4 ge4 e4 gun4 shen1 bian1 zong3 shi4 ju4 ji2 zhe yi1 bang1 zhao3 ya2，ta1 men ru2 tong2 zhao3 ya2 yi4 ban1 xiao4 zhong1 yu2 e4 gun4。"
+    },
+    {
+        "id": "000268",
+        "source": "汉语多音字",
+        "words": [
+            "佣 yong1 雇佣",
+            "佣 yong4 佣钱"
+        ],
+        "text": "他被公司雇佣为员工，每月领取一定的佣钱作为报酬。",
+        "pinyin": "ta1 bei4 gong1 si1 gu4 yong1 wei4 yuan2 gong1，mei3 yue4 ling3 qu3 yi2 ding4 de yong4 qian2 zuo4 wei2 bao4 chou2。"
+    },
+    {
+        "id": "000269",
+        "source": "汉语多音字",
+        "words": [
+            "纤 qian4 纤绳",
+            "纤 xian1 合成纤维"
+        ],
+        "text": "他用纤绳捆扎着货物，这些货物是由合成纤维制成的。",
+        "pinyin": "ta1 yong4 qian4 sheng2 kun3 zha1 zhe huo4 wu4，zhe4 xie1 huo4 wu4 shi4 you2 he2 cheng2 xian1 wei2 zhi4 cheng2 de。"
+    },
+    {
+        "id": "000270",
+        "source": "汉语多音字",
+        "words": [
+            "哄 hong1 哄堂大笑",
+            "哄 hong3 哄骗",
+            "哄 hong4 起哄"
+        ],
+        "text": "他的幽默引起了全场的哄堂大笑，却被他的谎言哄骗，最终导致人群起哄。",
+        "pinyin": "ta1 de you1 mo4 yin3 qi3 le quan2 chang3 de hong1 tang2 da4 xiao4，que4 bei4 ta1 de huang3 yan2 hong3 pian4，zui4 zhong1 dao3 zhi4 ren2 qun2 qi3 hong4。"
+    },
+    {
+        "id": "000271",
+        "source": "汉语多音字",
+        "words": [
+            "淋 lin2 淋漓尽致",
+            "淋 lin4 淋病"
+        ],
+        "text": "他的表演淋漓尽致，但却被淋病困扰着。",
+        "pinyin": "ta1 de biao3 yan3 lin2 li2 jin4 zhi4，dan4 que4 bei4 lin4 bing4 kun4 rao3 zhe。"
+    },
+    {
+        "id": "000272",
+        "source": "汉语多音字",
+        "words": [
+            "咯 ge1 咯嘣",
+            "咯 ka3 咯血"
+        ],
+        "text": "他突然咯嘣一声，咯出了血来。",
+        "pinyin": "ta1 tu1 ran2 ge1 beng1 yi1 sheng1，ge1 chu1 le xue4 lai2。"
+    },
+    {
+        "id": "000273",
+        "source": "汉语多音字",
+        "words": [
+            "煞 sha1 煞风景",
+            "煞 sha4 像煞有介事"
+        ],
+        "text": "他的举止实在是煞风景，仿佛像煞有介事般严肃。",
+        "pinyin": "ta1 de ju3 zhi3 shi2 zai4 shi4 sha1 feng1 jing3，fang3 fu2 xiang4 sha4 you3 jie4 shi4 ban1 yan2 su4。"
+    },
+    {
+        "id": "000274",
+        "source": "汉语多音字",
+        "words": [
+            "嚷 rang1 闹嚷嚷",
+            "嚷 rang3 喧嚷"
+        ],
+        "text": "他们在街上喧嚷着唱歌，引起了一片闹嚷嚷的热闹场面。",
+        "pinyin": "ta1 men zai4 jie1 shang4 xuan1 rang3 zhe chang4 ge1，yin3 qi3 le yi1 pian4 nao4 rang1 rang1 de re4 nao4 chang3 mian4。"
+    },
+    {
+        "id": "000275",
+        "source": "汉语多音字",
+        "words": [
+            "哗 hua1 稀里哗啦",
+            "哗 hua2 哗众取宠"
+        ],
+        "text": "他们一边吃着瓜子，一边听着稀里哗啦的雨声，仿佛置身于哗众取宠的舞台之上。",
+        "pinyin": "ta1 men yi1 bian1 chi1 zhe gua1 zi，yi1 bian1 ting1 zhe xi1 li3 hua1 la1 de yu3 sheng1，fang3 fu2 zhi4 shen1 yu2 hua2 zhong4 qu3 chong3 de wu3 tai2 zhi1 shang4。"
+    },
+    {
+        "id": "000276",
+        "source": "汉语多音字",
+        "words": [
+            "嘲 chao2 冷嘲热讽",
+            "嘲 zhao1 嘲哳"
+        ],
+        "text": "他总是冷嘲热讽，嘲哳的声音让人感到烦躁不安。",
+        "pinyin": "ta1 zong3 shi4 leng3 chao2 re4 feng3，zhao1 zha1 de sheng1 yin1 rang4 ren2 gan3 dao4 fan2 zao4 bu4 an1。"
+    },
+    {
+        "id": "000277",
+        "source": "汉语多音字",
+        "words": [
+            "哑 ya1 哑哑",
+            "哑 ya3 装聋作哑"
+        ],
+        "text": "他装聋作哑，却听见了乌鸦哑哑的叫声。",
+        "pinyin": "ta1 zhuang1 long2 zuo4 ya3，que4 ting1 jian4 le wu1 ya1 ya1 ya1 de jiao4 sheng1。"
+    },
+    {
+        "id": "000278",
+        "source": "汉语多音字",
+        "words": [
+            "朴 piao2 朴（姓）",
+            "朴 po1 朴刀（古代一种双手使用的工具）",
+            "朴 po4 朴硝（朴树）",
+            "朴 pu3 朴实"
+        ],
+        "text": "他这个人姓朴，手里拿着朴刀，准备去砍朴树，他的性格朴实可靠。",
+        "pinyin": "ta1 zhe4 ge4 ren2 xing4 pu3，shou3 li3 na2 zhe po1 dao1，zhun3 bei4 qu4 kan3 pu3 shu4，ta1 de xing4 ge2 pu3 shi2 ke3 kao4。"
+    },
+    {
+        "id": "000279",
+        "source": "汉语多音字",
+        "words": [
+            "雀 qiao1 雀子（指雀斑）",
+            "雀 qiao3 家雀儿（麻雀）",
+            "雀 que4 鸦雀无声"
+        ],
+        "text": "夜晚里，宁静的村庄中鸦雀无声，只有偶尔一只家雀儿飞过，它身上的雀斑在月光下闪烁。",
+        "pinyin": "ye4 wan3 li3，ning2 jing4 de cun1 zhuang1 zhong1 ya1 que4 wu2 sheng1，zhi3 you3 ou3 er3 yi1 zhi1 jia1 qiao3 er2 fei1 guo4，ta1 shen1 shang4 de que4 ban1 zai4 yue4 guang1 xia4 shan3 shuo4。"
+    },
+    {
+        "id": "000280",
+        "source": "汉语多音字",
+        "words": [
+            "拓 ta4 拓本",
+            "拓 tuo4 拓扑学"
+        ],
+        "text": "他在图书馆找到了一本拓本，里面介绍了拓扑学的基本概念。",
+        "pinyin": "ta1 zai4 tu2 shu1 guan3 zhao3 dao4 le yi1 ben3 ta4 ben3，li3 mian4 jie4 shao4 le tuo4 pu1 xue2 de ji1 ben3 gai4 nian4。"
+    },
+    {
+        "id": "000281",
+        "source": "汉语多音字",
+        "words": [
+            "仆 pu1 前仆后继",
+            "仆 pu2 仆人"
+        ],
+        "text": "在这场战斗中，士兵们前仆后继，像是一支忠诚的仆人。",
+        "pinyin": "zai4 zhe4 chang3 zhan4 dou4 zhong1，shi4 bing1 men qian2 pu1 hou4 ji4，xiang4 shi4 yi1 zhi1 zhong1 cheng2 de pu2 ren2。"
+    },
+    {
+        "id": "000282",
+        "source": "汉语多音字",
+        "words": [
+            "尉 wei4 上尉",
+            "尉 yu4 尉迟"
+        ],
+        "text": "他是一名上尉，而尉迟则是他的同僚。",
+        "pinyin": "ta1 shi4 yi1 ming2 shang4 wei4，er2 yu4 chi2 ze2 shi4 ta1 de tong2 liao2。"
+    },
+    {
+        "id": "000283",
+        "source": "汉语多音字",
+        "words": [
+            "杆 gan1 撑杆跳高",
+            "杆 gan3 耍笔杆儿"
+        ],
+        "text": "他在比赛中以出色的表现，成功完成了撑杆跳高项目，而在日常生活中，他喜欢耍笔杆儿来放松心情。",
+        "pinyin": "ta1 zai4 bi3 sai4 zhong1 yi3 chu1 se4 de biao3 xian4，cheng2 gong1 wan2 cheng2 le cheng1 gan1 tiao4 gao1 xiang4 mu4，er2 zai4 ri4 chang2 sheng1 huo2 zhong1，ta1 xi3 huan1 shua3 bi3 gan3 er2 lai2 fang4 song1 xin1 qing2。"
+    },
+    {
+        "id": "000284",
+        "source": "汉语多音字",
+        "words": [
+            "殷 yan1 殷红",
+            "殷 yin1 献殷勤"
+        ],
+        "text": "她穿着一袭殷红的礼服，献殷勤地招待着每一位客人。",
+        "pinyin": "ta1 chuan1 zhe yi1 xi2 yan1 hong2 de li3 fu2，xian4 yin1 qin2 di4 zhao1 dai4 zhe mei3 yi1 wei4 ke4 ren2。"
+    },
+    {
+        "id": "000285",
+        "source": "汉语多音字",
+        "words": [
+            "症 zheng1 症结",
+            "症 zheng4 精神分裂症"
+        ],
+        "text": "这个问题的症结在于缺乏有效沟通，导致精神分裂症患者无法得到及时帮助。",
+        "pinyin": "zhe4 ge4 wen4 ti2 de zheng1 jie2 zai4 yu2 que1 fa2 you3 xiao4 gou1 tong1，dao3 zhi4 jing1 shen2 fen1 lie4 zheng4 huan4 zhe3 wu2 fa3 de2 dao4 ji2 shi2 bang1 zhu4。"
+    },
+    {
+        "id": "000286",
+        "source": "汉语多音字",
+        "words": [
+            "咧 lie1 大大咧咧",
+            "咧 lie3 咧嘴"
+        ],
+        "text": "她说话大大咧咧，总是咧嘴笑着，给人一种随和的感觉。",
+        "pinyin": "ta1 shuo1 hua4 da4 da4 lie1 lie1，zong3 shi4 lie3 zui3 xiao4 zhe，gei3 ren2 yi1 zhong3 sui2 he2 de gan3 jue2。"
+    },
+    {
+        "id": "000287",
+        "source": "汉语多音字",
+        "words": [
+            "哩 li1 哩哩啰啰（形容说话啰嗦不清楚）",
+            "哩 li3 叽哩旮旯（各个角落）",
+            "哩 li5 吸哩哩（形容摧折声）"
+        ],
+        "text": "他说话啰嗦不清楚，一会儿讲这个，一会儿又说那个，哩哩啰啰的，像是在叽哩旮旯里转悠，吸哩哩的声音时不时传来。",
+        "pinyin": "ta1 shuo1 hua4 luo1 suo bu4 qing1 chu3，yi1 hui4 er jiang3 zhe4 ge4，yi1 hui4 er you4 shuo1 na4 ge4，li1 li1 luo1 luo1 de，xiang4 shi4 zai4 ji1 li1 ga1 la2 li3 zhuan4 you1，xi1 li1 li1 de sheng1 yin1 shi2 bu4 shi2 chuan2 lai2。"
+    },
+    {
+        "id": "000288",
+        "source": "汉语多音字",
+        "words": [
+            "卜 bo5 萝卜",
+            "卜 bu3 未卜先知"
+        ],
+        "text": "她拿起一个萝卜，却仿佛是未卜先知般，知道了接下来会发生什么。",
+        "pinyin": "ta1 na2 qi3 yi1 ge4 luo2 bo，que4 fang3 fu2 shi4 wei4 bu3 xian1 zhi1 ban1，zhi1 dao4 le jie1 xia4 lai2 hui4 fa1 sheng1 shen2 me。"
+    },
+    {
+        "id": "000289",
+        "source": "汉语多音字",
+        "words": [
+            "溃 hui4 溃脓",
+            "溃 kui4 溃烂"
+        ],
+        "text": "伤口溃烂后，开始溃脓，需要及时处理以避免感染。",
+        "pinyin": "shang1 kou3 kui4 lan4 hou4，kai1 shi3 hui4 nong2，xu1 yao4 ji2 shi2 chu3 li3 yi3 bi4 mian3 gan3 ran3。"
+    },
+    {
+        "id": "000290",
+        "source": "汉语多音字",
+        "words": [
+            "削 xiao1 刀削面",
+            "削 xue1 剥削"
+        ],
+        "text": "她喜欢吃刀削面，但不喜欢参与剥削行为。",
+        "pinyin": "ta1 xi3 huan1 chi1 dao1 xiao1 mian4，dan4 bu4 xi3 huan1 can1 yu4 bo1 xue1 xing2 wei2。"
+    },
+    {
+        "id": "000291",
+        "source": "汉语多音字",
+        "words": [
+            "遂 sui2 半身不遂（指偏瘫）",
+            "遂 sui4 功成名遂"
+        ],
+        "text": "他努力奋斗，最终功成名遂，而他的亲人却因疾病半身不遂，这是人生的无奈。",
+        "pinyin": "ta1 nu3 li4 fen4 dou4，zui4 zhong1 gong1 cheng2 ming2 sui4，er2 ta1 de qin1 ren2 que4 yin1 ji2 bing4 ban4 shen1 bu4 sui2，zhe4 shi4 ren2 sheng1 de wu2 nai4。"
+    },
+    {
+        "id": "000292",
+        "source": "汉语多音字",
+        "words": [
+            "叉 cha1 平面交叉",
+            "叉 cha4 劈叉"
+        ],
+        "text": "他在表演时，展现出了优美的劈叉动作，仿佛平面交叉的线条般流畅。",
+        "pinyin": "ta1 zai4 biao3 yan3 shi2，zhan3 xian4 chu1 le you1 mei3 de pi3 cha4 dong4 zuo4，fang3 fu2 ping2 mian4 jiao1 cha1 de xian4 tiao2 ban1 liu2 chang4。"
+    },
+    {
+        "id": "000293",
+        "source": "汉语多音字",
+        "words": [
+            "龟 gui1 乌龟",
+            "龟 jun1 龟裂"
+        ],
+        "text": "那只乌龟在干燥的环境中，皮肤开始龟裂，显示出了它的痛苦。",
+        "pinyin": "na4 zhi3 wu1 gui1 zai4 gan1 zao4 de huan2 jing4 zhong1，pi2 fu1 kai1 shi3 jun1 lie4，xian3 shi4 chu1 le ta1 de tong4 ku3。"
+    },
+    {
+        "id": "000294",
+        "source": "汉语多音字",
+        "words": [
+            "囊 nang1 窝囊废",
+            "囊 nang2 锦囊妙计"
+        ],
+        "text": "他总是表现得窝囊废，却从未想过别人可能给他一个锦囊妙计。",
+        "pinyin": "ta1 zong3 shi4 biao3 xian4 de2 wo1 nang1 fei4，que4 cong2 wei4 xiang3 guo4 bie2 ren2 ke3 neng2 gei3 ta1 yi2 ge4 jin3 nang2 miao4 ji4。"
+    },
+    {
+        "id": "000295",
+        "source": "汉语多音字",
+        "words": [
+            "巷 hang4 巷道",
+            "巷 xiang4 万人空巷（形容热闹）"
+        ],
+        "text": "万人空巷的巷道里熙熙攘攘，人来人往，犹如巨大的迷宫。",
+        "pinyin": "wan4 ren2 kong1 xiang4 de hang4 dao4 li3 xi1 xi1 rang3 rang3，ren2 lai2 ren2 wang3，you2 ru2 ju4 da4 de mi2 gong1。"
+    },
+    {
+        "id": "000296",
+        "source": "汉语多音字",
+        "words": [
+            "颈 geng3 脖颈儿",
+            "颈 jing3 颈椎"
+        ],
+        "text": "他受伤后，脖颈儿处的颈椎受到了严重影响。",
+        "pinyin": "ta1 shou4 shang1 hou4，bo2 geng3 er2 chu4 de jing3 chui2 shou4 dao4 le yan2 zhong4 ying3 xiang3。"
+    },
+    {
+        "id": "000297",
+        "source": "汉语多音字",
+        "words": [
+            "咋 za3 咋唬",
+            "咋 ze2 咋舌",
+            "咋 zha1 咋呼"
+        ],
+        "text": "他说话时咋唬人，却常常因为咋舌而引起误会，最终只能无奈地咋呼求助。",
+        "pinyin": "ta1 shuo1 hua4 shi2 za3 hu3 ren2，que4 chang2 chang2 yin1 wei4 ze2 she2 er2 yin3 qi3 wu4 hui4，zui4 zhong1 zhi3 neng2 wu2 nai4 di4 zha1 hu1 qiu2 zhu4。"
+    },
+    {
+        "id": "000298",
+        "source": "汉语多音字",
+        "words": [
+            "碌 liu4 碌碡",
+            "碌 lu4 忙碌"
+        ],
+        "text": "他们在碌碡上忙碌地轧谷物，场面繁忙而有秩序。",
+        "pinyin": "ta1 men zai4 liu4 zhou2 shang4 mang2 lu4 di4 ya4 gu3 wu4，chang3 mian4 fan2 mang2 er2 you3 zhi4 xu4。"
+    },
+    {
+        "id": "000299",
+        "source": "汉语多音字",
+        "words": [
+            "匙 chi2 汤匙",
+            "匙 shi5 金钥匙"
+        ],
+        "text": "她用银汤匙品尝着美味，却梦想着拥有一把金钥匙打开未来的大门。",
+        "pinyin": "ta1 yong4 yin2 tang1 chi2 pin3 chang2 zhe mei3 wei4，que4 meng4 xiang3 zhe yong1 you3 yi1 ba3 jin1 yao4 shi da3 kai1 wei4 lai2 de da4 men2。"
+    },
+    {
+        "id": "000300",
+        "source": "汉语多音字",
+        "words": [
+            "吁 xu1 气吁吁",
+            "吁 yu4 吁求"
+        ],
+        "text": "他气吁吁地走进房间，吁求着老板给予一次机会。",
+        "pinyin": "ta1 qi4 xu1 xu1 di4 zou3 jin4 fang2 jian1，yu4 qiu2 zhe lao3 ban3 ji3 yu3 yi1 ci4 ji1 hui4。"
+    },
+    {
+        "id": "000301",
+        "source": "汉语多音字",
+        "words": [
+            "撇 pie1 撇开",
+            "撇 pie3 八字没一撇"
+        ],
+        "text": "他撇开了这个问题，八字没一撇就离开了。",
+        "pinyin": "ta1 pie1 kai1 le zhe4 ge4 wen4 ti2，ba1 zi4 mei2 yi1 pie3 jiu4 li2 kai1 le。"
+    },
+    {
+        "id": "000302",
+        "source": "汉语多音字",
+        "words": [
+            "禅 chan2 口头禅",
+            "禅 shan4 封禅（指古代祭天地）"
+        ],
+        "text": "他常常把‘心如止水’作为口头禅，却不知古代的封禅是祭天地的盛典。",
+        "pinyin": "ta1 chang2 chang2 ba3‘xin1 ru2 zhi3 shui3’zuo4 wei2 kou3 tou2 chan2，que4 bu4 zhi1 gu3 dai4 de feng1 shan4 shi4 ji4 tian1 di4 de sheng4 dian3。"
+    },
+    {
+        "id": "000303",
+        "source": "汉语多音字",
+        "words": [
+            "钥 yao4 密钥",
+            "钥 yue4 锁钥"
+        ],
+        "text": "他找到了失落已久的密钥，却发现它并非打开这扇门的锁钥。",
+        "pinyin": "ta1 zhao3 dao4 le shi1 luo4 yi3 jiu3 de mi4 yao4，que4 fa1 xian4 ta1 bing4 fei1 da3 kai1 zhe4 shan4 men2 de suo3 yue4。"
+    },
+    {
+        "id": "000304",
+        "source": "汉语多音字",
+        "words": [
+            "钉 ding1 水泥钉",
+            "钉 ding4 板上钉钉"
+        ],
+        "text": "他用水泥钉把木板固定得板上钉钉，牢固而稳定。",
+        "pinyin": "ta1 yong4 shui3 ni2 ding1 ba3 mu4 ban3 gu4 ding4 de2 ban3 shang4 ding4 ding1，lao2 gu4 er2 wen3 ding4。"
+    },
+    {
+        "id": "000305",
+        "source": "汉语多音字",
+        "words": [
+            "尿 niao4 屁滚尿流",
+            "尿 sui1 尿泡（指膀胱）"
+        ],
+        "text": "他憋得实在是受不了了，就像是屁滚尿流一般，连尿泡都快要爆了。",
+        "pinyin": "ta1 bie1 de2 shi2 zai4 shi4 shou4 bu4 liao3 le，jiu4 xiang4 shi4 pi4 gun3 niao4 liu2 yi4 ban1，lian2 sui1 pao4 dou1 kuai4 yao4 bao4 le。"
+    },
+    {
+        "id": "000306",
+        "source": "汉语多音字",
+        "words": [
+            "嘀 di1 嘀嗒",
+            "嘀 di2 犯嘀咕"
+        ],
+        "text": "他坐在那里，耳边传来嘀嗒的声音，让他犯起了嘀咕。",
+        "pinyin": "ta1 zuo4 zai4 na4 li3，er3 bian1 chuan2 lai2 di1 da1 de sheng1 yin1，rang4 ta1 fan4 qi3 le di2 gu1。"
+    },
+    {
+        "id": "000307",
+        "source": "汉语多音字",
+        "words": [
+            "叨 dao1 忙忙叨叨",
+            "叨 dao2 叨咕",
+            "叨 tao1 叨扰"
+        ],
+        "text": "他总是忙忙叨叨地工作，叨咕着不知道在说些什么，客套话叨扰了别人的休息时间。",
+        "pinyin": "ta1 zong3 shi4 mang2 mang2 dao1 dao1 di4 gong1 zuo4，dao2 gu zhe bu4 zhi1 dao4 zai4 shuo1 xie1 shen2 me，ke4 tao4 hua4 tao1 rao3 le bie2 ren2 de xiu1 xi1 shi2 jian1。"
+    },
+    {
+        "id": "000308",
+        "source": "汉语多音字",
+        "words": [
+            "氓 mang2 流氓",
+            "氓 meng2 群氓"
+        ],
+        "text": "这个地区治安恶劣，流氓横行，群氓们生活在恐惧之中。",
+        "pinyin": "zhe4 ge4 di4 qu1 zhi4 an1 e4 lie4，liu2 mang2 heng2 xing2，qun2 meng2 men sheng1 huo2 zai4 kong3 ju4 zhi1 zhong1。"
+    },
+    {
+        "id": "000309",
+        "source": "汉语多音字",
+        "words": [
+            "壳 ke2 贝壳",
+            "壳 qiao4 甲壳动物"
+        ],
+        "text": "孩子们在海滩上捡到了许多贝壳，其中有些是甲壳动物的壳。",
+        "pinyin": "hai2 zi men zai4 hai3 tan1 shang4 jian3 dao4 le xu3 duo1 bei4 ke2，qi2 zhong1 you3 xie1 shi4 jia3 qiao4 dong4 wu4 de ke2。"
+    },
+    {
+        "id": "000310",
+        "source": "汉语多音字",
+        "words": [
+            "泊 bo2 停泊",
+            "泊 po1 湖泊"
+        ],
+        "text": "游船停泊在湖泊边，静静地享受着清晨的宁静。",
+        "pinyin": "you2 chuan2 ting2 bo2 zai4 hu2 po1 bian1，jing4 jing4 di4 xiang3 shou4 zhe qing1 chen2 de ning2 jing4。"
+    },
+    {
+        "id": "000311",
+        "source": "汉语多音字",
+        "words": [
+            "扁 bian3 扁形动物",
+            "扁 pian1 扁舟"
+        ],
+        "text": "在湖面上，一只扁舟如同扁形动物般轻盈地滑行。",
+        "pinyin": "zai4 hu2 mian4 shang4，yi1 zhi1 pian1 zhou1 ru2 tong2 bian3 xing2 dong4 wu4 ban1 qing1 ying2 di4 hua2 xing2。"
+    },
+    {
+        "id": "000312",
+        "source": "汉语多音字",
+        "words": [
+            "搁 ge1 搁浅",
+            "搁 ge2 搁得住"
+        ],
+        "text": "这件事情让他感到搁浅，但他的心态很好，能搁得住。",
+        "pinyin": "zhe4 jian4 shi4 qing2 rang4 ta1 gan3 dao4 ge1 qian3，dan4 ta1 de xin1 tai4 hen3 hao3，neng2 ge2 de zhu4。"
+    },
+    {
+        "id": "000313",
+        "source": "汉语多音字",
+        "words": [
+            "翘 qiao2 连翘",
+            "翘 qiao4 翘辫子"
+        ],
+        "text": "她头发翘辫子，连翘走过，引人注目。",
+        "pinyin": "ta1 tou2 fa4 qiao4 bian4 zi，lian2 qiao2 zou3 guo4，yin3 ren2 zhu4 mu4。"
+    },
+    {
+        "id": "000314",
+        "source": "汉语多音字",
+        "words": [
+            "琢 zhuo2 雕琢",
+            "琢 zuo2 琢磨"
+        ],
+        "text": "他用心雕琢每一件作品，琢磨着如何让作品更加完美。",
+        "pinyin": "ta1 yong4 xin1 diao1 zhuo2 mei3 yi1 jian4 zuo4 pin3，zuo2 mo2 zhe ru2 he2 rang4 zuo4 pin3 geng4 jia1 wan2 mei3。"
+    },
+    {
+        "id": "000315",
+        "source": "汉语多音字",
+        "words": [
+            "粘 nian2 黏土",
+            "粘 zhan1 粘连"
+        ],
+        "text": "孩子用粘土做了一个粘连的小动物，展现了他的创造力。",
+        "pinyin": "hai2 zi yong4 nian2 tu3 zuo4 le yi2 ge4 zhan1 lian2 de xiao3 dong4 wu4，zhan3 xian4 le ta1 de chuang4 zao4 li4。"
+    },
+    {
+        "id": "000316",
+        "source": "汉语多音字",
+        "words": [
+            "媛 yuan2 婵媛",
+            "媛 yuan4 名媛"
+        ],
+        "text": "她是名媛，婵媛端庄优雅，成为了当今社交界的焦点。",
+        "pinyin": "ta1 shi4 ming2 yuan4，chan2 yuan2 duan1 zhuang1 you1 ya3，cheng2 wei2 liao3 dang4 jin1 she4 jiao1 jie4 de jiao1 dian3。"
+    },
+    {
+        "id": "000317",
+        "source": "汉语多音字",
+        "words": [
+            "厦 sha4 商厦",
+            "厦 xia4 噶厦"
+        ],
+        "text": "在这座商厦里，展示了噶厦地方政府的文化和历史。",
+        "pinyin": "zai4 zhe4 zuo4 shang1 sha4 li3，zhan3 shi4 le ga2 xia4 di4 fang1 zheng4 fu3 de wen2 hua4 he2 li4 shi3。"
+    },
+    {
+        "id": "000318",
+        "source": "汉语多音字",
+        "words": [
+            "倘 chang2 倘佯",
+            "倘 tang3 倘若"
+        ],
+        "text": "他的态度倘若坚定，不会倘佯于困境中。",
+        "pinyin": "ta1 de tai4 du4 tang3 ruo4 jian1 ding4，bu2 hui4 chang2 yang2 yu2 kun4 jing4 zhong1。"
+    },
+    {
+        "id": "000319",
+        "source": "汉语多音字",
+        "words": [
+            "嘎 ga1 嘎嘣脆",
+            "嘎 ga3 嘎子"
+        ],
+        "text": "他踩在冰面上发出了嘎嘎嘣脆的声音，手里拿着嘎子准备修理家具。",
+        "pinyin": "ta1 cai3 zai4 bing1 mian4 shang4 fa1 chu1 le ga1 ga1 beng1 cui4 de sheng1 yin1，shou3 li3 na2 zhe ga3 zi3 zhun3 bei4 xiu1 li3 jia1 ju4。"
+    },
+    {
+        "id": "000320",
+        "source": "汉语多音字",
+        "words": [
+            "沮 ju3 沮丧",
+            "沮 ju4 沮洳"
+        ],
+        "text": "他看到失败的结果，心情变得沮丧，就像是置身于一片沮洳的泥沼中。",
+        "pinyin": "ta1 kan4 dao4 shi1 bai4 de jie2 guo3，xin1 qing2 bian4 de2 ju3 sang4，jiu4 xiang4 shi4 zhi4 shen1 yu2 yi1 pian4 ju4 ru4 de ni2 zhao3 zhong1。"
+    },
+    {
+        "id": "000321",
+        "source": "汉语多音字",
+        "words": [
+            "帖 tie1 妥帖",
+            "帖 tie3 帖子",
+            "帖 tie4 字帖"
+        ],
+        "text": "她的礼物选择很妥帖，送了一本精美的帖子，里面是一本书法字帖。",
+        "pinyin": "ta1 de li3 wu4 xuan3 ze2 hen3 tuo3 tie1，song4 le yi1 ben3 jing1 mei3 de tie3 zi3，li3 mian4 shi4 yi1 ben3 shu1 fa3 zi4 tie4。"
+    },
+    {
+        "id": "000322",
+        "source": "汉语多音字",
+        "words": [
+            "吭 hang2 引吭高歌",
+            "吭 keng1 吭气"
+        ],
+        "text": "他引吭高歌时，却吭气了，让人感到尴尬。",
+        "pinyin": "ta1 yin3 hang2 gao1 ge1 shi2，que4 keng1 qi4 le，rang4 ren2 gan3 dao4 gan1 ga4。"
+    },
+    {
+        "id": "000323",
+        "source": "汉语多音字",
+        "words": [
+            "辟 bi4 复辟",
+            "辟 pi4 开天辟地"
+        ],
+        "text": "他试图复辟旧制度，却无法开天辟地，实现自己的理想。",
+        "pinyin": "ta1 shi4 tu2 fu4 bi4 jiu4 zhi4 du4，que4 wu2 fa3 kai1 tian1 pi4 di4，shi2 xian4 zi4 ji3 de li3 xiang3。"
+    },
+    {
+        "id": "000324",
+        "source": "汉语多音字",
+        "words": [
+            "绷 beng1 绷带",
+            "绷 beng3 绷脸"
+        ],
+        "text": "他受伤后，医生给他裹上了绷带，但他却绷着脸表示不满。",
+        "pinyin": "ta1 shou4 shang1 hou4，yi1 sheng1 gei3 ta1 guo3 shang4 le beng1 dai4，dan4 ta1 que4 beng1 zhe lian3 biao3 shi4 bu4 man3。"
+    },
+    {
+        "id": "000325",
+        "source": "汉语多音字",
+        "words": [
+            "坊 fang1 街坊",
+            "坊 fang2 染坊"
+        ],
+        "text": "他在这条街坊里开了一家染坊，为周围的居民提供染色服务。",
+        "pinyin": "ta1 zai4 zhe4 tiao2 jie1 fang1 li3 kai1 le yi1 jia1 ran3 fang2，wei4 zhou1 wei2 de ju1 min2 ti2 gong1 ran3 se4 fu2 wu4。"
+    },
+    {
+        "id": "000326",
+        "source": "汉语多音字",
+        "words": [
+            "畜 chu4 家畜",
+            "畜 xu4 畜牧"
+        ],
+        "text": "他在农场养了许多家畜，专门从事畜牧业。",
+        "pinyin": "ta1 zai4 nong2 chang3 yang3 le xu3 duo1 jia1 chu4，zhuan1 men2 cong2 shi4 xu4 mu4 ye4。"
+    },
+    {
+        "id": "000327",
+        "source": "汉语多音字",
+        "words": [
+            "兀 wu1 兀秃",
+            "兀 wu4 突兀"
+        ],
+        "text": "他的头发兀秃地散乱着，显得格外突兀。",
+        "pinyin": "ta1 de tou2 fa4 wu1 tu1 di4 san3 luan4 zhe，xian3 de ge2 wai4 tu1 wu4。"
+    },
+    {
+        "id": "000328",
+        "source": "汉语多音字",
+        "words": [
+            "脊 ji2 书脊",
+            "脊 ji3 无脊椎动物"
+        ],
+        "text": "这本书的书脊设计得非常精美，而无脊椎动物在自然界中也有着重要的生态作用。",
+        "pinyin": "zhe4 ben3 shu1 de shu1 ji2 she4 ji4 de2 fei1 chang2 jing1 mei3，er2 wu2 ji3 zhui1 dong4 wu4 zai4 zi4 ran2 jie4 zhong1 ye3 you3 zhe zhong4 yao4 de sheng1 tai4 zuo4 yong4。"
+    },
+    {
+        "id": "000329",
+        "source": "汉语多音字",
+        "words": [
+            "嚼 jiao2 味同嚼蜡",
+            "嚼 jiao4 倒嚼（反刍）",
+            "嚼 jue2 咀嚼"
+        ],
+        "text": "他尝了一口，味同嚼蜡，仿佛在倒嚼着食物，却无法真正享受到咀嚼的乐趣。",
+        "pinyin": "ta1 chang2 le yi1 kou3，wei4 tong2 jiao2 la4，fang3 fu2 zai4 dao3 jiao4 zhe shi2 wu4，que4 wu2 fa3 zhen1 zheng4 xiang3 shou4 dao4 ju3 jue2 de le4 qu4。"
+    },
+    {
+        "id": "000330",
+        "source": "汉语多音字",
+        "words": [
+            "揣 chuai1 揣手儿",
+            "揣 chuai3 揣测",
+            "揣 chuai4 挣揣"
+        ],
+        "text": "他揣手儿思索着，揣测着未来的可能性，不断挣揣着前行的道路。",
+        "pinyin": "ta1 chuai1 shou3 er si1 suo3 zhe，chuai3 ce4 zhe wei4 lai2 de ke3 neng2 xing4，bu4 duan4 zheng4 chuai4 zhe qian2 xing2 de dao4 lu4。"
+    },
+    {
+        "id": "000331",
+        "source": "汉语多音字",
+        "words": [
+            "殖 shi5 骨殖",
+            "殖 zhi2 殖民主义"
+        ],
+        "text": "这片土地上，尸骨殖殖，曾经殖民主义的阴影仍在徘徊。",
+        "pinyin": "zhe4 pian4 tu3 di4 shang4，shi1 gu3 zhi2 zhi2，ceng2 jing1 zhi2 min2 zhu3 yi4 de yin1 ying3 reng2 zai4 pai2 huai2。"
+    },
+    {
+        "id": "000332",
+        "source": "汉语多音字",
+        "words": [
+            "拧 ning2 拧干",
+            "拧 ning3 胳膊拧不过大腿"
+        ],
+        "text": "她用力拧干湿漉漉的衣服，但胳膊拧不过大腿的粗壮。",
+        "pinyin": "ta1 yong4 li4 ning2 gan4 shi1 lu4 lu4 de yi1 fu2，dan4 ge1 bo2 ning3 bu4 guo4 da4 tui3 de cu1 zhuang4。"
+    },
+    {
+        "id": "000333",
+        "source": "汉语多音字",
+        "words": [
+            "伺 ci4 伺候",
+            "伺 si4 伺机"
+        ],
+        "text": "他一直在伺候着客人，却始终没有伺机表达自己的想法。",
+        "pinyin": "ta1 yi4 zhi2 zai4 ci4 hou4 zhe ke4 ren2，que4 shi3 zhong1 mei2 you3 si4 ji1 biao3 da2 zi4 ji3 de xiang3 fa3。"
+    },
+    {
+        "id": "000334",
+        "source": "汉语多音字",
+        "words": [
+            "框 kuang1 框定",
+            "框 kuang4 条条框框"
+        ],
+        "text": "他们决定框定了这个计划，开始了条条框框的实施。",
+        "pinyin": "ta1 men jue2 ding4 kuang1 ding4 le zhe4 ge4 ji4 hua4，kai1 shi3 le tiao2 tiao2 kuang4 kuang4 de shi2 shi1。"
+    },
+    {
+        "id": "000335",
+        "source": "汉语多音字",
+        "words": [
+            "蚂 ma1 蚂螂（蜻蜓）",
+            "蚂 ma3 蚂蚁",
+            "蚂 ma4 蚂蚱"
+        ],
+        "text": "在田野里，蚂螂在空中翩翩起舞，蚂蚁在地底勤劳忙碌，而蚂蚱则在草丛中悠闲地晒太阳。",
+        "pinyin": "zai4 tian2 ye3 li3，ma1 lang2 zai4 kong1 zhong1 pian1 pian1 qi3 wu3，ma3 yi3 zai4 di4 di3 qin2 lao2 mang2 lu4，er2 ma4 zha4 ze2 zai4 cao3 cong2 zhong1 you1 xian2 di4 shai4 tai4 yang2。"
+    },
+    {
+        "id": "000336",
+        "source": "汉语多音字",
+        "words": [
+            "豁 hua2 豁拳（划拳）",
+            "豁 huo1 豁出去",
+            "豁 huo4 豁朗"
+        ],
+        "text": "他的豁拳技艺高超，每次划拳比赛都能获胜，展现出了豁出去的拼搏精神，让人感受到他的豁朗性格。",
+        "pinyin": "ta1 de hua2 quan2 ji4 yi4 gao1 chao1，mei3 ci4 hua2 quan2 bi3 sai4 dou1 neng2 huo4 sheng4，zhan3 xian4 chu1 le huo1 chu1 qu4 de pin1 bo2 jing1 shen2，rang4 ren2 gan3 shou4 dao4 ta1 de huo4 lang3 xing4 ge2。"
+    },
+    {
+        "id": "000337",
+        "source": "汉语多音字",
+        "words": [
+            "扒 ba1 扒皮",
+            "扒 pa2 吃里扒外"
+        ],
+        "text": "他们在扒皮的过程中，不仅扒了皮，还吃里扒外，让人看了不禁心生厌恶。",
+        "pinyin": "ta1 men zai4 ba1 pi2 de guo4 cheng2 zhong1，bu4 jin3 ba1 le pi2，hai2 chi1 li3 pa2 wai4，rang4 ren2 kan4 le bu4 jin1 xin1 sheng1 yan4 wu4。"
+    },
+    {
+        "id": "000338",
+        "source": "汉语多音字",
+        "words": [
+            "稽 ji1 滑稽戏",
+            "稽 qi3 稽首"
+        ],
+        "text": "他在舞台上表演了一出滑稽戏，观众们看后纷纷稽首致敬。",
+        "pinyin": "ta1 zai4 wu3 tai2 shang4 biao3 yan3 le yi1 chu1 hua2 ji1 xi4，guan1 zhong4 men kan4 hou4 fen1 fen1 qi3 shou3 zhi4 jing4。"
+    },
+    {
+        "id": "000339",
+        "source": "汉语多音字",
+        "words": [
+            "剿 chao1 剿袭（抄袭）",
+            "剿 jiao3 搜剿"
+        ],
+        "text": "他们决定搜剿那些剿袭他人作品的人，绝不容忍抄袭行为。",
+        "pinyin": "ta1 men jue2 ding4 sou1 jiao3 na4 xie1 chao1 xi2 ta1 ren2 zuo4 pin3 de ren2，jue2 bu4 rong2 ren3 chao1 xi2 xing2 wei2。"
+    },
+    {
+        "id": "000340",
+        "source": "汉语多音字",
+        "words": [
+            "蹬 deng1 蹬腿",
+            "蹬 deng4 蹭蹬"
+        ],
+        "text": "他遭遇挫折，蹬腿蹭蹬，仕途不得意。",
+        "pinyin": "ta1 zao1 yu4 cuo4 zhe2，deng1 tui3 ceng4 deng4，shi4 tu2 bu4 de2 yi4。"
+    },
+    {
+        "id": "000341",
+        "source": "汉语多音字",
+        "words": [
+            "擂 lei2 自吹自擂",
+            "擂 lei4 摆擂台"
+        ],
+        "text": "他总是自吹自擂，却从未真正摆擂台展示实力。",
+        "pinyin": "ta1 zong3 shi4 zi4 chui1 zi4 lei2，que4 cong2 wei4 zhen1 zheng4 bai3 lei4 tai2 zhan3 shi4 shi2 li4。"
+    },
+    {
+        "id": "000342",
+        "source": "汉语多音字",
+        "words": [
+            "澄 cheng2 澄清",
+            "澄 deng4 澄沙"
+        ],
+        "text": "她用清水澄清了这个容器，然后将澄沙过滤出来，准备做豆沙馅儿。",
+        "pinyin": "ta1 yong4 qing1 shui3 cheng2 qing1 le zhe4 ge4 rong2 qi4，ran2 hou4 jiang1 deng4 sha1 guo4 lv4 chu1 lai2，zhun3 bei4 zuo4 dou4 sha1 xian4 er2。"
+    },
+    {
+        "id": "000343",
+        "source": "汉语多音字",
+        "words": [
+            "虾 ha2 虾蟆",
+            "虾 xia1 虾兵蟹将"
+        ],
+        "text": "他们在比赛中，虾兵蟹将般的对决，结果却像虾蟆一样，毫无悬念。",
+        "pinyin": "ta1 men zai4 bi3 sai4 zhong1，xia1 bing1 xie4 jiang4 ban1 de dui4 jue2，jie2 guo3 que4 xiang4 ha2 ma2 yi1 yang4，hao2 wu2 xuan2 nian4。"
+    },
+    {
+        "id": "000344",
+        "source": "汉语多音字",
+        "words": [
+            "杉 sha1 杉木",
+            "杉 shan1 水杉"
+        ],
+        "text": "在湖边，我看到了一片郁郁葱葱的杉木，还有一些优雅的水杉倒映在清澈的湖水中。",
+        "pinyin": "zai4 hu2 bian1，wo3 kan4 dao4 le yi1 pian4 yu4 yu4 cong1 cong1 de sha1 mu4，hai2 you3 yi1 xie1 you1 ya3 de shui3 shan1 dao4 ying4 zai4 qing1 che4 de hu2 shui3 zhong1。"
+    },
+    {
+        "id": "000345",
+        "source": "汉语多音字",
+        "words": [
+            "券 quan4 证券交易所",
+            "券 xuan4 拱券"
+        ],
+        "text": "他在证券交易所买卖股票，而桥梁上的拱券设计独特，展现了工程师的智慧。",
+        "pinyin": "ta1 zai4 zheng4 quan4 jiao1 yi4 suo3 mai3 mai4 gu3 piao4，er2 qiao2 liang2 shang4 de gong3 xuan4 she4 ji4 du2 te4，zhan3 xian4 le gong1 cheng2 shi1 de zhi4 hui4。"
+    },
+    {
+        "id": "000346",
+        "source": "汉语多音字",
+        "words": [
+            "喳 cha1 喳喳（形容小声说话）",
+            "喳 zha1 唧唧喳喳"
+        ],
+        "text": "他们在角落里唧唧喳喳地聊着天，喳喳地议论着学校里的八卦。",
+        "pinyin": "ta1 men zai4 jiao3 luo4 li3 ji1 ji1 zha1 zha1 di4 liao2 zhe tian1，zha1 zha1 di4 yi4 lun4 zhe xue2 xiao4 li3 de ba1 gua4。"
+    },
+    {
+        "id": "000347",
+        "source": "汉语多音字",
+        "words": [
+            "撩 liao1 撩起",
+            "撩 liao2 撩乱"
+        ],
+        "text": "她用手指轻轻撩起头发，却不小心把头发撩乱了。",
+        "pinyin": "ta1 yong4 shou3 zhi3 qing1 qing1 liao1 qi3 tou2 fa1，que4 bu4 xiao3 xin1 ba3 tou2 fa1 liao2 luan4 le。"
+    },
+    {
+        "id": "000348",
+        "source": "汉语多音字",
+        "words": [
+            "藉 ji2 杯盘狼藉",
+            "藉 jie4 慰藉"
+        ],
+        "text": "他看到屋内杯盘狼藉，心中感到需要一些慰藉。",
+        "pinyin": "ta1 kan4 dao4 wu1 nei4 bei1 pan2 lang2 ji2，xin1 zhong1 gan3 dao4 xu1 yao4 yi1 xie1 wei4 jie4。"
+    },
+    {
+        "id": "000349",
+        "source": "汉语多音字",
+        "words": [
+            "膏 gao1 卖狗皮膏药",
+            "膏 gao4 膏油（灯油）"
+        ],
+        "text": "他卖狗皮膏药的本事，比起炼制膏油来，更加出色。",
+        "pinyin": "ta1 mai4 gou3 pi2 gao1 yao4 de ben3 shi4，bi3 qi3 lian4 zhi4 gao1 you2 lai2，geng4 jia1 chu1 se4。"
+    },
+    {
+        "id": "000350",
+        "source": "汉语多音字",
+        "words": [
+            "跄 qiang1 跄跄（形容走路有节奏的样子）",
+            "跄 qiang4 踉跄（形容走路不稳的样子）"
+        ],
+        "text": "他踉跄地走着，步伐跄跄，像是在跳舞一样。",
+        "pinyin": "ta1 liang4 qiang4 di4 zou3 zhe，bu4 fa2 qiang1 qiang1，xiang4 shi4 zai4 tiao4 wu3 yi1 yang4。"
+    },
+    {
+        "id": "000351",
+        "source": "汉语多音字",
+        "words": [
+            "栖 qi1 两栖植物",
+            "栖 xi1 栖栖（忙碌不安的样子）"
+        ],
+        "text": "他研究的是两栖植物，而我看到的是他栖栖不安的样子，好像有什么心事。",
+        "pinyin": "ta1 yan2 jiu1 de shi4 liang3 qi1 zhi2 wu4，er2 wo3 kan4 dao4 de shi4 ta1 xi1 xi1 bu4 an1 de yang4 zi，hao3 xiang4 you3 shen2 me xin1 shi4。"
+    },
+    {
+        "id": "000352",
+        "source": "汉语多音字",
+        "words": [
+            "唠 lao2 叨唠",
+            "唠 lao4 唠嗑"
+        ],
+        "text": "她总是喜欢叨唠，不停地唠嗑，让人有些烦躁。",
+        "pinyin": "ta1 zong3 shi4 xi3 huan1 dao1 lao2，bu4 ting2 di4 lao4 ke1，rang4 ren2 you3 xie1 fan2 zao4。"
+    },
+    {
+        "id": "000353",
+        "source": "汉语多音字",
+        "words": [
+            "倔 jue2 倔强",
+            "倔 jue4 倔头倔脑"
+        ],
+        "text": "他这个人性格倔强，总是倔头倔脑地坚持自己的想法。",
+        "pinyin": "ta1 zhe4 ge4 ren2 xing4 ge2 jue2 jiang4，zong3 shi4 jue4 tou jue4 nao3 di4 jian1 chi2 zi4 ji3 de xiang3 fa3。"
+    },
+    {
+        "id": "000354",
+        "source": "汉语多音字",
+        "words": [
+            "华 hua2 年华",
+            "华 hua4 华山"
+        ],
+        "text": "他正值年华，梦想登上华山，展望未来的华丽风景。",
+        "pinyin": "ta1 zheng4 zhi2 nian2 hua2，meng4 xiang3 deng1 shang4 hua4 shan1，zhan3 wang4 wei4 lai2 de hua2 li4 feng1 jing3。"
+    },
+    {
+        "id": "000355",
+        "source": "汉语多音字",
+        "words": [
+            "论 lun2 论语",
+            "论 lun4 论坛"
+        ],
+        "text": "他在论坛上发表了关于论语的观点。",
+        "pinyin": "ta1 zai4 lun4 tan2 shang4 fa1 biao3 le guan1 yu2 lun2 yu3 de guan1 dian3。"
+    },
+    {
+        "id": "000356",
+        "source": "汉语多音字",
+        "words": [
+            "待 dai1 待会",
+            "待 dai4 期待"
+        ],
+        "text": "我会在这里待会儿，期待着你的到来。",
+        "pinyin": "wo3 hui4 zai4 zhe4 li3 dai4 hui4 er，qi1 dai4 zhe ni3 de dao4 lai2。"
+    },
+    {
+        "id": "000357",
+        "source": "汉语多音字",
+        "words": [
+            "查 cha2 查看",
+            "查 zha1 查(姓)"
+        ],
+        "text": "我需要查看一下这份文件，里面可能有查姓的相关信息。",
+        "pinyin": "wo3 xu1 yao4 cha2 kan4 yi1 xia4 zhe4 fen4 wen2 jian4，li3 mian4 ke3 neng2 you3 cha2 xing4 de xiang1 guan1 xin4 xi1。"
+    },
+    {
+        "id": "000358",
+        "source": "汉语多音字",
+        "words": [
+            "适 kuo4 适(姓),适 shi4 安适"
+        ],
+        "text": "适姓的人安适地生活。",
+        "pinyin": "shi4 xing4 de ren2 an1 shi4 di4 sheng1 huo2。"
+    },
+    {
+        "id": "000359",
+        "source": "汉语多音字",
+        "words": [
+            "哼 heng1 哼哈二将",
+            "哼 hng5 哼"
+        ],
+        "text": "他们哼哈二将，哼声传来，让人感到一种无奈的气氛。",
+        "pinyin": "ta1 men heng1 ha1 er4 jiang4，heng1 sheng1 chuan2 lai2，rang4 ren2 gan3 dao4 yi1 zhong3 wu2 nai4 de qi4 fen1。"
+    },
+    {
+        "id": "000360",
+        "source": "汉语多音字",
+        "words": [
+            "挡 dang3 势不可挡",
+            "挡 dang4 搭档"
+        ],
+        "text": "他的表现势不可挡，与他的搭档配合默契，无人能挡。",
+        "pinyin": "ta1 de biao3 xian4 shi4 bu4 ke3 dang3，yu3 ta1 de da1 dang4 pei4 he2 mo4 qi4，wu2 ren2 neng2 dang3。"
+    },
+    {
+        "id": "000361",
+        "source": "汉语多音字",
+        "words": [
+            "仇 chou2 仇怨",
+            "仇 qiu2 仇(姓)"
+        ],
+        "text": "他们之间的仇怨已经深入骨髓，而他的姓氏仇却是一段历史的见证。",
+        "pinyin": "ta1 men zhi1 jian1 de chou2 yuan4 yi3 jing1 shen1 ru4 gu3 sui3，er2 ta1 de xing4 shi4 chou2 que4 shi4 yi1 duan4 li4 shi3 de jian4 zheng4。"
+    },
+    {
+        "id": "000362",
+        "source": "汉语多音字",
+        "words": [
+            "屯 tun2 屯兵",
+            "屯 zhun1 屯蹇"
+        ],
+        "text": "为了应对可能的屯蹇，军队开始在边境地区屯兵，以备不时之需。",
+        "pinyin": "wei4 le ying4 dui4 ke3 neng2 de tun2 jian3，jun1 dui4 kai1 shi3 zai4 bian1 jing4 di4 qu1 tun2 bing1，yi3 bei4 bu4 shi2 zhi1 xu1。"
+    },
+    {
+        "id": "000363",
+        "source": "汉语多音字",
+        "words": [
+            "嵌 kan4 赤嵌(地名,位于中国台湾省)",
+            "嵌 qian4 镶嵌"
+        ],
+        "text": "这件古董器物上镶嵌着精美的宝石，仿佛是赤嵌山的一抹璀璨。",
+        "pinyin": "zhe4 jian4 gu3 dong3 qi4 wu4 shang4 xiang1 qian4 zhe jing1 mei3 de bao3 shi2，fang3 fu2 shi4 chi4 qian4 shan1 de yi1 mo3 cui3 can4。"
+    },
+    {
+        "id": "000364",
+        "source": "汉语多音字",
+        "words": [
+            "肋 le1 肋脦(形容衣服不整洁)",
+            "肋 lei4 肋骨"
+        ],
+        "text": "她穿着的衣服肋脦不整洁，露出了肋骨。",
+        "pinyin": "ta1 chuan1 zhe de yi1 fu2 le1 de bu4 zheng3 jie2，lu4 chu1 le lei4 gu3。"
+    },
+    {
+        "id": "000365",
+        "source": "汉语多音字",
+        "words": [
+            "凹 ao1 凹陷",
+            "凹 wa1 贾平凹"
+        ],
+        "text": "这个地方地势低洼，出现了一个明显的凹陷，正如贾平凹笔下的乡村风情，充满了朴实和生活气息。",
+        "pinyin": "zhe4 ge4 di4 fang1 di4 shi4 di1 wa1，chu1 xian4 le yi2 ge4 ming2 xian3 de ao1 xian4，zheng4 ru2 jia3 ping2 ao1 bi3 xia4 de xiang1 cun1 feng1 qing2，chong1 man3 le pu3 shi2 he2 sheng1 huo2 qi4 xi1。"
+    },
+    {
+        "id": "000366",
+        "source": "汉语多音字",
+        "words": [
+            "脯 fu3 肉脯",
+            "脯 pu2 胸脯"
+        ],
+        "text": "她喜欢吃肉脯，但更注重保持胸脯的挺拔。",
+        "pinyin": "ta1 xi3 huan1 chi1 rou4 pu2，dan4 geng4 zhu4 zhong4 bao3 chi2 xiong1 pu2 de ting3 ba2。"
+    },
+    {
+        "id": "000367",
+        "source": "汉语多音字",
+        "words": [
+            "彷 fang3 彷佛(同仿佛)",
+            "彷 pang2 彷徨"
+        ],
+        "text": "他的步伐彷佛轻盈飘逸，但内心却彷徨不定，仿佛迷失在无边的迷雾之中。",
+        "pinyin": "ta1 de bu4 fa2 pang2 fo2 qing1 ying2 piao1 yi4，dan4 nei4 xin1 que4 pang2 huang2 bu4 ding4，fang3 fu2 mi2 shi1 zai4 wu2 bian1 de mi2 wu4 zhi1 zhong1。"
+    },
+    {
+        "id": "000368",
+        "source": "汉语多音字",
+        "words": [
+            "裳 chang2 霓裳舞",
+            "裳 shang5 衣裳"
+        ],
+        "text": "她身着美丽的衣裳，跳起了优美的霓裳舞。",
+        "pinyin": "ta1 shen1 zhe mei3 li4 de yi1 shang，tiao4 qi3 le you1 mei3 de ni2 chang2 wu3。"
+    },
+    {
+        "id": "000369",
+        "source": "汉语多音字",
+        "words": [
+            "茜 qian4 茜草",
+            "茜 xi1 茜(人名用字)"
+        ],
+        "text": "她在田间采集了一束茜草，这束茜草散发着淡淡的清香，仿佛是为了迎接张茜这位美丽的女孩。",
+        "pinyin": "ta1 zai4 tian2 jian1 cai3 ji2 le yi1 shu4 xi1 cao3，zhe4 shu4 xi1 cao3 san4 fa4 zhe dan4 dan4 de qing1 xiang1，fang3 fu2 shi4 wei4 le ying2 jie1 zhang1 qian4 zhe4 wei4 mei3 li4 de nv3 hai2。"
+    },
+    {
+        "id": "000370",
+        "source": "汉语多音字",
+        "words": [
+            "衰 cui1 等衰(从上到下的次序)",
+            "衰 shuai1 衰老"
+        ],
+        "text": "尽管时间是残酷的审判者，一代新人胜旧人的等衰秩序，却也让他逐渐衰老。",
+        "pinyin": "jin3 guan3 shi2 jian1 shi4 can2 ku4 de shen3 pan4 zhe3，yi2 dai4 xin1 ren2 sheng4 jiu4 ren2 de deng3 shuai1 zhi4 xu4，que4 ye3 rang4 ta1 zhu2 jian4 shuai1 lao3。"
+    },
+    {
+        "id": "000371",
+        "source": "汉语多音字",
+        "words": [
+            "契 qi4 文契",
+            "契 xie4 契"
+        ],
+        "text": "他们签订了一份文契，以纪念他们的祖先契氏。",
+        "pinyin": "ta1 men qian1 ding4 le yi1 fen4 wen2 qi4，yi3 ji4 nian4 ta1 men de zu3 xian1 qi4 shi4。"
+    },
+    {
+        "id": "000372",
+        "source": "汉语多音字",
+        "words": [
+            "冯 feng2 冯(姓)",
+            "冯 ping2 暴虎冯河(比喻有勇无谋)"
+        ],
+        "text": "他虽然姓冯，但在面对困难时却像是暴虎冯河，显露出有勇无谋的一面。",
+        "pinyin": "ta1 sui1 ran2 xing4 feng2，dan4 zai4 mian4 dui4 kun4 nan2 shi2 que4 xiang4 shi4 bao4 hu3 ping2 he2，xian3 lu4 chu1 you3 yong3 wu2 mou2 de yi2 mian4。"
+    },
+    {
+        "id": "000373",
+        "source": "汉语多音字",
+        "words": [
+            "莎 sha1 蒙娜丽莎",
+            "莎 suo1 莎草"
+        ],
+        "text": "她在画布上绘制了蒙娜丽莎的微笑，用莎草勾勒出了一幅美丽的风景。",
+        "pinyin": "ta1 zai4 hua4 bu4 shang4 hui4 zhi4 le meng2 na4 li4 sha1 de wei1 xiao4，yong4 suo1 cao3 gou1 le4 chu1 le yi1 fu2 mei3 li4 de feng1 jing3。"
+    },
+    {
+        "id": "000374",
+        "source": "汉语多音字",
+        "words": [
+            "汤 shang1 浩浩汤汤",
+            "汤 tang1 汤泉"
+        ],
+        "text": "汤泉的水浩浩汤汤，宛如未来的希望。",
+        "pinyin": "tang1 quan2 de shui3 hao4 hao4 shang1 shang1，wan3 ru2 wei4 lai2 de xi1 wang4。"
+    },
+    {
+        "id": "000375",
+        "source": "汉语多音字",
+        "words": [
+            "膀 bang4 翅膀",
+            "膀 pang1 膀胱"
+        ],
+        "text": "他展开翅膀，飞翔在蓝天上，感受到了自由的美好；医生检查时发现他的膀胱有些问题，需要进一步治疗。",
+        "pinyin": "ta1 zhan3 kai1 chi4 bang3，fei1 xiang2 zai4 lan2 tian1 shang4，gan3 shou4 dao4 le zi4 you2 de mei3 hao3；yi1 sheng1 jian3 cha2 shi2 fa1 xian4 ta1 de pang2 guang1 you3 xie1 wen4 ti2，xu1 yao4 jin4 yi2 bu4 zhi4 liao2。"
+    },
+    {
+        "id": "000376",
+        "source": "汉语多音字",
+        "words": [
+            "邪 xie2 邪门歪道",
+            "邪 ye2 莫邪"
+        ],
+        "text": "他行事邪门歪道，却像莫邪一样，让人难以捉摸。",
+        "pinyin": "ta1 xing2 shi4 xie2 men2 wai1 dao4，que4 xiang4 mo4 xie2 yi1 yang4，rang4 ren2 nan2 yi3 zhuo1 mo1。"
+    },
+    {
+        "id": "000377",
+        "source": "汉语多音字",
+        "words": [
+            "遗 wei4 遗送(赠送)",
+            "遗 yi2 遗物"
+        ],
+        "text": "他决定遗送这些珍贵的遗物给博物馆，以表达对历史的尊重。",
+        "pinyin": "ta1 jue2 ding4 yi2 song4 zhe4 xie1 zhen1 gui4 de yi2 wu4 gei3 bo2 wu4 guan3，yi3 biao3 da2 dui4 li4 shi3 de zun1 zhong4。"
+    },
+    {
+        "id": "000378",
+        "source": "汉语多音字",
+        "words": [
+            "地 de5 认真地",
+            "地 di4 地壳"
+        ],
+        "text": "他工作认真地完成了任务，揭示了地壳的奥秘。",
+        "pinyin": "ta1 gong1 zuo4 ren4 zhen1 di4 wan2 cheng2 le ren4 wu4，jie1 shi4 le di4 qiao4 de ao4 mi4。"
+    },
+    {
+        "id": "000379",
+        "source": "汉语多音字",
+        "words": [
+            "经 jing1 已经",
+            "经 jing4 经纱"
+        ],
+        "text": "她已经织好了这块经纱，展现出了她的绝妙技艺。",
+        "pinyin": "ta1 yi3 jing1 zhi1 hao3 le zhe4 kuai4 jing1 sha1，zhan3 xian4 chu1 le ta1 de jue2 miao4 ji4 yi4。"
+    },
+    {
+        "id": "000380",
+        "source": "汉语多音字",
+        "words": [
+            "任 ren2 任(姓)",
+            "任 ren4 现任"
+        ],
+        "text": "他是姓任的，现任公司的总经理。",
+        "pinyin": "ta1 shi4 xing4 ren2 de，xian4 ren4 gong1 si1 de zong3 jing1 li3。"
+    },
+    {
+        "id": "000381",
+        "source": "汉语多音字",
+        "words": [
+            "合 ge3 朝升幕合(零碎卖米，形容生活困难)",
+            "合 he2 集合"
+        ],
+        "text": "在朝升幕合的年代，人们只能靠零碎卖米维持生计，但他们仍然能够团结一致，集合在一起面对困难。",
+        "pinyin": "zai4 chao2 sheng1 mu4 he2 de nian2 dai4，ren2 men zhi3 neng2 kao4 ling2 sui4 mai4 mi3 wei2 chi2 sheng1 ji4，dan4 ta1 men reng2 ran2 neng2 gou4 tuan2 jie2 yi1 zhi4，ji2 he2 zai4 yi4 qi3 mian4 dui4 kun4 nan2。"
+    },
+    {
+        "id": "000382",
+        "source": "汉语多音字",
+        "words": [
+            "化 hua1 叫化子(乞丐)",
+            "化 hua4 企业化"
+        ],
+        "text": "随着社会的发展，一些传统行业经历了企业化改造，而叫化子逐渐消失在城市的角落。",
+        "pinyin": "sui2 zhe she4 hui4 de fa1 zhan3，yi1 xie1 chuan2 tong3 hang2 ye4 jing1 li4 le qi3 ye4 hua4 gai3 zao4，er2 jiao4 hua4 zi zhu2 jian4 xiao1 shi1 zai4 cheng2 shi4 de jiao3 luo4。"
+    },
+    {
+        "id": "000383",
+        "source": "汉语多音字",
+        "words": [
+            "石 dan4 二千石",
+            "石 shi2 化石"
+        ],
+        "text": "在这片土地上，发现了许多化石，其中有一块二千石重，引起了考古学家们的极大兴趣。",
+        "pinyin": "zai4 zhe4 pian4 tu3 di4 shang4，fa1 xian4 le xu3 duo1 hua4 shi2，qi2 zhong1 you3 yi1 kuai4 er4 qian1 shi2 zhong4，yin3 qi3 le kao3 gu3 xue2 jia1 men de ji2 da4 xing4 qu4。"
+    },
+    {
+        "id": "000384",
+        "source": "汉语多音字",
+        "words": [
+            "沌 dun4 混沌",
+            "沌 zhuan4 沌口(地名)"
+        ],
+        "text": "那片混沌的土地上，坐落着沌口这个古老的地名。",
+        "pinyin": "na4 pian4 hun4 dun4 de tu3 di4 shang4，zuo4 luo4 zhe dun4 kou3 zhe4 ge4 gu3 lao3 de di4 ming2。"
+    },
+    {
+        "id": "000385",
+        "source": "汉语多音字",
+        "words": [
+            "涡 guo1 涡河(水名)",
+            "涡 wo1 旋涡"
+        ],
+        "text": "他站在涡河边，看着河中的旋涡，心情愉悦。",
+        "pinyin": "ta1 zhan4 zai4 guo1 he2 bian1，kan4 zhe he2 zhong1 de xuan2 wo1，xin1 qing2 yu2 yue4。"
+    },
+    {
+        "id": "000386",
+        "source": "汉语多音字",
+        "words": [
+            "过 guo1 过(姓)",
+            "过 guo4 过分"
+        ],
+        "text": "他姓过，但他的行为却过分了。",
+        "pinyin": "ta1 xing4 guo4，dan4 ta1 de xing2 wei2 que4 guo4 fen4 le。"
+    },
+    {
+        "id": "000387",
+        "source": "汉语多音字",
+        "words": [
+            "和 hu2 和了(打麻将赢了)"
+        ],
+        "text": "他们一起打麻将，最终和了，赢了一大笔钱。",
+        "pinyin": "ta1 men yi4 qi3 da3 ma2 jiang1，zui4 zhong1 hu2 le，ying2 le yi1 da4 bi3 qian2。"
+    },
+    {
+        "id": "000388",
+        "source": "汉语多音字",
+        "words": [
+            "种 chong2 种(姓)"
+        ],
+        "text": "这个姓种的人在这个地区非常有名。",
+        "pinyin": "zhe4 ge4 xing4 zhong3 de ren2 zai4 zhe4 ge4 di4 qu1 fei1 chang2 you3 ming2。"
+    },
+    {
+        "id": "000389",
+        "source": "汉语多音字",
+        "words": [
+            "边 bian1 边缘",
+            "边 bian5 前边"
+        ],
+        "text": "他站在山的边缘，眺望着远处的前边，心中充满了期待和不安。",
+        "pinyin": "ta1 zhan4 zai4 shan1 de bian1 yuan2，tiao4 wang4 zhe yuan3 chu4 de qian2 bian1，xin1 zhong1 chong1 man3 le qi1 dai4 he2 bu4 an1。"
+    },
+    {
+        "id": "000390",
+        "source": "汉语多音字",
+        "words": [
+            "其 ji1 郦食其(人名,汉朝人)",
+            "其 qi2 极其"
+        ],
+        "text": "郦食其是汉朝人，他的作品极其精彩。",
+        "pinyin": "li4 yi4 ji1 shi4 han4 chao2 ren2，ta1 de zuo4 pin3 ji2 qi2 jing1 cai3。"
+    },
+    {
+        "id": "000391",
+        "source": "汉语多音字",
+        "words": [
+            "并 bing1 并州(古地名)",
+            "并 bing4 并且"
+        ],
+        "text": "他并州出生，勤奋并且努力，终于实现了自己的梦想。",
+        "pinyin": "ta1 bing1 zhou1 chu1 sheng1，qin2 fen4 bing4 qie3 nu3 li4，zhong1 yu2 shi2 xian4 le zi4 ji3 de meng4 xiang3。"
+    },
+    {
+        "id": "000392",
+        "source": "汉语多音字",
+        "words": [
+            "员 yuan2 人员",
+            "员 yun2 员(用于人名)",
+            "员 yun4 员(姓)"
+        ],
+        "text": "公司招聘了新的人员，其中有一个姓员，一个叫张员。",
+        "pinyin": "gong1 si1 zhao1 pin4 le xin1 de ren2 yuan2，qi2 zhong1 you3 yi2 ge4 xing4 yuan2，yi2 ge4 jiao4 zhang1 yuan2。"
+    },
+    {
+        "id": "000393",
+        "source": "汉语多音字",
+        "words": [
+            "父 fu3 渔夫",
+            "父 fu4 夸父追日"
+        ],
+        "text": "传说中，夸父追日的父亲是一位勇敢的渔夫。",
+        "pinyin": "chuan2 shuo1 zhong1，kua1 fu4 zhui1 ri4 de fu4 qin1 shi4 yi1 wei4 yong3 gan3 de yu2 fu1。"
+    },
+    {
+        "id": "000394",
+        "source": "汉语多音字",
+        "words": [
+            "各 ge3 各(特别,多指人的性格与众不同,含贬义)",
+            "各 ge4 各别"
+        ],
+        "text": "他的行为显得有些各别，经常被人认为是一个各的人。",
+        "pinyin": "ta1 de xing2 wei2 xian3 de you3 xie1 ge4 bie2，jing1 chang2 bei4 ren2 ren4 wei2 shi4 yi2 ge4 ge4 de ren2。"
+    },
+    {
+        "id": "000395",
+        "source": "汉语多音字",
+        "words": [
+            "跑 pao2 虎跑泉(泉名)",
+            "跑 pao3 跑步"
+        ],
+        "text": "他每天早晨喜欢在虎跑泉边跑步，享受清新的空气和宁静的环境。",
+        "pinyin": "ta1 mei3 tian1 zao3 chen2 xi3 huan1 zai4 hu3 pao2 quan2 bian1 pao3 bu4，xiang3 shou4 qing1 xin1 de kong1 qi4 he2 ning2 jing4 de huan2 jing4。"
+    },
+    {
+        "id": "000396",
+        "source": "汉语多音字",
+        "words": [
+            "秘 bi4 秘鲁(国家)",
+            "秘 mi4 秘密"
+        ],
+        "text": "他们讨论的话题是秘鲁，但其中却隐藏着许多秘密。",
+        "pinyin": "ta1 men tao3 lun4 de hua4 ti2 shi4 bi4 lu3，dan4 qi2 zhong1 que4 yin3 cang2 zhe xu3 duo1 mi4 mi4。"
+    },
+    {
+        "id": "000397",
+        "source": "汉语多音字",
+        "words": [
+            "熟 shou2 溜熟",
+            "熟 shu2 成熟"
+        ],
+        "text": "他的技艺溜熟，每一步都显得非常熟练，展现出了一名成熟的专家应有的风采。",
+        "pinyin": "ta1 de ji4 yi4 liu1 shu2，mei3 yi1 bu4 dou1 xian3 de fei1 chang2 shu2 lian4，zhan3 xian4 chu1 le yi1 ming2 cheng2 shu2 de zhuan1 jia1 ying1 you3 de feng1 cai3。"
+    },
+    {
+        "id": "000398",
+        "source": "汉语多音字",
+        "words": [
+            "齐 ji4 时运不济",
+            "齐 qi2 齐名"
+        ],
+        "text": "他们本来齐名，但时运不济，导致现在齐名的局面已经不复存在。",
+        "pinyin": "ta1 men ben3 lai2 qi2 ming2，dan4 shi2 yun4 bu4 ji4，dao3 zhi4 xian4 zai4 qi2 ming2 de ju2 mian4 yi3 jing1 bu4 fu4 cun2 zai4。"
+    },
+    {
+        "id": "000399",
+        "source": "汉语多音字",
+        "words": [
+            "广 an1 广渠门(北京外城城墙的一座城门)",
+            "广 guang3 广大"
+        ],
+        "text": "他站在广渠门前，眺望着广大庭院，人群熙熙攘攘，热闹非凡。",
+        "pinyin": "ta1 zhan4 zai4 guang3 qu2 men2 qian2，tiao4 wang4 zhe guang3 da4 ting2 yuan4，ren2 qun2 xi1 xi1 rang3 rang3，re4 nao4 fei1 fan2。"
+    },
+    {
+        "id": "000400",
+        "source": "汉语多音字",
+        "words": [
+            "岗 gang1 花岗岩",
+            "岗 gang3 站岗"
+        ],
+        "text": "在这座山上，花岗岩构成了绝美的景色，站岗的士兵守护着这片土地。",
+        "pinyin": "zai4 zhe4 zuo4 shan1 shang4，hua1 gang3 yan2 gou4 cheng2 le jue2 mei3 de jing3 se4，zhan4 gang3 di1 shi4 bing1 shou3 hu4 zhe zhe4 pian4 tu3 di4。"
+    },
+    {
+        "id": "000401",
+        "source": "汉语多音字",
+        "words": [
+            "那 na1 那(姓)",
+            "那 na4 那会儿"
+        ],
+        "text": "那会儿，那老师给我们上了一堂难忘的历史课。",
+        "pinyin": "na4 hui4 er，na4 lao3 shi1 gei3 wo3 men shang4 le yi1 tang2 nan2 wang4 de li4 shi3 ke4。"
+    },
+    {
+        "id": "000402",
+        "source": "汉语多音字",
+        "words": [
+            "哪 na5 嗯哪",
+            "哪 ne2 哪吒"
+        ],
+        "text": "他画了一幅哪吒的画，问我：“嗯哪，这个像不像？”",
+        "pinyin": "ta1 hua4 le yi1 fu2 ne2 zha1 de hua4，wen4 wo3：“n2 na3，zhe4 ge4 xiang4 bu4 xiang4？”"
+    }
+]
