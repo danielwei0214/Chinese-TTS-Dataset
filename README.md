@@ -138,7 +138,7 @@ prompt = f"""
 在制作“汉语文本转语音（TTS）数据集”的过程中，我们使用了以下资源和工具：
 
 - [普通话学习网](http://www.pthxx.com/b_audio/01_langdu_1/index_2.html) 提供的普通话水平测试内容。
-- [字频语料库（25亿字）](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm) 提供的多音字统计数据。
+- [字频语料库（25亿字）](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm) 提供的汉语字频统计数据。
 - [中英混杂语料ASRU测试集](https://www.datatang.com/competition) 提供的中英混杂文本数据。
 - [Google万亿字语料库](https://github.com/first20hours/google-10000-english) 提供的n-gram频率分析数据。
 - [GitHub特殊符号语料](https://github.com/wenet-e2e/WeTextProcessing) 提供的特殊符号及数字数据。
