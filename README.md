@@ -82,21 +82,21 @@
 **引用声明**
 如果您在研究或其他项目中使用了“汉语TTS测试集”，请注明数据集的来源，并使用以下引用格式：
 ```markdown
-汉语TTS测试集 | Chinese TTS Test Set:  
+汉语文本转语音（TTS）数据集| Chinese TTS Dataset:  
 https://github.com/danielwei0214/Mandarin-Chinese-Syllable-Dataset
 ```
 通过适当的引用，您帮助我们提升数据集的影响力并支持进一步的研究与开发。
 
 ## 致谢
 
-在制作“汉语TTS测试集”的过程中，我们使用了以下资源和工具：
+在制作“汉语文本转语音（TTS）数据集”的过程中，我们使用了以下资源和工具：
 
 - [普通话学习网](http://www.pthxx.com/b_audio/01_langdu_1/index_2.html) 提供的普通话水平测试内容。
 - [字频语料库（25亿字）](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm) 提供的多音字统计数据。
-- 多个版本的现代汉语教材，包括《现代汉语》（邢福义版）、《普通话水平测试指导用书》（江苏版）、《普通话测试与培训教程》（科学出版社）、《普通话水平测试教程》（原子能出版社）。
 - [中英混杂语料ASRU测试集](https://www.datatang.com/competition) 提供的中英混杂文本数据。
 - [Google万亿字语料库](https://github.com/first20hours/google-10000-english) 提供的n-gram频率分析数据。
 - [GitHub特殊符号语料](https://github.com/wenet-e2e/WeTextProcessing) 提供的特殊符号及数字数据。
 - [《现代汉语词典》第7版数据](https://github.com/CNMan/XDHYCD7th) 提供的现代汉语词汇数据。
+- 多个版本的现代汉语教材，包括《现代汉语》（邢福义版）、《普通话水平测试指导用书》（江苏版）、《普通话测试与培训教程》（科学出版社）、《普通话水平测试教程》（原子能出版社）。
 
 我们对这些资源的贡献者表示衷心的感谢。
